@@ -89,6 +89,11 @@ r.querySelector('.sw-ctrl').hidden=false;show(0);start()})();</script><script>
     card.querySelectorAll('.qz-opt').forEach(function(b){b.addEventListener('click',function(){answer(b)})});
     var prev=store('qz-'+card.getAttribute('data-qz'));   /* returning reader sees their earlier answer */
     if(prev!==null&&prev!==undefined){var b=card.querySelectorAll('.qz-opt')[prev];if(b)answer(b,true)}
+    else{ /* answer picked in the email: ?pick=A..D opens the card already answered */
+      var pk=(new URLSearchParams(location.search).get('pick')||'').toUpperCase(), i='ABCD'.indexOf(pk);
+      var bb=i>=0?card.querySelectorAll('.qz-opt')[i]:null;
+      if(bb){answer(bb);setTimeout(function(){card.scrollIntoView({behavior:'smooth',block:'center'})},150)}
+    }
     paintStreak(card);
   });
 })();
