@@ -40,3 +40,20 @@ assert 'href="2026-11-03.html">← Previous edition' in draft
 assert 'data-qz="2026-11-06"' in draft
 assert 'eomail5.com/form/4273f0aa-d6f8-11f1-9638-4b187b7e1294.js' in (root/'index.html').read_text()
 print(f'PASS: {checked} internal links/assets/anchors; latest/archive metadata; previous edition; dated trivia; unchanged EmailOctopus signup embed')
+
+# Every dated share control uses this edition URL and current approved title.
+from html import unescape
+from urllib.parse import parse_qs
+current_title = unescape(re.search(r"<title>(.*?)</title>", draft).group(1))
+current_url = "https://worldskim.com/editions/2026-11-06.html"
+share_links = [link for link in pages[(root/"editions/2026-11-06.html").resolve()].links
+               if any(marker in link for marker in ("mailto:?subject=", "facebook.com/sharer/", "twitter.com/intent/", "threads.net/intent/", "linkedin.com/sharing/", "reddit.com/submit", "wa.me/?"))]
+assert len(share_links) == 9
+for link in share_links:
+    query = parse_qs(urlsplit(link).query)
+    flat = " ".join(value for values in query.values() for value in values)
+    assert current_url in flat, (link, "stale share URL")
+    assert "2026-11-03" not in flat and "America votes." not in flat, (link, "stale sharing metadata")
+    if "text" in query or "title" in query or (link.startswith("mailto:") and query.get("subject", [""])[0] != "You should read World Skim"):
+        assert current_title in flat, (link, "current title absent")
+print("PASS: all 9 share controls use current Nov6 URL; edition-sharing text uses exact current Title Case title")
