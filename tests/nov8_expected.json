@@ -14,7 +14,7 @@
       ],
       "region": "us",
       "photo": {
-        "image_url": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1280&h=720&q=85",
+        "image_url": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?fm=jpg&fit=crop&w=1280&h=720&q=85",
         "original_url": "https://unsplash.com/photos/white-truck-on-road-during-daytime-GBVDilE8yvI",
         "alt": "Freight truck on a road; illustrative file photo.",
         "verified": true
@@ -29,7 +29,7 @@
       ],
       "region": "world",
       "photo": {
-        "image_url": "https://images.unsplash.com/photo-1734954911931-ce154d6b8dfb?auto=format&fit=crop&w=1280&h=720&q=85",
+        "image_url": "https://images.unsplash.com/photo-1734954911931-ce154d6b8dfb?fm=jpg&fit=crop&w=1280&h=720&q=85",
         "original_url": "https://unsplash.com/photos/a-tall-tower-with-a-clock-on-the-top-of-it-d2W9mh8xzjQ",
         "alt": "Town Hall Tower in Krakow Main Square; file photo.",
         "verified": true
@@ -44,7 +44,7 @@
       ],
       "region": "world",
       "photo": {
-        "image_url": "https://images.unsplash.com/photo-1631599143419-ea8539ed4fbd?auto=format&fit=crop&w=1280&h=720&q=85",
+        "image_url": "https://images.unsplash.com/photo-1631599143419-ea8539ed4fbd?fm=jpg&fit=crop&w=1280&h=720&q=85",
         "original_url": "https://unsplash.com/photos/a-tall-building-with-a-flag-on-top-of-it-0JcnEKSICoM",
         "alt": "University building in Hamamatsu; contextual file photo.",
         "verified": true
@@ -62,7 +62,7 @@
     ],
     "region": "world",
     "photo": {
-      "image_url": "https://images.unsplash.com/photo-1587297069400-6cc5da81658a?auto=format&fit=crop&w=1280&h=720&q=85",
+      "image_url": "https://images.unsplash.com/photo-1587297069400-6cc5da81658a?fm=jpg&fit=crop&w=1280&h=720&q=85",
       "original_url": "https://unsplash.com/photos/aerial-view-of-city-during-daytime-MTj3H5EwiBg",
       "alt": "Jerusalem skyline and historic cemetery; contextual file photo.",
       "verified": true
@@ -128,5 +128,5 @@
   },
   "date_line": "Sunday, November 8, 2026 · 6 min read",
   "brand": "worldskim",
-  "source_web_sha256": "881ba263a084f816b558f61728bc2720ea34cde64eb7e196a6e1b3aa9416f3b8"
+  "source_web_sha256": "a7e8df2393a7d2910245785eb1dd3f58e8988ad251f6e33f8880541a8d68b3c9"
 }
