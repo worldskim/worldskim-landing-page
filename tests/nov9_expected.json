@@ -1,0 +1,382 @@
+{
+  "brand": "worldskim",
+  "date": "2026-11-09",
+  "old": "2026-11-08",
+  "content": {
+    "title": "Climate Talks Open.\nGaza Shelters Fail.\nIraq Seeks an Oil Route.",
+    "subject": "Climate Talks Open. Gaza Shelters Fail. Iraq Seeks an Oil Route.",
+    "preview_text": "Climate talks, flooded shelters and oil routes, plus the rest of the world in six minutes.",
+    "description": "COP31 opens with an electricity debate, Gaza confronts flooded shelters and Iraq describes a possible route for oil exports.",
+    "contents_extra": "Europe’s role in Ukraine talks, global updates, trivia and your poll",
+    "stories": [
+      {
+        "topic": "cop31-antalya-opening-electrification-pledge",
+        "title": "COP31 Opens With a Dispute Over What Electrification Should Deliver",
+        "paragraphs": [
+          "Climate negotiations opened Monday in Antalya, Turkey, with an appeal to turn promises into practical results. <a href=\"https://www.rappler.com/world/global-affairs/cop31-leaders-urge-world-move-faster-climate-november-9-2026/\">Reuters reports that summit leaders urged faster action</a>. Turkey wants countries to back a target making electricity account for more than a third of global energy use by 2035.",
+          "The energy source is the central question. <a href=\"https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open\">AFP and Reuters report that the proposed pledge is not binding</a>. Climate advocates say it does not require the extra electricity to come from cleaner sources. Replacing a furnace or vehicle does not automatically settle how its electricity will be generated."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1641384687425-f9147beb52d9?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/a-large-body-of-water-with-mountains-in-the-background--r_Opi-Jdbg",
+          "alt": "Antalya coast; file photo uploaded 2022",
+          "verified": true
+        }
+      },
+      {
+        "topic": "gaza-nov8-rain-shelter-collapse",
+        "title": "Gaza’s Flooded Camps Expose a Winter Shelter Emergency",
+        "paragraphs": [
+          "Heavy rain has left displaced families in Gaza with soaked bedding and damaged shelters. <a href=\"https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter\">Al Jazeera cites local health authorities reporting at least 5 deaths</a>, including 4 children, after a sandbank collapsed onto tents in central Gaza. The Civil Defence said rescue teams were searching for survivors Sunday.",
+          "<a href=\"https://www.arabnews.com/middle-east/no-one-asks-about-us-70000-gaza-tents-flooded-in-12-hours-3010550\">Arab News reports that Gaza’s Civil Defence lacks pumps and spare parts</a> for the emergency. <a href=\"https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter\">Civil Defence said it received at least 1,500 emergency calls</a>. Aid access remains disputed: humanitarian workers describe blocked supplies, while Israel rejects accusations that it is restricting aid."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1722402723227-0eaa6430c198?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/a-city-street-with-buildings-and-power-lines-uFrJasatYV8",
+          "alt": "Gaza buildings and wires; file photo uploaded 2024",
+          "verified": true
+        }
+      },
+      {
+        "topic": "iraq-hormuz-oman-lane-us-understanding",
+        "title": "Iraq Reports a U.S. Understanding on an Oil Export Route",
+        "paragraphs": [
+          "Iraq says it has reached understandings with Washington to move its oil through the Strait of Hormuz using a lane near Oman. <a href=\"https://www.devdiscourse.com/article/international/4003602-reuters-world-news-summary\">Reuters reports Foreign Minister Fuad Hussein’s account</a> of his Al Jazeera interview. Hussein put losses from the Iran war and disrupted oil exports at $60 billion.",
+          "The announcement follows a partial recovery in shipments. <a href=\"https://economictimes.indiatimes.com/industry/energy/oil-gas/iraq-reaches-us-understanding-to-resume-oil-exports-through-strait-of-hormuz-says-foreign-minister/articleshow/135667673.cms\">Reuters, citing Iraqi energy officials, reports exports of about 3.5 million barrels daily in October</a>, from 2.65 million in September. Hussein’s account describes a proposed route for Iraqi exports, not a general reopening of the strait or confirmation that shipping risks have ended."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1727782132601-9f0edfecc513?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/a-large-cargo-ship-in-the-middle-of-the-ocean-UQjM23lDGB0",
+          "alt": "Persian Gulf cargo ship; file photo uploaded 2024",
+          "verified": true
+        }
+      }
+    ],
+    "deep_dive": {
+      "topic": "abu-dhabi-talks-european-participation-dispute",
+      "title": "Europe’s Seat at Ukraine Peace Talks Is Already in Dispute",
+      "paragraphs": [
+        "A dispute over participation has emerged before the next Ukraine peace talks even begin. <a href=\"https://www.devdiscourse.com/article/international/4003833-kremlin-denies-that-europeans-will-participate-in-abu-dhabi-peace-talks\">Reuters reports that the Kremlin described a three way meeting</a> involving Russia, Ukraine and the United States, without European officials. The Abu Dhabi discussions are scheduled for Nov. 10 and 11 and concern ending the war and future security arrangements.",
+        "Europe has a direct stake in the security framework being discussed, even if the format remains contested. <a href=\"https://www.khaleejtimes.com/world/europe/europeans-russia-ukraine-talks-abu-dhabi-french-minister\">French Foreign Minister Jean Noel Barrot said France would take part</a>, Reuters reports. He did not identify its representative. The report also describes recent discussions involving Ukraine, NATO and European partners about security guarantees and the continent’s future security architecture.",
+        "The public statements do not yet establish a common understanding of who will be in the room. <a href=\"https://www.devdiscourse.com/article/international/4003833-kremlin-denies-that-europeans-will-participate-in-abu-dhabi-peace-talks\">Kremlin spokesman Dmitry Peskov said Kyiv and Washington have their own European communication channels</a>. Barrot’s separate assurance of French participation stands in tension with that account. Neither statement should be presented as a confirmed, jointly agreed attendance list.",
+        "The next concrete test is whether the talks begin with an agreed format and produce specific commitments. <a href=\"https://www.devdiscourse.com/article/international/4003504-reuters-world-news-summary\">Reuters reports that Russia’s delegation will include senior military officials and diplomats</a>, including Deputy Foreign Minister Sergei Ryabkov, according to the Kremlin. Secretary of State Marco Rubio has also <a href=\"https://www.khaleejtimes.com/world/europe/europeans-russia-ukraine-talks-abu-dhabi-french-minister\">cautioned that nothing has been finalized</a>, despite President Trump’s optimistic comments."
+      ],
+      "region": "world",
+      "photo": {
+        "image_url": "https://images.unsplash.com/photo-1645370380845-60a11ca0cad3?fm=jpg&fit=crop&w=1280&h=720&q=85",
+        "original_url": "https://unsplash.com/photos/a-group-of-tall-buildings-sitting-next-to-each-other-NycJ34VS5j0",
+        "alt": "Abu Dhabi towers; file photo uploaded 2022",
+        "verified": true
+      }
+    },
+    "trivia": {
+      "question": "Which Turkish city is hosting COP31?",
+      "options": [
+        "Ankara",
+        "Istanbul",
+        "Antalya",
+        "Izmir"
+      ],
+      "correct_letter": "C",
+      "explanation": "Antalya is hosting COP31. <a href=\"https://www.rappler.com/world/global-affairs/cop31-leaders-urge-world-move-faster-climate-november-9-2026/\">Reuters reports that the climate conference opened Monday in the Mediterranean coastal city</a>."
+    },
+    "poll": {
+      "question": "Should electrification pledges require electricity from cleaner sources?",
+      "slug": "cleaner-electricity-in-electrification-pledges"
+    },
+    "briefing": {
+      "World view": [
+        "<strong>Senegal’s boat disaster toll rises to 39</strong>, with <a href=\"https://apnews.com/article/senegal-migration-boat-capsize-kebemer-spain-dakar-8dd306eafbe70018a91caf592ff545c1\">AP citing emergency services after more bodies were found Monday</a>.",
+        "<strong>Iran executes 3 men</strong>, with <a href=\"https://www.devdiscourse.com/article/international/4003504-reuters-world-news-summary\">state media linking their convictions to January protest unrest and alleged foreign operations</a>, Reuters reports.",
+        "<strong>Pope Leo visits Argentina</strong>, on <a href=\"https://www.devdiscourse.com/article/international/4003602-reuters-world-news-summary\">the second stop of his South American tour</a>, fulfilling hopes for a papal visit, Reuters reports."
+      ],
+      "Need to know": [
+        "<strong>Egypt investigates a deadly train collision</strong>, after <a href=\"https://www.channelnewsasia.com/world/egypt-train-collision-kills-7-injures-112-says-health-ministry-6534371\">authorities reported 7 deaths and more than 100 injuries</a> south of Cairo, AFP reports.",
+        "<strong>An Astellas employee may leave prison in December</strong>, according to <a href=\"https://www.devdiscourse.com/article/international/4003504-reuters-world-news-summary\">Japanese media reports cited by Reuters</a> about his detention in China.",
+        "<strong>A single AI system models different materials</strong>, with <a href=\"https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109\">MIT researchers reporting simulations ranging from sand to proteins</a> using the WorldParticle architecture."
+      ],
+      "Money & markets": [
+        "<strong>Asian shares rebound to start the week</strong>, while <a href=\"https://finance.yahoo.com/markets/articles/morning-bid-fragile-calm-ai-054509029.html\">Reuters describes fragile optimism ahead of further technology earnings and U.S. inflation figures</a>.",
+        "<strong>Nvidia orders an independent investigation</strong>, after <a href=\"https://www.gmanetwork.com/news/topstories/world/1008810/nvidia-probes-whether-ceo-jensen-huang-was-target-of-foreign-spying-as-he-admits-affair/story/\">reports raised questions about whether its chief executive was targeted by foreign intelligence</a>, Reuters reports.",
+        "<strong>German exports rise 2% from August</strong>, with <a href=\"https://www.onvista.de/news/2026/11-09-deutsche-exporte-mit-sieben-monats-hoch-eu-nachfrage-zieht-spuerbar-an-0-20-26574013\">Reuters reporting stronger European Union demand in September</a> in newly released trade figures."
+      ],
+      "Future frontiers": [
+        "<strong>Headsets recreate a Roman treasure discovery</strong>, with <a href=\"https://www.bbc.com/news/articles/cqpvgw4ylld7o\">the BBC reporting an interactive experience built around the Mildenhall silver hoard</a>.",
+        "<strong>A new semiconductor module reaches a megawatt</strong>, with <a href=\"https://lead.hku.hk/en/news/2026/11/world-first-power-module-hku-engineering/\">University of Hong Kong engineers reporting a gallium oxide demonstration</a> rather than commercial deployment.",
+        "<strong>Physicists find evidence of a rare particle decay</strong>, but <a href=\"https://physicsworld.com/a/lhcb-finds-evidence-for-a-one-in-10-billion-b-meson-decay/\">Physics World reports that the signal remains below the threshold for discovery</a>."
+      ],
+      "The score": [
+        "<strong>Liverpool beats Crystal Palace 3 to 1</strong>, with <a href=\"https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live\">The Guardian confirming the final Premier League result</a> from Sunday’s match.",
+        "<strong>Sunderland defeats Chelsea 1 to 0</strong>, as <a href=\"https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live\">The Guardian reports the hosts moved off the bottom</a> of the Premier League.",
+        "<strong>Brighton wins 2 to 0 against Brentford</strong>, with <a href=\"https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live\">The Guardian reporting another victory and second place</a> in the Premier League."
+      ],
+      "Life & culture": [
+        "<strong>Dustin Hoffman’s memoir receives a new review</strong>, with <a href=\"https://www.theguardian.com/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece\">The Guardian examining Look at Me</a> and the actor’s reflections on his career.",
+        "<strong>Jacqueline Rose connects two women’s lives</strong>, with <a href=\"https://www.theguardian.com/books/2026/nov/09/two-women-by-jacqueline-rose-review-a-memorial-to-gillian-rose\">The Guardian reviewing her novel Two Women</a> about Gillian Rose and Edith Stein.",
+        "<strong>100 Sunset explores Toronto’s Tibetan community</strong>, with <a href=\"https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel\">The Guardian reviewing Kunsang Kyirong’s debut feature</a> and its cast of nonprofessional actors."
+      ]
+    },
+    "qa_notes": {
+      "status": "LOCAL_DRAFT_ONLY; parent review and combined validator required",
+      "uncertainties": [
+        "Reuters’ Saturday snapshot reported no fatalities; Al Jazeera later reported Sunday sandbank deaths, citing local health authorities. The edition reports at least 5, including 4 children, not a final exact toll.",
+        "France says it will attend Abu Dhabi talks; the Kremlin says the format excludes Europeans. No settled attendance list or peace deal is claimed.",
+        "Iraq route and $60 billion losses are attributed to its foreign minister, not independently confirmed operational shipping access.",
+        "All photographs are contextual file images. The Gulf photograph shows a cargo ship, not an asserted Iraqi oil tanker or the reported lane.",
+        "Reuters wire summaries and syndications are transparently identified; duplicate wire copies are not independent corroboration."
+      ]
+    },
+    "date_line": "Monday, November 9, 2026 · 6 min read"
+  },
+  "base_tree": "4ec5e919dcc73d3fc844195032acd247742f9754",
+  "immutable_fingerprint": "ebfca08544acd4622ce479862b032f37f9428a73a084b9b238ce242ddfdc79aa",
+  "baseline": {
+    "files": {
+      "archive.html": "bf9a312b7dd0732043a23f3ee8d4ee0af2cb2988f4c3e89c5c2244a62c41adaa",
+      "disclosures.html": "c4f22bc5adf9e68e0ef8332dea1c40ce38b34edaaf15fd08031aa0870a2e8af5",
+      ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "CNAME": "8a9def23f9985dbac026fb70c197e3dc4626a3def7b5ba6e1a3874b18573ec19",
+      "index.html": "14d0b42e7e268db578b8a29e25649d9a81946e112afa1cbae92440ffe2496cf6",
+      "privacy.html": "c62cdf40c6af3f7628d2b9dd1b8ef0f9aa3a7e13efafeedc4d0bb4146232fd2b",
+      "spacegrotesk-font-license.txt": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+      "terms.html": "2a66f5dd10d5f6a5d69c7880c2e48f0209a3e5d95a901a077384cb2edb6e5f35",
+      "fonts/skim.woff": "21e835ce4959226678621dbaf8138a9dd96d2d3017ed58105e4b1311ef73f2e2",
+      "email/logo-white.png": "3e8c338c67ad7f7805de20c040a6c8c7f03268a5463966dc7ba4e6598be81c44",
+      "email/share-threads.png": "20d52cebe7f6c8fd43d4f1d240003801a22911bfa27c0dad4b2d3208cec68362",
+      "email/logo.png": "a933806f213fa5272fbc3a707073ab05ed4f48aba8a42a1003cec1ab1ef7bf5b",
+      "email/polls.js": "5a00b3ae4cfacf55f195c3ac1bb6768bf55092c8b738a190d2e8b6254aa41842",
+      "email/share-facebook.png": "299c5c08903408b7fc442714d438a9494986b10eaffcee1d853dd6d5a7c9c6c6",
+      "email/share-linkedin.png": "20ae505ccb6fd5c4cf47ad166224581132acef03576e09711a94bccc0ecd63e2",
+      "email/thanks.html": "d894760be039950ef398257a9249e2be40f8c0622ca5cda7b26035c6d9d47fea",
+      "email/share-whatsapp.png": "52ba2efa4110f9962dc207e4b5fa4e47edabd926b89880fdd4514410d73d6555",
+      "email/share-reddit.png": "346a9f141597b14ccb5fd9f8f7dc8972f98aa3312944ed4f0e5c020b4b1484a8",
+      "email/share-x.png": "18dec22e5636c73842c5c5e3042c293967852941e6669db38378b470f3b921c6",
+      "email/share-email.png": "088630d9858e4e97ed4bc4a73a36b018e6b2fd9b88406817c0b5016706a0c87a",
+      "editions/edition.css": "92b80a1a9ae954755fafb6f2819d9a3b1d3d848433405c3165adbec8f9513f0c",
+      "editions/2026-11-08.html": "3ef8e42646ce86e7913fcd6549199a897b37683c4ca595468bb09dcb5f6176a0",
+      "editions/2026-11-06.html": "22d27e271958ee04651123c619884df2b04f8079f21fbdbbb60397e8e15d6ba4",
+      "editions/2026-11-03.html": "8d4cb8018a49c3ac0bd01f27a4ef4a38c490aa0ddf3412a3aeef5104d14ea650",
+      "editions/2026-11-02.html": "b1eda4ab35dc9ad7e7b432a95238d766fdb0a23efcc5da22beabdf75044c0803",
+      "editions/2026-11-07.html": "6928e05828cbe1599024c6493ab10dab1709ac8e68a159dd0ed90b6a63edaf00",
+      "editions/2026-11-01.html": "0bd47c8e37df131ba571ef63ce6561337b5086881f97ca62fb5b56a4bd1f7e51",
+      "tests/nov8_fixture_edits.json": "69cc275407c2c77edda75b9a31502f438a72f4d3fe4eea346a00518dd7cd79b4",
+      "tests/trivia.test.cjs": "b1193abc230fc0daad6da0b859904ab96db3eb4242b85c7af8ee8333efe5d644",
+      "tests/test_nov8_site.py": "f1bdbc1281cdfea6a4b878ae70c6769b05509c7c4ed1b30f6dce09c0890db673",
+      "tests/polls.browser.test.cjs": "d335824fdc26638221ef84fc5308899556f3f0eedd84c34fb64ec2d6486cc808",
+      "tests/links.test.py": "867fcf39344e6b8b93e7872c62f287f0ae7ed746b961b9dc70daa603f27dc1bc",
+      "tests/nov7_expected.json": "6f19b6bafa29cab896e5d825a4fc46f4904874f939e837bb342a59ffec8acb44",
+      "tests/test_nov7_site.py": "c4ab0497f35e5b16aea9202221baf8723e8c230e3417b812e0b7deb42d11fe29",
+      "tests/nov8_expected.json": "26e96544370646a1d5a817e2e2a65886a53918bd12aceba8012f0633e9f08a86"
+    },
+    "nov8_without_nav_sha256": "d2b6336ea9f7890abb332e647dd7897698e49267e7b0dceffcd8d3c1a8de4916",
+    "frozen_nov9_normalized_sha256": "147fd9b7138a480d7ed948e9a17e18ac5451184b13fe250036b0d8375494b974",
+    "frozen_first_image": "https://images.unsplash.com/photo-1641384687425-f9147beb52d9?fm=jpg&fit=crop&w=1280&h=720&q=80",
+    "homes": {
+      "index.html": {
+        "config": {
+          "editions": [
+            {
+              "title": [
+                "U.S. Broadens Iran Pressure.",
+                "Poland Begins Mourning.",
+                "Japan Assesses a Quake."
+              ],
+              "description": "The U.S. expands its Iran pressure campaign beyond sea routes, Poland begins mourning and Japan assesses earthquake damage.",
+              "url": "editions/2026-11-08.html",
+              "date": "Sunday, November 8, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?fm=jpg&fit=crop&w=1280&h=720&q=80"
+            },
+            {
+              "title": [
+                "New Zealand Counts.",
+                "Iran Mediation Continues.",
+                "U.S. Hiring Strengthens."
+              ],
+              "description": "New Zealand faces a close count, Qatar keeps Iran mediation active and stronger U.S. hiring complicates the economic outlook.",
+              "url": "editions/2026-11-07.html",
+              "date": "Saturday, November 7, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1589871972973-8381f6c86ae3?auto=format&fit=crop&w=1280&h=720&q=80"
+            },
+            {
+              "title": [
+                "Kenya’s Cult Leader Gets 200 Years.",
+                "Lissu Faces Prison Despite Treason Acquittal.",
+                "Trump’s Arch Faces a Court Pause."
+              ],
+              "description": "Kenya sentences a cult leader, Tanzania’s opposition leader faces jail despite a treason acquittal, and a court pauses Trump’s arch.",
+              "url": "editions/2026-11-06.html",
+              "date": "Friday, November 6, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1741991110666-88115e724741?w=1280&h=720&fit=crop&q=80&crop=entropy"
+            },
+            {
+              "title": [
+                "America votes. The world watches.",
+                "Yemen's rebels are 50 miles from Aden.",
+                "And Europe rehearses for peace in Ukraine."
+              ],
+              "description": "Why Kyiv and NATO are watching the U.S. midterms, the Houthis push closer to Aden than at any time since 2015, and Europe practices sending troops to Ukraine.",
+              "url": "editions/2026-11-03.html",
+              "date": "Tuesday, November 3, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1782998307726-f93ec14eda24?w=800&h=450&fit=crop&crop=entropy&q=80"
+            },
+            {
+              "title": [
+                "Iran says Hormuz could reopen in two days.",
+                "Fake air raid alerts hit Ukraine and Russia.",
+                "And Canada sees a trade deal within weeks."
+              ],
+              "description": "Iran names its price for reopening Hormuz, hackers send fake nuclear alerts on both sides of a war, and Canada says a U.S. trade deal could come within weeks.",
+              "url": "editions/2026-11-02.html",
+              "date": "Monday, November 2, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1598408745613-178751e2ccde?w=800&h=450&fit=crop&crop=entropy&q=80"
+            },
+            {
+              "title": [
+                "The AI money pit spooked Wall Street.",
+                "69 died on a train in Spain.",
+                "And Poland's court fight turned physical."
+              ],
+              "description": "AI spending fears give Wall Street its worst day since June, Spain blames its control room for a deadly crash, and Poland's president pushes past judges at the top court.",
+              "url": "editions/2026-11-01.html",
+              "date": "Sunday, November 1, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?w=800&h=450&fit=crop&crop=entropy&q=80"
+            }
+          ]
+        },
+        "locked": {
+          "style": [
+            "d7267a4ea7d273cffc7fb2d98536481f23d1d0e1edb568d701a1859ec3020f18",
+            "dbce21d8b41d45130531fbf855b28667f37b122ab4aea43fbef57ad268530f52",
+            "40164a909e86bb924504e294c28ac7e858c3b97f62dca315c927007589f932a8"
+          ],
+          "header": [
+            "bf48d2972742afd4903839c807da2c190cb8ca5d04cdb9e28ab2d2b4aea51751"
+          ],
+          "form": [
+            "f72d10e1b1b26ef56d0448f2ee7ae0e3c2e8969aa177b191e5a4023ee2586239"
+          ],
+          "scripts": [
+            "b16901f41120caebb6df011d2161fe250164f1fa57bcc2db75db9d4ebfde0854",
+            "d4b8bdd561af020ba388299367bca5c6e39d1a5d4de409d1e40050a611189ed1",
+            "1eefdda19201a4dbb47c66c3c31d21eea46161bcb0184890e28a97c8271d8452",
+            "320b3ff57bc1ae4616cd463e1604c169927f340236cbb7c787708561cde2da06"
+          ],
+          "topics": "88d698a6e67c9810bcca2c78deb533c36528953d70c42e5d477f568bab62b243",
+          "route_nov9": "4c1f761020d5161d94fcef9b9f88b043ff881d2a9dc2bcef4706e66ae1c2d80f"
+        }
+      },
+      "archive.html": {
+        "config": {
+          "editions": [
+            {
+              "title": [
+                "U.S. Broadens Iran Pressure.",
+                "Poland Begins Mourning.",
+                "Japan Assesses a Quake."
+              ],
+              "description": "The U.S. expands its Iran pressure campaign beyond sea routes, Poland begins mourning and Japan assesses earthquake damage.",
+              "url": "editions/2026-11-08.html",
+              "date": "Sunday, November 8, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?fm=jpg&fit=crop&w=1280&h=720&q=80"
+            },
+            {
+              "title": [
+                "New Zealand Counts.",
+                "Iran Mediation Continues.",
+                "U.S. Hiring Strengthens."
+              ],
+              "description": "New Zealand faces a close count, Qatar keeps Iran mediation active and stronger U.S. hiring complicates the economic outlook.",
+              "url": "editions/2026-11-07.html",
+              "date": "Saturday, November 7, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1589871972973-8381f6c86ae3?auto=format&fit=crop&w=1280&h=720&q=80"
+            },
+            {
+              "title": [
+                "Kenya’s Cult Leader Gets 200 Years.",
+                "Lissu Faces Prison Despite Treason Acquittal.",
+                "Trump’s Arch Faces a Court Pause."
+              ],
+              "description": "Kenya sentences a cult leader, Tanzania’s opposition leader faces jail despite a treason acquittal, and a court pauses Trump’s arch.",
+              "url": "editions/2026-11-06.html",
+              "date": "Friday, November 6, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1741991110666-88115e724741?w=1280&h=720&fit=crop&q=80&crop=entropy"
+            },
+            {
+              "title": [
+                "America votes. The world watches.",
+                "Yemen's rebels are 50 miles from Aden.",
+                "And Europe rehearses for peace in Ukraine."
+              ],
+              "description": "Why Kyiv and NATO are watching the U.S. midterms, the Houthis push closer to Aden than at any time since 2015, and Europe practices sending troops to Ukraine.",
+              "url": "editions/2026-11-03.html",
+              "date": "Tuesday, November 3, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1782998307726-f93ec14eda24?w=800&h=450&fit=crop&crop=entropy&q=80"
+            },
+            {
+              "title": [
+                "Iran says Hormuz could reopen in two days.",
+                "Fake air raid alerts hit Ukraine and Russia.",
+                "And Canada sees a trade deal within weeks."
+              ],
+              "description": "Iran names its price for reopening Hormuz, hackers send fake nuclear alerts on both sides of a war, and Canada says a U.S. trade deal could come within weeks.",
+              "url": "editions/2026-11-02.html",
+              "date": "Monday, November 2, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1598408745613-178751e2ccde?w=800&h=450&fit=crop&crop=entropy&q=80"
+            },
+            {
+              "title": [
+                "The AI money pit spooked Wall Street.",
+                "69 died on a train in Spain.",
+                "And Poland's court fight turned physical."
+              ],
+              "description": "AI spending fears give Wall Street its worst day since June, Spain blames its control room for a deadly crash, and Poland's president pushes past judges at the top court.",
+              "url": "editions/2026-11-01.html",
+              "date": "Sunday, November 1, 2026",
+              "readingTime": "6 min read",
+              "image": "https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?w=800&h=450&fit=crop&crop=entropy&q=80"
+            }
+          ]
+        },
+        "locked": {
+          "style": [
+            "72530c0ac387ad9c36838eab56ad0ad88ffffbdac876b8b3469b08e6d1b0b40c",
+            "dbce21d8b41d45130531fbf855b28667f37b122ab4aea43fbef57ad268530f52"
+          ],
+          "header": [
+            "bf48d2972742afd4903839c807da2c190cb8ca5d04cdb9e28ab2d2b4aea51751"
+          ],
+          "form": [
+            "f72d10e1b1b26ef56d0448f2ee7ae0e3c2e8969aa177b191e5a4023ee2586239"
+          ],
+          "scripts": [
+            "b16901f41120caebb6df011d2161fe250164f1fa57bcc2db75db9d4ebfde0854",
+            "1eefdda19201a4dbb47c66c3c31d21eea46161bcb0184890e28a97c8271d8452",
+            "320b3ff57bc1ae4616cd463e1604c169927f340236cbb7c787708561cde2da06"
+          ],
+          "topics": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91",
+          "route_nov9": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91"
+        }
+      }
+    }
+  },
+  "fixture_file_sha256": {
+    "tests/links.test.py": "c34ba3ca663e7a01c8f6ff21bdcf630802bee2533c94e1c335325419be0733e8",
+    "tests/test_nov7_site.py": "dcfc77d888436243c56558d6b85e8136702499046af030ce8c0bdbe007a96920",
+    "tests/test_nov8_site.py": "9ab3921aa1d670368e25566d3f0bf1d87ab7c76317d921f74dd23c1b6382777f"
+  },
+  "fixture_edits_sha256": "71f8f1dedfcb688a166245f273b342f542cd8cc8a93782c5f478b8fc1abf53e8"
+}

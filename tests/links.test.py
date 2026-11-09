@@ -32,7 +32,7 @@ for name in ['index.html', 'archive.html', 'editions/2026-11-06.html']:
         checked += 1
     if name != 'editions/2026-11-06.html':
         config = json.loads(re.search(r'var SITE_CONFIG=(.*?);', path.read_text()).group(1))
-        assert [x['url'] for x in config['editions']] == ['editions/2026-11-08.html', 'editions/2026-11-07.html', 'editions/2026-11-06.html', 'editions/2026-11-03.html', 'editions/2026-11-02.html', 'editions/2026-11-01.html']
+        assert [x['url'] for x in config['editions']] == ['editions/2026-11-09.html', 'editions/2026-11-08.html', 'editions/2026-11-07.html', 'editions/2026-11-06.html', 'editions/2026-11-03.html', 'editions/2026-11-02.html', 'editions/2026-11-01.html']
         for edition in config['editions']:
             assert (root/edition['url']).exists()
 draft = (root/'editions/2026-11-06.html').read_text()
