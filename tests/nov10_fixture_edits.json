@@ -1,0 +1,8 @@
+{
+  "tests/links.test.py": [
+    [
+      "== ['editions/2026-11-09.html',",
+      "== ['editions/2026-11-10.html', 'editions/2026-11-09.html',"
+    ]
+  ]
+}
