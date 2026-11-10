@@ -3,15 +3,18 @@ from pathlib import Path
 import hashlib, json, re, subprocess, unittest
 from urllib.parse import urljoin,urlsplit,unquote,parse_qs
 from bs4 import BeautifulSoup
+from archive_compat import restore_shared, latest_url
 ROOT=Path(__file__).resolve().parents[1]
 E=json.loads((ROOT/"tests/nov9_expected.json").read_text())
 B=E["brand"];C=E["content"];DATE=E["date"];OLD=E["old"]
-def soup(p,base=ROOT):return BeautifulSoup((base/p).read_text(),"html.parser")
+def soup(p,base=ROOT):return BeautifulSoup(restore_shared((base/p).read_text(),p),"html.parser")
 def norm(s):return " ".join(s.split())
 def config(p,base=ROOT):
  raw=(base/p).read_text();m=re.search(r"(?:const|var) SITE_CONFIG\s*=\s*(\{.*?\});",raw,re.S);assert m
  return json.loads(subprocess.check_output(["node","-e","process.stdout.write(JSON.stringify(("+m[1]+")))"],text=True))
-def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()
+def digest(p):
+ data=restore_shared(p.read_text(),p.relative_to(ROOT).as_posix()).encode() if p.suffix==".html" else p.read_bytes()
+ return hashlib.sha256(data).hexdigest()
 def h(s):return hashlib.sha256(s.encode()).hexdigest()
 def locked(doc):
  scripts=[]
@@ -78,6 +81,7 @@ class Nov9Candidate(unittest.TestCase):
   self.assertIn("November 9, 2026",doc.get_text(" ",strip=True))
   for a in doc.select("footer a[href]"):
    if a.get_text(" ",strip=True) in ("Latest edition","Today's edition","Today's trivia","Daily trivia"):
+    # soup restores pinned historical footer hrefs for frozen content hashes.
     self.assertIn(DATE,a["href"])
  def test_06_exact_news_photos_sources(self):
   doc=soup(f"editions/{DATE}.html")
