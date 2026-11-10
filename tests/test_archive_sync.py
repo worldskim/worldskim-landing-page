@@ -27,6 +27,20 @@ class Links(HTMLParser):
 
 
 class ArchiveSync(unittest.TestCase):
+    def test_frozen_hash_compatibility_is_limited_to_shared_hrefs(self):
+        from archive_compat import restore_shared
+        text = (ROOT / "editions/2026-11-01.html").read_text()
+        restored = restore_shared(text, "editions/2026-11-01.html")
+        self.assertNotEqual(text, restored)
+        # A different story word is not normalized away.
+        changed = text.replace("<title>", "<title>Unexpected editorial change ", 1)
+        self.assertNotEqual(restore_shared(changed, "editions/2026-11-01.html"), restored)
+        # A made-up destination is rejected, not treated as a shared-link update.
+        latest = "/" + sync.read_config((ROOT / "index.html").read_text())["editions"][0]["url"]
+        with self.assertRaises(AssertionError):
+            restore_shared(text.replace('href="' + latest + '"', 'href="/wrong.html"', 1),
+                           "editions/2026-11-01.html")
+
     def test_baseline_design_editorial_forms_and_legal_preserved(self):
         manifest = json.loads((ROOT / "tests/archive_preservation.json").read_text())
         self.assertEqual(manifest["baseline"], "5e9a4508ef2befc9675e94003d8cec76ffc1ef7c")

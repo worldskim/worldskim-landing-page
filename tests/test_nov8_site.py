@@ -7,6 +7,7 @@ import subprocess
 import unittest
 from urllib.parse import parse_qs, unquote, urljoin, urlsplit
 from bs4 import BeautifulSoup
+from archive_compat import latest_url
 
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED = json.loads((ROOT / "tests/nov8_expected.json").read_text())
@@ -73,7 +74,8 @@ class Nov8Site(unittest.TestCase):
         self.assertIsNotNone(old.find("a", href=DATE + ".html"))
         for a in new.select("footer a[href]"):
             if a.get_text(" ", strip=True) in ("Latest edition", "Today's edition", "Today's trivia", "Daily trivia"):
-                self.assertIn(DATE, a["href"])
+                expected = "/" + latest_url() + ("#tri" if "trivia" in a.get_text().lower() else "")
+                self.assertEqual(expected, a["href"])
 
     def test_current_content_and_locked_style_scripts(self):
         new = soup(f"editions/{DATE}.html")

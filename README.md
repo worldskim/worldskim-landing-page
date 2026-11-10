@@ -26,7 +26,9 @@ navigation, polls, trivia, styles, logos, signup configuration or legal notices.
 Run `--check` as a release gate; no build automation exists in this repository.
 
 Historical `test_nov*_site.py` suites contain frozen, date-specific release scope
-and exact-file hashes. They already had seven failures on main at `5e9a450`;
-intentional shared-footer updates also conflict with those historical snapshots.
-Do not rewrite editorial baselines merely to hide this. Use the current inventory
-test and review the limited footer-only historical diff.
+and exact-file hashes. They already had seven failures on main at `5e9a450`.
+`archive_compat.py` restores only explicitly labelled shared footer destinations
+to their pinned pre-maintenance values for old hash comparisons; the current
+inventory suite checks the actual latest destinations separately. All editorial,
+style, script, form and Previous/Next navigation bytes remain checked. The seven
+unrelated pre-existing frozen-release failures are not skipped or hidden.
