@@ -1,0 +1,6 @@
+/* Existing footer component, adapted to the original light signup background. */
+.signup .ws-foot-box{background:#fff;border-color:var(--line)}
+.signup .ws-foot-box:focus-within{border-color:var(--green);background:#fff}
+.signup .ws-foot-box input{color:var(--ink)}
+.signup .ws-foot-box input::placeholder{color:var(--muted)}
+.signup .ws-foot-msg{color:var(--ink);text-align:left}

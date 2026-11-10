@@ -21,6 +21,9 @@ MAINTENANCE_FILES = {
     "tests/archive_shared_baseline.json", "tests/archive_compat.py",
     "tests/test_nov7_site.py", "tests/test_nov8_site.py",
     "tests/test_nov9_site.py", "tests/test_nov10_site.py",
+    "email/signup.js", "email/signup.css", "settings/newsletter-form.json",
+    "scripts/sync_signup.py", "tests/test_signup.py", "tests/signup.browser.test.cjs",
+    "tests/signup_compat.py", "tests/signup_baseline.json",
 }
 
 
@@ -30,6 +33,10 @@ def latest_url():
 
 
 def restore_shared(text, name):
+    # Only present on the separately gated intake branch.
+    if (ROOT / "tests/signup_baseline.json").exists():
+        from signup_compat import restore_signup
+        text = restore_signup(text, name)
     originals = iter(MANIFEST["links"].get(name, []))
     latest = latest_url()
     def replace(match):

@@ -49,6 +49,9 @@ class ArchiveSync(unittest.TestCase):
             data = path.read_bytes()
             if path.suffix == ".html":
                 text = data.decode()
+                if (ROOT / "tests/signup_baseline.json").exists():
+                    from signup_compat import restore_signup
+                    text = restore_signup(text, name)
                 if name in ("index.html", "archive.html"):
                     ranges = sync.Ranges(text)
                     start, end = ranges.grid
