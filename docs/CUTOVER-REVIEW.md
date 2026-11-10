@@ -1,41 +1,47 @@
 # AWeber and legal handoff — preparation only
 
-## Provider change (not applied)
+## Provider change (local candidate; parent publishes)
 
 Authorized destination: separate World Skim AWeber account `2416451`, list
 `6985078` (`awlist6985078`). The list number is **not** a webform ID.
 No subscriber, subscription or vote was created during this work.
 
-Current intake has two EmailOctopus script embeds (`index.html`, `archive.html`).
-Inline footer handlers are duplicated across those pages, all eight dated
+Before this candidate, intake had two EmailOctopus script embeds (`index.html`, `archive.html`).
+Inline footer handlers were duplicated across those pages, all eight dated
 editions and `email/thanks.html`. They search `.emailoctopus-form`, queue the
 email under `sessionStorage["ws-sub"]` and navigate to homepage signup when needed.
-They currently display “Check your inbox to confirm” without verifying an actual
+They displayed “Check your inbox to confirm” without verifying an actual
 provider result. Changing only the embed is therefore insufficient.
 
-Before a separate cutover commit, obtain the native AWeber webform payload for
-the authorized list, verify its exact form ID, required hidden fields, success/
-already-subscribed/error destinations, and actual confirmed-opt-in policy.
-Replace both embeds and every footer handler together. Prefer routing footer
-readers to the native form with honest completion wording over claiming a
-subscription from a redirect or guessed DOM event. Do not put API credentials
-in a static site or invent a form ID. Test with intercepted requests first;
-any real subscription requires parent-owned authorization and execution.
-Remove obsolete EmailOctopus selectors/queue behavior only in that cutover.
+The parent supplied native provider-generated form `70841443` for this account/
+list. `settings/newsletter-form.json` preserves all nine hidden fields from that
+payload, including `redirect` and `meta_redirect_onlist` pointing to the provider's
+`https://www.aweber.com/thankyou-coi.htm?m=text`. All thirteen forms now use a
+native POST to `https://www.aweber.com/scripts/addlead.pl`, without XHR, local
+success claims, EmailOctopus scripts/selectors, address queues or automatic
+submission. Provider CSS/display-tracking pixel were omitted; original site
+form styling is retained. Email-only validation works without JavaScript; the
+small shared script adds accessible invalid-email feedback only.
+
+`scripts/sync_signup.py --check` validates generated form consistency. Mocked
+browser tests cover all thirteen forms both with and without JavaScript, exact
+POST payload, validation, provider destination/failure, and no automatic writes.
+They are not evidence of a real subscriber being accepted, email delivery,
+confirmation settings or DNS readiness. No API credential is in the site.
 
 ## Supported factual corrections for legal review (not public approval)
 
 The public notices must not claim signup is disabled or the deployed site stores
 nothing. Observed website source supports this replacement factual description:
 
-> The site offers newsletter signup through an embedded form. It is hosted on
-> GitHub Pages. Signup currently uses EmailOctopus; migration to AWeber is being
-> prepared and has not yet changed the website. Trivia uses browser storage for
+> The site offers newsletter signup and is hosted on GitHub Pages. The prepared
+> website change sends signup email addresses directly to AWeber through its
+> native form. Trivia uses browser storage for
 > results and streaks. Reader-poll confirmation stores an anonymous browser token
 > for 30 days to limit repeat votes and sends the token, poll identifier and
 > choice to a voting service after an explicit confirmation. No name or email is
-> requested by that poll form. The footer signup flow temporarily carries a
-> supplied email address in session storage when navigating to the main form.
+> requested by that poll form. The prepared signup change does not store or
+> automatically forward signup email addresses through browser storage.
 
 This is proposed factual wording, not an approved complete privacy notice.
 Change provider/queue descriptions again when the actual cutover is verified.
@@ -51,7 +57,7 @@ have been supplied that justify replacing it with final boilerplate.
 2. Approved effective date and legal reviewer signoff; jurisdictions served,
    minimum age, legal bases, mandatory rights/request verification, deadlines,
    appeals/regulator contact, governing law and any acceptance mechanism.
-3. AWeber form ID and confirmed-opt-in setting; subscription frequency, promotional
+3. Actual AWeber confirmed-opt-in setting (form ID is now verified); subscription frequency, promotional
    scope, cancellation/unsubscribe process, all signup fields, consent/source/IP
    records, open/click tracking and any partner enrollment.
 4. Actual vendor roles, processing locations and transfer safeguards for hosting,
@@ -68,5 +74,6 @@ have been supplied that justify replacing it with final boilerplate.
 8. Editorial corrections, actual AI/editorial workflow and photo/content license
    review; no source-link fact check or photo-rights audit is implied here.
 
-No legal HTML, provider, DNS, sending configuration or subscriber data is changed
-by the archive synchronization commit.
+No legal HTML, DNS, sending configuration or subscriber data is changed by this
+candidate. Provider intake changes are isolated from the already merged archive
+commit and still require parent-owned publication.

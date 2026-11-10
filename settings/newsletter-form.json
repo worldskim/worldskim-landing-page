@@ -1,0 +1,17 @@
+{
+  "account_id": 2416451,
+  "list_id": 6985078,
+  "source": "Provider-generated form 70841443, verified 2026-11-10. Hidden fields unchanged; provider style/display pixel omitted.",
+  "action": "https://www.aweber.com/scripts/addlead.pl",
+  "hidden": {
+    "meta_web_form_id": "70841443",
+    "meta_split_id": "",
+    "listname": "awlist6985078",
+    "redirect": "https://www.aweber.com/thankyou-coi.htm?m=text",
+    "meta_redirect_onlist": "https://www.aweber.com/thankyou-coi.htm?m=text",
+    "meta_adtracking": "World_Skim_Website_Signup",
+    "meta_message": "1",
+    "meta_required": "email",
+    "meta_tooltip": ""
+  }
+}

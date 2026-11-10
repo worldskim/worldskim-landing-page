@@ -38,8 +38,8 @@ for name in ['index.html', 'archive.html', 'editions/2026-11-06.html']:
 draft = (root/'editions/2026-11-06.html').read_text()
 assert 'href="2026-11-03.html">← Previous edition' in draft
 assert 'data-qz="2026-11-06"' in draft
-assert 'eomail5.com/form/4273f0aa-d6f8-11f1-9638-4b187b7e1294.js' in (root/'index.html').read_text()
-print(f'PASS: {checked} internal links/assets/anchors; latest/archive metadata; previous edition; dated trivia; unchanged EmailOctopus signup embed')
+assert 'https://www.aweber.com/scripts/addlead.pl' in (root/'index.html').read_text()
+print(f'PASS: {checked} internal links/assets/anchors; latest/archive metadata; previous edition; dated trivia; verified native AWeber signup action')
 
 # Every dated share control uses this edition URL and current approved title.
 from html import unescape

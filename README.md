@@ -32,3 +32,23 @@ to their pinned pre-maintenance values for old hash comparisons; the current
 inventory suite checks the actual latest destinations separately. All editorial,
 style, script, form and Previous/Next navigation bytes remain checked. The seven
 unrelated pre-existing frozen-release failures are not skipped or hidden.
+
+## Native newsletter forms
+
+The separate intake change uses provider-generated AWeber form `70841443` for
+World Skim account `2416451`, list `6985078`. Its public, non-secret protocol is
+stored in `settings/newsletter-form.json`. Every signup is a native HTML POST;
+the provider's response is authoritative, not a local success message.
+
+```sh
+python3 scripts/sync_signup.py --check
+python3 -m unittest discover -s tests -p test_signup.py
+PLAYWRIGHT_MODULE=/path/to/playwright node tests/signup.browser.test.cjs
+```
+
+Run the synchronizer without `--check` after introducing a reviewed page to keep
+its footer form consistent. The browser suite intercepts all form submissions
+and does not subscribe anyone. `signup_compat.py` restores only exact approved
+signup markup/script boundaries for historical snapshots; `test_signup.py`
+checks every generated form and hashes the rest of each page against the pinned
+pre-intake source. Legal review decisions remain in `docs/CUTOVER-REVIEW.md`.

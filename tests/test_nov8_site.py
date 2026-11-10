@@ -8,6 +8,7 @@ import unittest
 from urllib.parse import parse_qs, unquote, urljoin, urlsplit
 from bs4 import BeautifulSoup
 from archive_compat import latest_url
+from signup_compat import restore_signup
 
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED = json.loads((ROOT / "tests/nov8_expected.json").read_text())
@@ -25,7 +26,7 @@ def original(path):
 
 
 def soup(path):
-    return BeautifulSoup((ROOT / path).read_text(), "html.parser")
+    return BeautifulSoup(restore_signup((ROOT / path).read_text(),path), "html.parser")
 
 
 def config(path):
