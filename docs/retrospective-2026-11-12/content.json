@@ -1,0 +1,544 @@
+{
+  "2026-11-04": {
+    "title": "Iran Responds to America’s Vote.\nSouth Africa Votes on Services.\nUkraine Searches the Rubble.",
+    "subject": "Iran Responds to America’s Vote. South Africa Votes on Services. Ukraine Searches the Rubble.",
+    "preview_text": "Iran’s response, South Africa’s vote and Ukraine’s rescue, plus the rest of the world in six minutes.",
+    "description": "Iran interprets America’s election, South Africans vote amid service failures and Ukraine reports a rising strike toll.",
+    "contents_extra": "France’s blood storage cyberattack, global updates, trivia and your poll",
+    "stories": [
+      {
+        "topic": "nov4-iran-reaction-us-election-war",
+        "title": "Iran Reads America’s Midterm Vote as a Rejection of War",
+        "paragraphs": [
+          "Iran’s chief negotiator said Americans had voted against war after the U.S. midterm elections. <a href=\"https://www.bbc.com/news/articles/c6d934npl9y8o\">BBC News reports Mohammed Bagher Ghalibaf endorsed that message on Wednesday</a>. President Donald Trump acknowledged the Iran conflict and higher petrol prices hurt Republicans. He nevertheless said he did not regret launching the joint attack with Israel.",
+          "The response did not establish a diplomatic breakthrough. <a href=\"https://www.bbc.com/news/articles/c6d934npl9y8o\">BBC News reports Iran’s supreme leader said U.S. hostility would not change</a>. Indirect talks remained stalled, with Qatar mediating, while the Strait of Hormuz stayed effectively closed, disrupting an important global energy route. Neither the election result nor Tehran’s interpretation ended the conflict."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1593371514453-6a4cf71c583a?fm=jpg&fit=crop&w=1280&h=720&q=80",
+          "original_url": "https://unsplash.com/photos/city-skyline-under-blue-and-white-cloudy-sky-during-daytime-iBvy_yEBXuY",
+          "alt": "Tehran skyline beneath an orange evening sky",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov4-south-africa-local-voting-services",
+        "title": "South Africans Vote Amid Anger Over Water and Electricity Failures",
+        "paragraphs": [
+          "South Africans voted in municipal elections Wednesday amid frustration with water outages, power cuts and failing infrastructure. <a href=\"https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts\">The Guardian reports Johannesburg residents described repeated service breakdowns</a>. The African National Congress faced pressure from several rivals. Polling suggested losses, but those forecasts were not final results or an announcement of who would govern.",
+          "The vote chooses councillors rather than directly electing mayors. <a href=\"https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts\">The Guardian reports parties may need coalition negotiations after the count</a>. Johannesburg had already cycled through 10 mayors in as many years, with unstable local administrations complicating service delivery. Election officials had a week to announce final results before councils moved to select their leadership."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1678777726261-8c2fe3d43d61?fm=jpg&fit=crop&w=1280&h=720&q=80",
+          "original_url": "https://unsplash.com/photos/a-view-of-a-city-with-tall-buildings-Kse7hn70RLE",
+          "alt": "Johannesburg office buildings beneath a pale sky",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov4-ukraine-school-strike-rescue-update",
+        "title": "Zelenskyy Reports 40 Confirmed Dead in the Komyshuvakha Strike",
+        "paragraphs": [
+          "At 08:44 EST Wednesday, The Guardian reported Volodymyr Zelenskyy’s update that 40 people were confirmed dead after Monday’s Komyshuvakha school strike. <a href=\"https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news\">His account put more than 30 people still missing</a>. The building had served as an aid distribution site. Rescue operations continued as officials searched the rubble.",
+          "The revised toll followed earlier reports of 31 and then 33 deaths. <a href=\"https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes\">The Guardian’s morning briefing describes Russian strikes on energy infrastructure alongside the rescue effort</a>. Power stations and substations were hit across Ukraine. Diplomatic preparations continued for talks in Abu Dhabi, but those plans did not halt attacks or resolve the humanitarian emergency."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1634974648094-373c07c13281?fm=jpg&fit=crop&w=1280&h=720&q=80",
+          "original_url": "https://unsplash.com/photos/a-view-of-a-city-from-a-hill-P-KwJHz-5u0",
+          "alt": "Kyiv buildings seen through leafy trees",
+          "verified": true
+        }
+      }
+    ],
+    "deep_dive": {
+      "topic": "nov4-france-blood-storage-cyberattack",
+      "title": "A Cyberattack on French Blood Storage Shows the Stakes of Connected Equipment",
+      "paragraphs": [
+        "<strong>What happened.</strong> France’s national blood service said hackers raised temperatures at three cold stores containing blood products. <a href=\"https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe\">The Guardian reports alarms allowed technicians to intervene before the products were compromised</a>. The attack occurred overnight Monday and affected facilities run by contractors. Stored products, including plasma bags, were moved to other sites as a precaution.",
+        "<strong>Why it matters.</strong> Blood products depend on controlled storage conditions before reaching patients. <a href=\"https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe\">The Guardian reports the French service supplies more than 1,900 hospitals</a>. The incident followed refrigeration attacks on supermarkets in several European countries. Connected control systems let operators monitor equipment remotely, but unpatched vulnerabilities can also expose those systems to hostile interference.",
+        "<strong>What each side says.</strong> The blood service said it had alerted France’s cybersecurity agency and health ministry. <a href=\"https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe\">The Guardian reports European authorities were discussing a collective response</a>. No motive was known and nobody had claimed responsibility. Speculation about a state actor or an individual hacker remained speculation, not an established attribution of the attacks.",
+        "<strong>What comes next.</strong> The service said monitoring had been reinforced across its equipment. <a href=\"https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe\">The Guardian reports the affected blood products had been relocated</a>. Investigators still needed to establish responsibility and whether incidents shared a cause. Wednesday’s reporting showed successful intervention at these stores, not proof that all connected refrigeration systems were secure against future attacks."
+      ],
+      "region": "world",
+      "photo": {
+        "image_url": "https://images.unsplash.com/photo-1748261348213-62f4c399bb72?fm=jpg&fit=crop&w=1280&h=720&q=80",
+        "original_url": "https://unsplash.com/photos/scientist-is-using-a-pipette-in-a-laboratory-lgkareDEqKg",
+        "alt": "Hands using a pipette beside laboratory tubes",
+        "verified": true
+      }
+    },
+    "trivia": {
+      "question": "Which country’s national blood service reported the cold store cyberattack?",
+      "options": [
+        "France",
+        "Germany",
+        "Italy",
+        "Belgium"
+      ],
+      "correct_letter": "A",
+      "explanation": "France is correct. <a href=\"https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe\">Its national blood service said alarms protected products at three affected cold stores</a>."
+    },
+    "poll": {
+      "question": "Current reader opinion: should critical medical storage systems receive stronger cybersecurity oversight?",
+      "slug": "nov4-2026-medical-storage-security",
+      "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+      "duration_days": 7,
+      "registered": false
+    },
+    "briefing": {
+      "World view": [
+        "<strong>Israel’s election commission rejects fraud claims</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud\">The Guardian reports the decision addressed allegations promoted by Netanyahu</a>.",
+        "<strong>Canada joins a hockey boycott coalition</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war\">The Guardian reports opposition to playing Russia over the Ukraine war</a>.",
+        "<strong>Canada confirms a fatal grizzly attack</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed\">The Guardian reports a mother and daughter were killed near their home</a>."
+      ],
+      "Need to know": [
+        "<strong>A British Ebola patient is being evacuated</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows\">The Guardian reports a transfer from Congo for specialist UK treatment</a>.",
+        "<strong>Britain proposes a lifetime pension income option</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/03/pension-income-retirement-for-17m-private-sector-workers\">The Guardian reports the policy concerns 17 million private sector workers</a>.",
+        "<strong>Australia defends its social media ban in court</strong>, <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/teen-social-media-ban-burden-freedom-of-political-communication-reddit\">The Guardian reports the government addressed teenagers’ political communication</a>."
+      ],
+      "Money & markets": [
+        "<strong>BMW warns on profits</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts\">The Guardian reports restructuring includes a plan for 8,000 job cuts</a>.",
+        "<strong>M&S’s chief criticises the UK budget</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back\">The Guardian reports Stuart Machin also welcomed an expected European food trade deal</a>.",
+        "<strong>UK services activity accelerates before a rate decision</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/04/uk-interest-rates-increase-expected-service-sector-activity-accelerates-pmi\">The Guardian reports a survey reached an 8 month high</a>."
+      ],
+      "Future frontiers": [
+        "<strong>A study raises concerns about dairy substitutes</strong>, <a href=\"https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine\">The Guardian reports possible micronutrient deficiencies and calls for iodine fortification</a>.",
+        "<strong>Penguin guano can accelerate snowmelt</strong>, <a href=\"https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster\">The Guardian reports it feeds algae that absorb more solar energy</a>.",
+        "<strong>Drug developers explore manufacturing in orbit</strong>, <a href=\"https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space\">The Guardian reports research into potential cancer medicines</a>."
+      ],
+      "The score": [
+        "<strong>New Orleans beats Memphis 135 to 134</strong>, <a href=\"https://www.nba.com/news/starting-5-november-3-2026\">NBA.com reports Monday’s overtime final before Tuesday’s election pause</a>.",
+        "<strong>Pulisic, Balogun and McKennie return to the U.S. squad</strong>, <a href=\"https://apnews.com/article/pulisic-balogun-mckennie-us-roster-70316c0f65922f50468aa7f85235ae28\">AP reports Wednesday’s roster for the Nations League quarterfinals against Haiti</a>.",
+        "<strong>Atlanta begins training for the NFL’s Madrid game</strong>, <a href=\"https://apnews.com/article/nfl-madrid-atlanta-falcons-cincinnati-bengals-18e2fb5842d56f453ab9092c09312aca\">AP reports Wednesday’s preparations at Real Madrid’s training centre</a>."
+      ],
+      "Life & culture": [
+        "<strong>A novel about a 1949 killing wins France’s top literary prize</strong>, <a href=\"https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada\">The Guardian reports the story concerns a Paris model</a>.",
+        "<strong>Kellogg’s changes cereal recipes</strong>, <a href=\"https://www.theguardian.com/food/2026/nov/03/kelloggs-rice-krispies-coco-pops-reformulated-rice-shortage\">The Guardian reports rice flour substitutes as weather affects grain availability</a>.",
+        "<strong>Dustin Hoffman revisits The Graduate in his memoir</strong>, <a href=\"https://www.theguardian.com/film/2026/nov/03/dustin-hoffman-memoir-look-at-me-the-graduate-mike-nichols\">The Guardian reports he describes filming as a difficult experience</a>."
+      ]
+    },
+    "qa_notes": {
+      "status": "REVIEW_ONLY_NOT_PUBLISHED",
+      "uncertainties": [
+        "Later modified brief originals use separately captured dated issue headline/standfirst corroboration only.",
+        "No later body details were imported into index-corroborated briefs.",
+        "Nov4 retains one explicitly labelled Monday NBA final and adds Wednesday U.S. soccer/NFL developments.",
+        "Period evidence is a dated publisher issue or explicit editorial version, not a frozen historical archive."
+      ]
+    },
+    "date_line": "Wednesday, November 4, 2026 · 6 min read",
+    "covered_date": "2026-11-04",
+    "added_date": "2026-11-12",
+    "historical_cutoff": "2026-11-04T23:59:59-05:00",
+    "notice": "Retrospective Edition · Covers November 4, 2026 · Added November 12, 2026.",
+    "cutoff_explanation": "Reporting reflects the covered date’s cutoff, not later developments."
+  },
+  "2026-11-05": {
+    "title": "Europe Faces Flight Bomb Hoaxes.\nHormuz Shipping Remains at Risk.\nBritain Raises Interest Rates.",
+    "subject": "Europe Faces Flight Bomb Hoaxes. Hormuz Shipping Remains at Risk. Britain Raises Interest Rates.",
+    "preview_text": "Flight hoaxes, tanker risks and Britain’s rate increase, plus the rest of the world in six minutes.",
+    "description": "Bomb threats disrupt European flights, Iran claims more tanker incidents and Britain raises its base rate to 4%.",
+    "contents_extra": "Joshua Wong’s new prison sentence, global updates, trivia and your poll",
+    "stories": [
+      {
+        "topic": "nov5-europe-flight-bomb-threats",
+        "title": "Bomb Hoaxes Force Emergency Landings and Military Escorts Across Europe",
+        "paragraphs": [
+          "Bomb threats disrupted flights across Europe Thursday, prompting emergency landings, searches and military escorts. <a href=\"https://apnews.com/live/europe-flights-diverted-bomb-threats-news-updates-11-5-2026\">AP reports more than a dozen flights were confirmed targets</a>. Inspections had found no hazardous or suspicious materials. An Aer Lingus flight from Dublin to Rome landed at a French military base with everyone aboard safe.",
+          "The threats’ origin remained uncertain. <a href=\"https://apnews.com/live/europe-flights-diverted-bomb-threats-news-updates-11-5-2026\">AP reviewed an email claiming to come from an antifeminist group</a>, but did not establish who was responsible. European transport officials activated aviation security information sharing. They said investigations continued and it was too early to determine whether the incidents were linked or involved a cyberattack."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1564921267389-fb591219b649?fm=jpg&fit=crop&w=1280&h=720&q=80",
+          "original_url": "https://unsplash.com/photos/interior-of-an-airport-terminal-jho3ksULo4Q",
+          "alt": "A silhouetted traveller waits inside an airport",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov5-hormuz-tanker-claims-projectile-report",
+        "title": "Iran Claims More Tanker Mine Strikes While Maritime Monitors Report an Attack",
+        "paragraphs": [
+          "Iranian forces said more tankers were damaged near the Strait of Hormuz on Thursday. <a href=\"https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack\">Al Jazeera reports Iranian statements describing mine strikes and fires</a>. Those claims did not independently establish the number of vessels hit. The waterway normally carries about a fifth of global oil consumption, making disruptions internationally significant.",
+          "A separate report described an attack off Qatar, with responsibility not immediately claimed. <a href=\"https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack\">Al Jazeera reports British maritime monitors said two projectiles struck a tanker Wednesday night</a>. Qatar continued mediation efforts, but military warnings persisted. The reported incidents showed shipping remained exposed despite diplomatic proposals aimed at ending the conflict."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1518527989017-5baca7a58d3c?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/aerial-photography-of-tanker-ship--subrrYxv8A",
+          "alt": "A red tanker viewed from above",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov5-bank-england-rate-rise",
+        "title": "The Bank of England Raises Its Base Rate to 4%",
+        "paragraphs": [
+          "The Bank of England raised interest rates Thursday for the first time in more than 3 years. <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">The Guardian reports the base rate increased from 3.75% to 4%</a>. Eight policymakers supported that increase. A ninth preferred a larger rise as the bank confronted inflation linked to higher energy costs.",
+          "The decision increases pressure on borrowers while potentially improving some savings returns. <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">The Guardian reports Governor Andrew Bailey signalled another increase could be needed</a>. He did not describe a long sequence of rises as inevitable. The bank’s inflation outlook depended heavily on the Iran conflict and whether lower energy prices persisted."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1760299477470-a93208e294f2?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/sheep-graze-in-a-green-field-overlooking-a-village-ag22n7hAGlo",
+          "alt": "Green fields and houses in the English countryside",
+          "verified": true
+        }
+      }
+    ],
+    "deep_dive": {
+      "topic": "nov5-joshua-wong-national-security-sentence",
+      "title": "Joshua Wong’s New Sentence Extends Hong Kong’s National Security Crackdown",
+      "paragraphs": [
+        "<strong>What happened.</strong> A Hong Kong court sentenced activist Joshua Wong to 10 years in prison Thursday after his guilty plea to foreign collusion. <a href=\"https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case\">The Guardian reports the sentence runs alongside the remaining term of an earlier conviction</a>. It was his second prosecution under the national security law, which Beijing introduced after the city’s mass protests.",
+        "<strong>Why it matters.</strong> Wong became internationally known during Hong Kong’s 2014 democracy demonstrations. <a href=\"https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case\">The Guardian reports he had already spent nearly 6 years in detention</a>. Before this sentence, he had been due for release in January 2027. The new case concerned efforts to encourage foreign sanctions and related measures against China, including social media activity.",
+        "<strong>What each side says.</strong> The judge described Wong’s conduct as grave and part of a scheme involving foreign governments. <a href=\"https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case\">The Guardian reports rights groups said the law punishes peaceful dissent</a>. The U.S. consulate condemned the sentence and sought his release. China’s foreign ministry rejected outside criticism and urged respect for sovereignty and Hong Kong’s legal system.",
+        "<strong>What comes next.</strong> The sentence leaves one of the democracy movement’s most recognizable figures facing years more in prison. <a href=\"https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case\">The Guardian reports diplomats and supporters attended the hearing</a>. The dispute over the law’s purpose remains unresolved. Beijing describes it as necessary for stability, while critics say it has suppressed opposition and weakened civil society."
+      ],
+      "region": "world",
+      "photo": {
+        "image_url": "https://images.unsplash.com/photo-1750700206243-52c6e2e87632?fm=jpg&fit=crop&w=1280&h=720&q=80",
+        "original_url": "https://unsplash.com/photos/nighttime-skyline-of-hong-kong-lit-up-cZ2PwQJ8Fpw",
+        "alt": "Hong Kong’s illuminated waterfront at night",
+        "verified": true
+      }
+    },
+    "trivia": {
+      "question": "What base rate did the Bank of England set on November 5?",
+      "options": [
+        "3%",
+        "3.5%",
+        "4.5%",
+        "4%"
+      ],
+      "correct_letter": "D",
+      "explanation": "4% is correct. <a href=\"https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years\">The bank raised its rate from 3.75% on November 5</a>."
+    },
+    "poll": {
+      "question": "Current reader opinion: should Europe coordinate a common response to aviation bomb hoaxes?",
+      "slug": "nov5-2026-europe-aviation-hoaxes",
+      "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+      "duration_days": 7,
+      "registered": false
+    },
+    "briefing": {
+      "World view": [
+        "<strong>New Zealand approaches a close election</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party\">The Guardian reports a minor party could hold the balance of power</a>.",
+        "<strong>German politician Hubert Aiwanger is found dead</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel\">The Guardian reports police opened an investigation</a>.",
+        "<strong>Israel’s president defers his government formation choice</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision\">The Guardian reports Eisenkot secured endorsements from 67 lawmakers</a>."
+      ],
+      "Need to know": [
+        "<strong>A British Ebola patient reaches London</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital\">The Guardian reports specialist isolation care at the Royal Free hospital</a>.",
+        "<strong>Regulators warn South West Water about leaks</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk\">The Guardian reports failures put customers’ supplies at risk</a>.",
+        "<strong>Britain plans rules for shared ebike parking</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport\">The Guardian reports ministers want to address blocked pavements</a>."
+      ],
+      "Money & markets": [
+        "<strong>BT reports almost 8,000 job cuts</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price\">The Guardian links the reduction to a cost saving programme</a>.",
+        "<strong>Developing country debt reaches $9.4 trillion</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data\">The Guardian reports a record total in World Bank data</a>.",
+        "<strong>Poundland’s owner calls the chain vulnerable</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers\">The Guardian reports the statement followed talks with ministers</a>."
+      ],
+      "Future frontiers": [
+        "<strong>IBM and partners launch a quantum error correction platform</strong>, <a href=\"https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction\">IBM says the project combines quantum and classical computing research</a>.",
+        "<strong>The wettest rainstorms become more concentrated</strong>, <a href=\"https://www.theguardian.com/news/2026/nov/05/worlds-wettest-rainstorms-getting-worse-flood-drought-risk\">The Guardian reports shorter, more intense events with flood and drought implications</a>.",
+        "<strong>European activists plan datacentre protests</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres\">The Guardian reports preparations for 2 days of action</a>."
+      ],
+      "The score": [
+        "<strong>San Antonio beats Dallas 112 to 111</strong>, <a href=\"https://www.nba.com/news/starting-5-november-5-2026\">NBA.com reports Victor Wembanyama scored 52 on Wednesday</a>.",
+        "<strong>The Lakers defeat Sacramento 116 to 103</strong>, <a href=\"https://www.nba.com/news/starting-5-november-5-2026\">NBA.com reports Luka Dončić scored 40</a>.",
+        "<strong>Oklahoma City beats Cleveland 124 to 116</strong>, <a href=\"https://www.nba.com/news/starting-5-november-5-2026\">NBA.com reports 42 points from Shai Gilgeous Alexander</a>."
+      ],
+      "Life & culture": [
+        "<strong>The Guardian remembers actor Elke Sommer</strong>, <a href=\"https://www.theguardian.com/film/2026/nov/05/elke-sommer-obituary\">Its obituary marks the career of the A Shot in the Dark star</a>.",
+        "<strong>Ramayana opens to mixed reviews</strong>, <a href=\"https://www.bbc.com/news/articles/cm93zv62v1n7o\">BBC News reports the Hindu epic reaches cinemas worldwide</a>.",
+        "<strong>Late night hosts react to the U.S. midterms</strong>, <a href=\"https://www.theguardian.com/culture/2026/nov/05/seth-meyers-midterms-trump\">The Guardian reports television monologues from Seth Meyers and other comedians</a>."
+      ]
+    },
+    "qa_notes": {
+      "status": "REVIEW_ONLY_NOT_PUBLISHED",
+      "uncertainties": [
+        "Later modified brief originals use separately captured dated issue headline/standfirst corroboration only.",
+        "No later body details were imported into index-corroborated briefs.",
+        "Nov4 retains one explicitly labelled Monday NBA final and adds Wednesday U.S. soccer/NFL developments.",
+        "Period evidence is a dated publisher issue or explicit editorial version, not a frozen historical archive."
+      ]
+    },
+    "date_line": "Thursday, November 5, 2026 · 6 min read",
+    "covered_date": "2026-11-05",
+    "added_date": "2026-11-12",
+    "historical_cutoff": "2026-11-05T23:59:59-05:00",
+    "notice": "Retrospective Edition · Covers November 5, 2026 · Added November 12, 2026.",
+    "cutoff_explanation": "Reporting reflects the covered date’s cutoff, not later developments."
+  },
+  "2026-11-11": {
+    "title": "Russia and Ukraine Agree a Swap.\nClimate Leaders Demand Action.\nIndonesia Faces a VP Showdown.",
+    "subject": "Russia and Ukraine Agree a Swap. Climate Leaders Demand Action. Indonesia Faces a VP Showdown.",
+    "preview_text": "A prisoner swap, climate speeches and Indonesia’s VP crisis, plus the rest of the world in six minutes.",
+    "description": "Russia and Ukraine agree a prisoner exchange, climate leaders press for action and Indonesia faces a vice presidential showdown.",
+    "contents_extra": "The Fairford security case, global updates, trivia and your poll",
+    "stories": [
+      {
+        "topic": "nov11-abu-dhabi-prisoner-exchange-agreement",
+        "title": "Russia and Ukraine Agree a Prisoner Exchange but Report No Major Peace Breakthrough",
+        "paragraphs": [
+          "Russia and Ukraine agreed to a large prisoner exchange Wednesday as talks in Abu Dhabi ended without a major peace breakthrough. <a href=\"https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64\">AP reports both delegations confirmed the planned swap</a>. Russia’s negotiator described the agreement as in principle. The number of prisoners and practical arrangements had not been finalized.",
+          "The humanitarian agreement did not settle disputes over territory or security guarantees. <a href=\"https://apnews.com/article/russia-ukraine-war-talks-kushner-witkoff-7c8d1024302e0c6ad8be064eec852a64\">AP reports U.S. envoys planned separate meetings with Vladimir Putin and Volodymyr Zelenskyy</a>. European participation remained contested, with Moscow opposing a direct role. The talks were the delegations’ first meeting in 9 months, while missile and drone attacks continued."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1653070142918-3805a6c62e1e?fm=jpg&fit=crop&w=1280&h=720&q=80",
+          "original_url": "https://unsplash.com/photos/a-large-body-of-water-with-a-building-in-the-background-wivY02J5Z_o",
+          "alt": "Illuminated Abu Dhabi mosque reflected in water",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov11-cop31-leaders-speeches",
+        "title": "Climate Leaders Warn That War Cannot Put Emissions Action on Hold",
+        "paragraphs": [
+          "World leaders began two days of COP31 speeches in Antalya on Wednesday. <a href=\"https://www.reuters.com/3fec1b0a85a0/sustainability/cop/world-leaders-address-cop31-turkey-pushes-new-climate-deal-2026-11-11/\">Reuters reports the summit seeks progress despite wars, inflation and other competing crises</a>. U.N. Secretary General António Guterres said the climate crisis was outrunning the international response. Turkey wants electrification at the centre of a final agreement.",
+          "The proposal would raise electricity’s share of global energy use to 35% by 2035. <a href=\"https://www.reuters.com/3fec1b0a85a0/sustainability/cop/world-leaders-address-cop31-turkey-pushes-new-climate-deal-2026-11-11/\">Reuters reports critics want a clearer plan to reduce fossil fuel use</a>. The United States stayed away for a second year. <a href=\"https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates\">Barbados’s Mia Mottley called for cheaper finance and disaster clauses in international loans</a>, highlighting vulnerable countries’ demands."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1768123678872-b6a826b7bac5?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/boats-docked-in-a-harbor-with-mountains-in-background-Ugv4QAu7IHQ",
+          "alt": "Harbour with Turkish flag and mountains",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov11-gibran-impeachment-motion-resignation-intent",
+        "title": "Indonesia’s Lawmakers Prepare a Motion as Gibran’s Resignation Plans Advance",
+        "paragraphs": [
+          "Indonesia’s vice presidential crisis advanced on Wednesday as lawmakers prepared a parliamentary motion. <a href=\"https://en.antaranews.com/news/441863/budi-arie-confirms-gibrans-resignation-as-vp\">Antara reports Deputy Speaker Saan Mustopa planned to submit it to Thursday’s plenary</a>. The proposal had support from 120 legislators. Projo leader Budi Arie Setiadi also confirmed Gibran Rakabuming Raka’s resignation plans when contacted by the agency.",
+          "Formal completion remained distinct from those statements at this edition’s cutoff. <a href=\"https://en.antaranews.com/news/441583/palace-confirms-gibrans-intention-to-resign-from-vice-presidency\">The palace had confirmed Gibran’s intention to step down on Tuesday</a>, following a meeting with President Prabowo Subianto. The dispute concerned his educational qualifications. A Supreme Court ruling invalidated his equivalency certificate, while Gibran sought another opportunity to defend his diplomas in court."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1770345743231-e17c1489435e?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/skyscrapers-rise-above-a-green-park-on-a-hazy-day-CQn9bQ17Ers",
+          "alt": "Central Jakarta skyline seen from Monas",
+          "verified": true
+        }
+      }
+    ],
+    "deep_dive": {
+      "topic": "nov11-fairford-base-security-indictment",
+      "title": "How an Alleged Fairford Plot Tested Security Around a U.S. Bomber Base",
+      "paragraphs": [
+        "<strong>What happened.</strong> U.S. prosecutors unsealed charges Tuesday against three men accused of an international attack campaign. <a href=\"https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy\">NPR reports the indictment includes a September plot against RAF Fairford</a>, a British base hosting American bombers. Prosecutors linked the defendants to Iran’s Revolutionary Guards and Kata’ib Hezbollah. The charges describe allegations, not findings of guilt.",
+        "<strong>Why it matters.</strong> Fairford serves as a forward operating base for U.S. strategic bombers. <a href=\"https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy\">NPR reports associates allegedly filmed its perimeter and obtained vans and fuel drums</a>. Prosecutors say the vehicles carried false commercial branding. Two were stopped near the base at a security roadblock, and authorities seized all three the following morning.",
+        "<strong>What each side says.</strong> The indictment alleges the network continued operating after one defendant entered U.S. custody in May. <a href=\"https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack\">The Guardian reports prosecutors say coded family calls transmitted instructions</a>. The alleged preparations included researching chemical accelerants and metal objects for shrapnel. The Fairford allegations form part of a broader case involving attacks on Jewish communities.",
+        "<strong>What comes next.</strong> The criminal case must test prosecutors’ account rather than treating the indictment as a verdict. <a href=\"https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy\">NPR notes British authorities had separately charged two men over the incident</a>. Neither government confirmed a reported recent aircraft relocation was caused by an Iranian threat. Britain’s defence ministry said aircraft routinely move for operational reasons."
+      ],
+      "region": "world",
+      "photo": {
+        "image_url": "https://images.unsplash.com/photo-1691420030804-a1bf1ad87197?fm=jpg&fit=crop&w=1280&h=720&q=85",
+        "original_url": "https://unsplash.com/photos/a-row-of-old-stone-houses-on-a-grassy-field-wXeXCNS3NNg",
+        "alt": "Stone cottages in an English village",
+        "verified": true
+      }
+    },
+    "trivia": {
+      "question": "At what time of day did the 1918 armistice take effect?",
+      "options": [
+        "9:00",
+        "11:00",
+        "12:00",
+        "15:00"
+      ],
+      "correct_letter": "B",
+      "explanation": "11:00 is correct. <a href=\"https://www.bbc.co.uk/news/articles/c68j4lez4x4no\">The Armistice took effect at 11:00 on 11 November 1918</a>."
+    },
+    "poll": {
+      "question": "Current reader opinion: should prisoner exchanges continue even when broader peace talks stall?",
+      "slug": "nov11-2026-prisoner-exchanges",
+      "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+      "duration_days": 7,
+      "registered": false
+    },
+    "briefing": {
+      "World view": [
+        "<strong>Ukraine reports its first Indonesian prisoner of war</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia\">The Guardian reports the capture amid increased Russian recruitment</a>.",
+        "<strong>Hasina’s party describes a planned December return</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile\">The Guardian reports the exiled former Bangladesh leader requested a passport</a>.",
+        "<strong>Rights groups condemn a reported Saudi flogging sentence</strong>, <a href=\"https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage\">The Guardian says a Kenyan mother faces 100 lashes after an unmarried birth</a>."
+      ],
+      "Need to know": [
+        "<strong>Wheelchair delays limit independence in England</strong>, <a href=\"https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs\">The Guardian reports an ombudsman found waits of up to 2 years</a>.",
+        "<strong>Schools face another wave of hoax bomb threats</strong>, <a href=\"https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland\">The Guardian reports police found no credible wider threat in Scotland</a>.",
+        "<strong>Britain’s air traffic chief recalls flight chaos</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/air-traffic-control-nats-martin-rolfe-outages-ryanair\">The Guardian reports his description of becoming deeply unpopular after disruption</a>."
+      ],
+      "Money & markets": [
+        "<strong>Aldi cuts UK office roles</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming\">The Guardian reports technology consultations follow earlier finance and administration redundancies</a>.",
+        "<strong>David Jones plans to close half its stores</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure\">The Guardian reports the Australian chain announced an urgent restructuring</a>.",
+        "<strong>Nissan reduces petrol car production</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china\">The Guardian reports the decision as electric vehicle sales boom in China</a>."
+      ],
+      "Future frontiers": [
+        "<strong>England’s regulator urges more AI free assessments</strong>, <a href=\"https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator\">The Guardian reports concerns that widespread AI use undermines reliable university grading</a>.",
+        "<strong>Genetic risk does not explain a diabetes pattern</strong>, <a href=\"https://news.cuanschutz.edu/news-stories/cu-anschutz-led-study-finds-that-genetic-risk-does-not-explain-the-maternal-effect-in-type-1-diabetes\">CU Anschutz reports similar inherited risk despite different rates among affected parents’ children</a>.",
+        "<strong>A mouse study tests heart scarring treatment</strong>, <a href=\"https://blogs.bcm.edu/2026/11/10/new-treatment-reduces-heart-scarring-and-abnormal-heart-rhythms-offering-a-possibility-for-future-therapies/\">Baylor College of Medicine reports reduced scarring and abnormal rhythms, not a proven human therapy</a>."
+      ],
+      "The score": [
+        "<strong>Boston beats Philadelphia 123 to 101</strong>, <a href=\"https://www.nba.com/news/starting-5-november-11-2026\">NBA.com reports Paul George scored 36 in Tuesday’s final</a>.",
+        "<strong>Portland defeats Oklahoma City 123 to 103</strong>, <a href=\"https://www.nba.com/news/starting-5-november-11-2026\">NBA.com reports Damian Lillard scored 25 in Tuesday’s game</a>.",
+        "<strong>New York beats Milwaukee 117 to 85</strong>, <a href=\"https://www.nba.com/news/starting-5-november-11-2026\">NBA.com reports Jalen Brunson scored 23</a>."
+      ],
+      "Life & culture": [
+        "<strong>Britain observes Armistice Day</strong>, <a href=\"https://www.bbc.co.uk/news/articles/c68j4lez4x4no\">BBC News reports a national silence at 11:00 and services across the UK</a>.",
+        "<strong>A miniature record player joins the Christmas toy list</strong>, <a href=\"https://www.theguardian.com/lifeandstyle/2026/nov/11/mini-record-player-on-track-for-no-1-in-christmas-toy-parade\">The Guardian says tiny discs trigger stored clips rather than playing vinyl</a>.",
+        "<strong>David Walliams’s film cameo is cut</strong>, <a href=\"https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-australian-film-cameo-cut-sexual-harassment-allegations-ntwnfb\">The Guardian reports the decision followed sexual harassment allegations</a>."
+      ]
+    },
+    "qa_notes": {
+      "status": "REVIEW_ONLY_NOT_PUBLISHED",
+      "uncertainties": [
+        "Government and military statements are attributed, not independently established conclusions.",
+        "Nov12 outcome reflects opened midday live coverage, not the stale morning meeting plan.",
+        "Current poll is a proposal; parent must register it with actual publication opening time."
+      ]
+    },
+    "date_line": "Wednesday, November 11, 2026 · 6 min read",
+    "covered_date": "2026-11-11",
+    "added_date": "2026-11-12",
+    "historical_cutoff": "2026-11-11T23:59:59-05:00",
+    "notice": "Retrospective Edition · Covers November 11, 2026 · Added November 12, 2026.",
+    "cutoff_explanation": "Reporting reflects the covered date’s cutoff, not later developments."
+  },
+  "2026-11-12": {
+    "title": "Indonesia’s Vice President Resigns.\nMoscow Talks Lead to Another Round.\nIran Warns of Wider Retaliation.",
+    "subject": "Indonesia’s Vice President Resigns. Moscow Talks Lead to Another Round. Iran Warns of Wider Retaliation.",
+    "preview_text": "Gibran resigns, diplomacy moves beyond Moscow and Iran warns, plus the rest of the world in six minutes.",
+    "description": "Gibran submits his resignation, U.S. envoys leave Moscow after peace talks and Iran warns against renewed attacks.",
+    "contents_extra": "Spain’s general strike over housing, global updates, trivia and your poll",
+    "stories": [
+      {
+        "topic": "nov12-gibran-formal-resignation-letter",
+        "title": "Gibran Submits His Resignation as Indonesia’s Vice President",
+        "paragraphs": [
+          "Gibran Rakabuming Raka submitted his resignation to Indonesia’s parliamentary assembly leaders on Thursday. <a href=\"https://en.antaranews.com/news/442051/gibran-resigns-as-vice-president-letter-gives-no-reason-mpr\">Antara reports Speaker Ahmad Muzani read the letter to journalists after a 20 minute meeting</a>. The letter gave no specific reason. Gibran said he acted voluntarily for the nation and the smooth functioning of government.",
+          "The assembly speaker said the vice presidential post was now vacant. <a href=\"https://en.antaranews.com/news/442051/gibran-resigns-as-vice-president-letter-gives-no-reason-mpr\">Antara reports the assembly would hold a joint session and notify President Prabowo Subianto</a>. Muzani said a 14 day nomination period would follow that notification. The formal letter follows Tuesday’s stated intention to resign amid a dispute over Gibran’s educational qualifications."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1555043722-4523972f07ee?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/jakarta-city-road-with-pedestrian-bridge-XYQPyn4KkiY",
+          "alt": "South Jakarta office towers",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov12-putin-meeting-completed-next-trilateral-round",
+        "title": "Witkoff Says Another Ukraine Talks Round Is Agreed After Meeting Putin",
+        "paragraphs": [
+          "U.S. envoys completed their meeting with Vladimir Putin in Moscow on Thursday. <a href=\"https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates\">The Guardian’s dated live coverage reports Steve Witkoff said another trilateral round was agreed</a>. He said Europeans would join the next meeting. Witkoff and Jared Kushner then left Moscow en route to Dublin for consultations with Ukrainian President Volodymyr Zelenskyy.",
+          "The agreement to meet again was not a peace settlement. <a href=\"https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates\">The Guardian reports Putin repeated demands over occupied territory and opposed foreign peacekeepers</a>. The Kremlin called the talks useful and said the process would continue. <a href=\"https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892\">ABC News describes unresolved differences over territory and security guarantees</a> after the earlier Abu Dhabi discussions."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1652342532673-59a848be8a0a?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/moscow-kremlin-over-a-river-with-a-boat-on-it-and-a-large-building-in-the-background-iRLZWPATf-w",
+          "alt": "Kremlin beside the Moscow River",
+          "verified": true
+        }
+      },
+      {
+        "topic": "nov12-iran-warning-israel-readiness-report",
+        "title": "Iran Warns of Wider Retaliation as Israeli Strike Preparations Are Reported",
+        "paragraphs": [
+          "Iran warned it could target bases beyond the region if the United States launched another war. <a href=\"https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack\">Al Jazeera attributes the warning to security chief Mohsen Rezaei</a>. The report followed Israeli broadcaster KAN’s account of military preparations for a possible attack. Those reported directives did not establish that any attack had begun.",
+          "The preparations also exposed a dispute within Israeli politics. <a href=\"https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack\">Al Jazeera reports Gadi Eisenkot urged caretaker Prime Minister Benjamin Netanyahu to avoid unnecessary operations</a>. Eisenkot is trying to form the next government. Washington continued to emphasize economic pressure and diplomacy, while Tehran said trust remained an obstacle to agreement over the Strait of Hormuz."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1678133987650-75a5856da227?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/a-view-of-a-city-from-the-top-of-a-hill-Q1FfRjFpXeE",
+          "alt": "Hillside city beyond rocky scrubland",
+          "verified": true
+        }
+      }
+    ],
+    "deep_dive": {
+      "topic": "spain-general-strike-housing-election-nov12",
+      "title": "Spain’s First General Strike in 14 Years Puts Housing at the Centre of the Election",
+      "paragraphs": [
+        "<strong>What happened.</strong> Spain held a general strike over housing costs on Wednesday, its first in 14 years. <a href=\"https://www.bbc.com/news/articles/cwvg25nypmrvo\">BBC News reports large marches in Madrid and Barcelona</a>. Some Barcelona protesters set bins alight and smashed windows, and police used tear gas. The housing demonstrations came less than 3 weeks before a snap national election.",
+        "<strong>Why it matters.</strong> Rising rents have put housing at the centre of the campaign. <a href=\"https://www.bbc.com/news/articles/cwvg25nypmrvo\">BBC News reports a 50 square metre Madrid flat averaged 1,170 euros monthly in October</a>, citing Idealista. That figure describes advertised local rents, not every tenant’s bill. The strike brought tenants’ groups and workers’ unions together around demands for more affordable homes.",
+        "<strong>What each side says.</strong> Sánchez and his ministers encouraged workers to strike for affordable housing. <a href=\"https://www.bbc.com/news/articles/cwvg25nypmrvo\">BBC News reports the opposition People’s Party accused the government of exploiting the action for electoral gain</a>. Union leaders described participation as strong, while a business association called the protest political. Parliament’s failure to approve housing reform had prompted the snap election.",
+        "<strong>What comes next.</strong> Spaniards vote on 29 November, with housing costs now a central campaign issue. <a href=\"https://www.bbc.com/news/articles/cwvg25nypmrvo\">BBC News reports transport and other public services faced serious disruption during the strike</a>. Its reporting described dozens of arrests, not a final nationwide count. Participation figures and Wednesday’s clashes did not determine the election’s outcome or settle the housing policy dispute."
+      ],
+      "region": "world",
+      "photo": {
+        "image_url": "https://images.unsplash.com/photo-1753742284273-b800b8f5f6f4?fm=jpg&fit=crop&w=1280&h=720&q=85",
+        "original_url": "https://unsplash.com/photos/apartment-building-facade-with-many-balconies-T6Dva53Idsg",
+        "alt": "Apartment balconies in Madrid",
+        "verified": true
+      }
+    },
+    "trivia": {
+      "question": "How many days must pass before Kenya’s Ebola outbreak can be declared over?",
+      "options": [
+        "21",
+        "30",
+        "42",
+        "90"
+      ],
+      "correct_letter": "C",
+      "explanation": "42 days is correct. <a href=\"https://www.bbc.com/news/articles/cwe9kzv0g0v7o\">BBC News reports the countdown follows the final patient’s negative test and discharge</a>."
+    },
+    "poll": {
+      "question": "Current reader opinion: should Europe name one envoy to speak for it in Ukraine peace talks?",
+      "slug": "nov12-2026-europe-ukraine-envoy",
+      "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+      "duration_days": 7,
+      "registered": false
+    },
+    "briefing": {
+      "World view": [
+        "<strong>Ecuador investigates a journalist’s killing</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing\">The Guardian reports authorities had not established whether Tomás Beltrán’s work motivated the attack</a>.",
+        "<strong>Britain names a climate security representative</strong>, <a href=\"https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security\">The Guardian reports former intelligence committee chair Madeleine Alessandri will assess emerging risks</a>.",
+        "<strong>Romania indicts Călin Georgescu on fraud charges</strong>, <a href=\"https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates\">The Guardian’s Thursday live report says his wife denied the allegations as politically motivated</a>."
+      ],
+      "Need to know": [
+        "<strong>Kenya discharges its last Ebola patient</strong>, <a href=\"https://www.bbc.com/news/articles/cwe9kzv0g0v7o\">BBC News reports a 42 day countdown begins before the outbreak can be declared over</a>.",
+        "<strong>Doctors raise concerns about Hussam Abu Safiya’s health</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel\">The Guardian reports Israel’s prison service disputed allegations and said it operates lawfully</a>.",
+        "<strong>Italy weighs reinstating some struck off medics</strong>, <a href=\"https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates\">The Guardian reports the measure still needs Senate approval</a>."
+      ],
+      "Money & markets": [
+        "<strong>ITV plans £30 million in temporary savings</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales\">The Guardian reports £25 million would come from content as advertising weakens</a>.",
+        "<strong>MPs criticise Poundland’s owner</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court\">The Guardian reports Wednesday’s accusations over extracted funds while the chain sought a rescue</a>.",
+        "<strong>NIESR warns inflation could stay above target</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer\">The Guardian attributes the forecast and criticism of rate policy to the thinktank</a>."
+      ],
+      "Future frontiers": [
+        "<strong>Mouse research reveals another source of placental cells</strong>, <a href=\"https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta\">Caltech reports implantation observations that may inform future human research</a>.",
+        "<strong>Researchers test faster climate model training</strong>, <a href=\"https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112\">MIT reports optimized synthetic data improved an emulator’s performance in its experiments</a>.",
+        "<strong>Researchers propose more precise obesity diagnosis</strong>, <a href=\"https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index\">The Guardian reports BMI combined with waist measurements and organ tests distinguished different health risks</a>."
+      ],
+      "The score": [
+        "<strong>San Antonio beats Chicago 124 to 119</strong>, <a href=\"https://www.nba.com/news/starting-5-november-12-2026\">NBA.com reports a comeback secured the Spurs’ tenth straight win Wednesday</a>.",
+        "<strong>The Lakers defeat Milwaukee 123 to 112</strong>, <a href=\"https://www.nba.com/news/starting-5-november-12-2026\">NBA.com reports Luka Dončić scored 32 before leaving with a rolled ankle</a>.",
+        "<strong>Houston beats Golden State 115 to 108</strong>, <a href=\"https://www.nba.com/news/starting-5-november-12-2026\">NBA.com reports the result ended the Warriors’ 8 game winning streak</a>."
+      ],
+      "Life & culture": [
+        "<strong>A bronze leg takes centre stage in Edinburgh</strong>, <a href=\"https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit\">The Guardian reports new interpretation of a Roman fragment before Saturday’s exhibition opening</a>.",
+        "<strong>Pope Leo arrives in Peru</strong>, <a href=\"https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html\">Vatican News reports Wednesday’s welcome at Callao began the final leg of his South American journey</a>.",
+        "<strong>Caine Prize clears Simbarashe Kundizeza of AI use</strong>, <a href=\"https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story\">The Guardian reports investigators concluded The Blue Fighter was human written</a>."
+      ]
+    },
+    "qa_notes": {
+      "status": "REVIEW_ONLY_NOT_PUBLISHED",
+      "uncertainties": [
+        "Government and military statements are attributed, not independently established conclusions.",
+        "Nov12 outcome reflects opened midday live coverage, not the stale morning meeting plan.",
+        "Current poll is a proposal; parent must register it with actual publication opening time."
+      ]
+    },
+    "date_line": "Thursday, November 12, 2026 · 6 min read",
+    "covered_date": "2026-11-12",
+    "added_date": "2026-11-12",
+    "historical_cutoff": "2026-11-12T20:40:12.196417+00:00",
+    "notice": "Archive Edition · Covers November 12, 2026 · Added November 12, 2026.",
+    "cutoff_explanation": "Reporting reflects the covered date’s cutoff, not later developments."
+  }
+}

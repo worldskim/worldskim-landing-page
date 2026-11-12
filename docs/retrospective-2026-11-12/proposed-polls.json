@@ -1,0 +1,34 @@
+[
+  {
+    "edition": "2026-11-04",
+    "question": "Current reader opinion: should critical medical storage systems receive stronger cybersecurity oversight?",
+    "slug": "nov4-2026-medical-storage-security",
+    "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+    "duration_days": 7,
+    "registered": false
+  },
+  {
+    "edition": "2026-11-05",
+    "question": "Current reader opinion: should Europe coordinate a common response to aviation bomb hoaxes?",
+    "slug": "nov5-2026-europe-aviation-hoaxes",
+    "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+    "duration_days": 7,
+    "registered": false
+  },
+  {
+    "edition": "2026-11-11",
+    "question": "Current reader opinion: should prisoner exchanges continue even when broader peace talks stall?",
+    "slug": "nov11-2026-prisoner-exchanges",
+    "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+    "duration_days": 7,
+    "registered": false
+  },
+  {
+    "edition": "2026-11-12",
+    "question": "Current reader opinion: should Europe name one envoy to speak for it in Ukraine peace talks?",
+    "slug": "nov12-2026-europe-ukraine-envoy",
+    "opens_at": "PARENT_SET_ACTUAL_PUBLICATION_TIME",
+    "duration_days": 7,
+    "registered": false
+  }
+]

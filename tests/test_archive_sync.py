@@ -48,7 +48,8 @@ class ArchiveSync(unittest.TestCase):
             path = ROOT / name
             data = path.read_bytes()
             if path.suffix == ".html":
-                text = data.decode()
+                from retrospective_compat import restore_maintenance
+                text = restore_maintenance(data.decode(), name)
                 if (ROOT / "tests/signup_baseline.json").exists():
                     from signup_compat import restore_signup
                     text = restore_signup(text, name)

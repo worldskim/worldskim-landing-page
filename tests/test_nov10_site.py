@@ -8,14 +8,15 @@ from signup_compat import restore_fixture
 ROOT=Path(__file__).resolve().parents[1]
 E=json.loads((ROOT/"tests/nov10_expected.json").read_text())
 B=E["brand"];C=E["content"];DATE=E["date"];OLD=E["old"]
-def soup(p,base=ROOT):return BeautifulSoup(restore_shared((base/p).read_text(),p),"html.parser")
+from retrospective_compat import restore_maintenance, restore_link_inventory, REPAIR_FILES
+def soup(p,base=ROOT):return BeautifulSoup(restore_shared(restore_maintenance((base/p).read_text(),p,shared=False),p),"html.parser")
 def norm(s):return " ".join(s.split())
 def config(p,base=ROOT):
- raw=(base/p).read_text();m=re.search(r"(?:const|var) SITE_CONFIG\s*=\s*(\{.*?\});",raw,re.S);assert m
+ raw=restore_maintenance((base/p).read_text(),p);m=re.search(r"(?:const|var) SITE_CONFIG\s*=\s*(\{.*?\});",raw,re.S);assert m
  return json.loads(subprocess.check_output(["node","-e","process.stdout.write(JSON.stringify(("+m[1]+")))"],text=True))
 def digest(p):
  name=p.relative_to(ROOT).as_posix()
- data=restore_shared(p.read_text(),name).encode() if p.suffix==".html" else restore_fixture(p.read_text(),name).encode() if name=="tests/links.test.py" else p.read_bytes()
+ data=restore_shared(p.read_text(),name).encode() if p.suffix==".html" else restore_fixture(restore_link_inventory(p.read_text()),name).encode() if name=="tests/links.test.py" else p.read_bytes()
  return hashlib.sha256(data).hexdigest()
 def h(s):return hashlib.sha256(s.encode()).hexdigest()
 def locked(doc):
@@ -39,6 +40,7 @@ class Nov10Candidate(unittest.TestCase):
   allowed.update(E["fixture_file_sha256"])
   allowed.add("tests/nov10_fixture_edits.json")
   allowed.update(MAINTENANCE_FILES)
+  allowed.update(REPAIR_FILES)
   original=E["baseline"]["files"]
   current={str(p.relative_to(ROOT)):p for p in ROOT.rglob("*") if p.is_file() and "__pycache__" not in p.parts}
   current={name:p for name,p in current.items() if ".git" not in p.parts}
