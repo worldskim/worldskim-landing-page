@@ -51,7 +51,7 @@ class Signup(unittest.TestCase):
                 self.assertIn("required",visible[0])
                 self.assertIn("aria-describedby",visible[0])
                 count+=1
-        self.assertEqual(count,13)
+        self.assertEqual(count, len(list((ROOT / "editions").glob("????-??-??.html"))) + 5)
 
     def test_native_signup_generation_is_idempotent(self):
         self.assertEqual(sync.planned(ROOT),{})
@@ -65,7 +65,8 @@ class Signup(unittest.TestCase):
     def test_scope_preserves_non_signup_bytes(self):
         from signup_compat import restore_signup,MANIFEST
         for name,data in MANIFEST["pages"].items():
-            restored=restore_signup((ROOT/name).read_text(),name)
+            from retrospective_compat import restore_maintenance
+            restored=restore_signup(restore_maintenance((ROOT/name).read_text(),name),name)
             self.assertEqual(hashlib.sha256(restored.encode()).hexdigest(),data["sha256"],name)
 
 
