@@ -1,0 +1,434 @@
+{
+  "date": "2026-11-13",
+  "brands": {
+    "factsfirstdaily": {
+      "title": "Van Hollen Challenges Schumer for Senate Leader.\nHUD Moves to Bar Mixed-Status Families.\nIran Says It Hit a US Radar in Bahrain.",
+      "subject": "Van Hollen Launches a Challenge to Schumer",
+      "preview_text": "A housing rule for mixed-status families, a Microsoft outage and an Iranian claim in Bahrain.",
+      "description": "A Senate leadership fight, a HUD housing rule, a global Microsoft outage and Iran's Bahrain claim.",
+      "contents_extra": "Indonesia's record fires explained, trivia and your poll",
+      "date_line": "Friday, November 13, 2026 · 6 min read",
+      "stories": [
+        {
+          "topic": "nov13-van-hollen-challenges-schumer-majority-leader",
+          "title": "Van Hollen Launches a Bid to Unseat Schumer as Senate Democratic Leader",
+          "region": "us",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1519922838705-9d6cb8bcfaea?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/photo-of-capital-hill-washington-dc-oN_cUY1v7hs",
+            "alt": "The U.S. Capitol dome and west front under streaked clouds; file photo.",
+            "verified": true
+          },
+          "paragraphs": [
+            "Sen. Chris Van Hollen of Maryland said Thursday he will run for Senate majority leader. <a href=\"https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100\">NBC News reports he is the first to challenge Sen. Chuck Schumer for the post</a>. Schumer has led Senate Democrats since 2017.",
+            "Van Hollen said voters called for change from the status quo. <a href=\"https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html\">CNBC reports he claims support from more than 10 of the 55 Democratic senators</a>. He called himself the underdog. Sen. Bernie Sanders and Sen.-elect Abdul El-Sayed of Michigan back him.",
+            "Schumer answered on X that he has the votes to stay on as leader. <a href=\"https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100\">Democratic senators will choose their leaders in a closed-door vote in December</a>. A simple majority of the caucus is needed to win.",
+            "<strong>Why it matters.</strong> The winner will run the new Democratic Senate majority. <a href=\"https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100\">Van Hollen wants to use a coming government funding bill to push to end the Iran war</a>. That measure is needed to avoid a December shutdown. Schumer remains favored to keep the job."
+          ]
+        },
+        {
+          "topic": "nov13-hud-rule-mixed-status-families-housing",
+          "title": "HUD Rule Would Bar Mixed-Status Families From Subsidized Housing",
+          "region": "us",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1638973140785-3b918e290682?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/a-red-brick-building-with-several-balconies-next-to-it-SZ0Rwvu3MX0",
+            "alt": "Red brick apartment building with balconies beside a walkway; illustrative file photo.",
+            "verified": true
+          },
+          "paragraphs": [
+            "The Department of Housing and Urban Development issued a rule Thursday on families with mixed immigration status. <a href=\"https://www.npr.org/2026/11/12/nx-s1-6037699/new-rule-could-push-out-of-subsidized-housing-tens-of-thousands-of-u-s-children\">NPR reports it bars those families from federally subsidized housing</a>. Critics say tens of thousands of U.S. citizen children could be pushed out.",
+            "Undocumented immigrants do not get federal rental aid. Since the 1990s, Congress has let them live with relatives who do. <a href=\"https://www.npr.org/2026/11/12/nx-s1-6037699/new-rule-could-push-out-of-subsidized-housing-tens-of-thousands-of-u-s-children\">HUD Secretary Scott Turner said the agency is closing a decades-old loophole</a>.",
+            "The rule requires every household member to verify status through a federal data system called SAVE. <a href=\"https://www.npr.org/2026/11/12/nx-s1-6037699/new-rule-could-push-out-of-subsidized-housing-tens-of-thousands-of-u-s-children\">The National Housing Law Project says the rule uses HUD for immigration enforcement</a>. The group expects a legal challenge.",
+            "<strong>Why it matters.</strong> The rule takes effect in 30 days. Local housing authorities then get a few months to identify residents who must leave. <a href=\"https://www.npr.org/2026/11/12/nx-s1-6037699/new-rule-could-push-out-of-subsidized-housing-tens-of-thousands-of-u-s-children\">HUD notes in the rule that removing these families will cost the government more</a>. <a href=\"https://www.cbsnews.com/news/hud-public-housing-citizenship-immigration-rule/\">CBS News cites research estimating about 20,000 mixed-status families could be affected</a>."
+          ]
+        },
+        {
+          "topic": "nov13-microsoft-365-global-outage",
+          "title": "A Global Microsoft Outage Knocks Out Outlook and Teams for Hours",
+          "region": "us",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2JJ3wBHu4_0",
+            "alt": "Rack of servers and network equipment; illustrative file photo.",
+            "verified": true
+          },
+          "paragraphs": [
+            "A global Microsoft outage disrupted Outlook, Teams and Copilot from Thursday into Friday. <a href=\"https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047\">NBC News reports Microsoft was still working on the problem more than 12 hours later</a>. The company said it saw no sign of malicious activity.",
+            "Problems began around midday Thursday in the U.S. <a href=\"https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why\">Al Jazeera reports Downdetector logged complaints from 74 countries and territories within about an hour</a>. Microsoft said a number of servers had become unexpectedly unavailable.",
+            "<a href=\"https://www.cbsnews.com/news/microsoft-battling-major-outage/\">CBS News reports OpenAI and Anthropic also had trouble connecting with Microsoft 365 tools</a>. Workhorse Group delayed an earnings call because of the outage. Agencies in California and on Capitol Hill also reported email problems.",
+            "<strong>Why it matters.</strong> About 450 million people use Microsoft email and workplace apps, NBC News reports. <a href=\"https://www.cbsnews.com/news/microsoft-battling-major-outage/\">CBS News reports capacity had not yet fully returned to baseline early Friday</a>. Australia's home affairs minister likened the disruption to the CrowdStrike outage of 2024. Microsoft promised a full report on the root cause."
+          ]
+        },
+        {
+          "topic": "nov13-iran-claims-strike-us-radar-bahrain",
+          "title": "Iran Says It Struck a US Radar Site in Bahrain After an Attack at Home",
+          "region": "world",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1748066768504-99532da7d1e9?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/the-bahrain-world-trade-center-at-sunrise-wOlMEpBzwHs",
+            "alt": "Bahrain World Trade Center towers and the Manama skyline at sunrise; file photo.",
+            "verified": true
+          },
+          "paragraphs": [
+            "Iran's Revolutionary Guard says it targeted a U.S. early warning radar in Bahrain. <a href=\"https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain\">Al Jazeera reports Iran called it retaliation for an air attack on a telecom tower in southern Iran</a>. There was no immediate comment from Washington or Manama.",
+            "Iranian state media said the port city of Sirik was hit by enemy fire on Thursday. <a href=\"https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain\">Reuters says it is Iran's first claimed attack on U.S. military assets in a Gulf country since early September</a>. Bahrain hosts the U.S. Navy's Fifth Fleet headquarters.",
+            "The claim followed a shift by Trump on diplomacy. <a href=\"https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027\">NBC News reports Trump wrote that the U.S. does not need a deal with Iran</a>. He asked Vice President JD Vance to focus on other issues.",
+            "<strong>Why it matters.</strong> The war began Feb. 28 with U.S. and Israeli attacks on Iran. <a href=\"https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain\">U.S. Central Command says it is still enforcing a naval blockade of Iranian ports</a>. The Guard warned it is ready to engage without limits if attacks recur."
+          ]
+        }
+      ],
+      "deep_dive": {
+        "topic": "nov13-indonesia-wildfires-el-nino-attribution",
+        "title": "How a Warming Climate and a Strong Drought Fueled Indonesia's Worst Fires in Years",
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1634224548788-58de1fb48e2b?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/a-large-plume-of-smoke-billows-into-the-sky-aU431CExHgM",
+          "alt": "Large plume of wildfire smoke rising over a forested ridge; illustrative file photo.",
+          "verified": true
+        },
+        "paragraphs": [
+          "Scientists say Indonesia's fiercest fires in at least a decade had three main drivers. <a href=\"https://www.theguardian.com/world/2026/nov/13/indonesia-el-nino-wildfires\">The Guardian reports World Weather Attribution blamed El Niño, global heating and forest loss</a>. Fires have burned almost 3 million hectares this year.",
+          "<strong>What happened.</strong> The team studied Java, Kalimantan and Sumatra during the peak season from August to October. <a href=\"https://www.theguardian.com/world/2026/nov/13/indonesia-el-nino-wildfires\">It found global heating raised temperatures by 1.6C over that period</a>. El Niño added another 0.3C and cut rainfall by about 50%. Imperial College London climate scientist Friederike Otto said El Niño turned off the taps, but fossil fuel emissions turned up the heat.",
+          "<strong>The backstory.</strong> Hot, dry conditions were three times more likely because of climate change and five times more likely because of El Niño. <a href=\"https://theprint.in/world/climate-change-made-indonesian-fires-more-severe-scientists-say/3097537/\">Reuters reports September 2026 was Indonesia's fifth-driest September since 1991</a>. Decades of logging and peatland drainage also left land primed to burn. <a href=\"https://www.theguardian.com/world/2026/nov/13/indonesia-el-nino-wildfires\">Local reports put the area burned so far in 2026 at 2.88 million hectares</a>. That would top the 2015 record of 2.6 million.",
+          "<strong>What comes next.</strong> <a href=\"https://www.theguardian.com/world/2026/nov/13/indonesia-el-nino-wildfires\">The health ministry counts at least 400,000 related respiratory infections, including 180,000 children</a>. Smog has reached Singapore, Malaysia and the Philippines. Protesters in Jakarta want the fires declared a national emergency. Fires still burn because El Niño delayed the rainy season by 20 to 30 days. A Red Cross climate adviser said El Niño's predictability allows preventive action before future seasons."
+        ]
+      },
+      "trivia": {
+        "question": "At least how many Senate seats will Democrats hold after the midterm elections?",
+        "options": [
+          "51",
+          "53",
+          "55",
+          "57"
+        ],
+        "correct_letter": "C",
+        "explanation": "C. 55. <a href=\"https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html\">CNBC reports Democrats will hold at least 55 Senate seats, with Republicans holding 44</a>."
+      },
+      "poll": {
+        "question": "Should Senate Democrats replace Chuck Schumer as their leader?",
+        "slug": "nov13-2026-schumer-van-hollen-leader"
+      },
+      "briefing": {
+        "World view": [
+          "<strong>Energy chief declares an age of electricity.</strong> IEA head Fatih Birol said fossil fuels are no longer the dominant energy source; <a href=\"https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea\">The Guardian reports</a>.",
+          "<strong>Uneasy calm in Tigray.</strong> Federal forces control Mekelle after a brief war with the TPLF, but residents describe deep uncertainty; <a href=\"https://www.bbc.com/news/articles/cm3egjgvp794o\">BBC reports</a>."
+        ],
+        "Need to know": [
+          "<strong>New rules for college accreditors.</strong> The Education Department finalized rules requiring accreditors to review campus policies on intellectual diversity; <a href=\"https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education\">NPR reports</a>.",
+          "<strong>Treasury yields edge higher.</strong> The 10-year yield rose to about 5.13% early Friday, before October producer price data was released; <a href=\"https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html\">CNBC reports</a>."
+        ],
+        "Money & markets": [
+          "<strong>Overdraft fees hit a four-year high.</strong> U.S. banks collected $1.6 billion in third-quarter overdraft fees, up 9.4% from the prior quarter; <a href=\"https://www.galvnews.com/news_reuters/business/us-bank-overdraft-fees-jump-9-to-four-year-high-data-shows/article_f56074fc-e8f7-5142-8310-b4e2d302873b.html\">Reuters reports</a>.",
+          "<strong>Cerebras beats forecasts.</strong> The AI chipmaker topped revenue estimates, announced a Microsoft deal and saw shares jump 17% after hours; <a href=\"https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html\">CNBC reports</a>."
+        ],
+        "Future frontiers": [
+          "<strong>Senators summon Jensen Huang.</strong> The former Nvidia chief was asked to testify Dec. 3 about his alleged affair with a suspected Chinese spy; <a href=\"https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o\">BBC reports</a>.",
+          "<strong>NHS England edits a Palantir claim.</strong> It deleted a statement that 137 trusts benefit from its AI data platform after 29 said otherwise; <a href=\"https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools\">The Guardian reports</a>."
+        ],
+        "The score": [
+          "<strong>Commanders edge the Giants.</strong> Stefon Diggs caught a 32-yard touchdown with 57 seconds left in a 24 to 21 Thursday night win; <a href=\"https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-stefon-diggs-late-td-gives-commanders-24-21-win\">NBC Sports reports</a>.",
+          "<strong>Kane scores on a record night.</strong> Harry Kane converted a penalty on his record 126th England cap in a win over Croatia at Wembley; <a href=\"https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league\">The Guardian reports</a>."
+        ],
+        "Life & culture": [
+          "<strong>Depp returns as Scrooge.</strong> Ebenezer, his first studio film since his court battles with Amber Heard, opens in U.S. and UK cinemas Nov. 13; <a href=\"https://www.bbc.com/culture/article/20261110-cancelled-star-johnny-depp-is-making-a-comeback\">BBC reports</a>.",
+          "<strong>A Gaza documentary goes online.</strong> NAZA, with testimony from 24 Israeli officials, will stream free on the Guardian's site in early December; <a href=\"https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary\">The Guardian reports</a>."
+        ]
+      },
+      "qa_notes": {
+        "status": "LOCAL_EDITORIAL_PREPARATION_ONLY; parent review and combined validation required",
+        "uncertainties": [
+          "Bahrain strike is an IRGC claim; no US or Bahraini confirmation at capture.",
+          "Van Hollen support count is his own claim (more than 10 senators).",
+          "Treasury yields are live CNBC early-Friday levels; copy now says yields rose before October producer price data was released (PPI 8:30 a.m. ET lands before the 9:00 send).",
+          "HUD rule: NPR says the rule is out Nov 12 and takes effect in 30 days.",
+          "Second-source repair: FDA/Overton story replaced by Microsoft outage (no second trusted Overton source in the 36h window); outage was ongoing at capture."
+        ],
+        "source_review": "All cited URLs opened directly by HTTP GET on 2026-11-13 before cutoff; all from the FFD trusted list. galvnews page is full Reuters syndication (byline Stephen Gandel and Douglas Gillison, NEW YORK/WASHINGTON, Nov 13 (Reuters) dateline). Second-source repair adds CBS (HUD, Microsoft), NBC and Al Jazeera (Microsoft), BBC (Huang briefing) and ThePrint full Reuters syndication (byline David Stanway, dateline SINGAPORE, Nov 13 (Reuters), (c) Thomson Reuters).",
+        "photo_review": "All five (pills replaced by servers photo-1695668548342-c0c1ad479aee) 1280x720 JPEGs viewed. Standard Unsplash License confirmed on original pages. File/illustrative photos, no recognizable people."
+      }
+    },
+    "thedailyskim": {
+      "title": "Microsoft Fights a Global Outage. Trump Threatens Mexico Tariffs. Cisco Posts a Record Quarter.",
+      "subject": "Microsoft Fights a Global Outage. Trump Threatens Mexico Tariffs. Cisco Posts a Record Quarter.",
+      "preview_text": "A global email outage drags on, El Niño gains strength and a HUD rule targets mixed-status families.",
+      "description": "Microsoft works to restore Outlook and Teams after a global outage, Trump threatens Mexico tariffs over a caravan, and Cisco posts record sales.",
+      "contents_extra": "El Niño, the HUD housing rule, trivia and your poll",
+      "stories": [
+        {
+          "topic": "microsoft-365-global-outage-recovery-nov13",
+          "title": "Microsoft Struggles to Restore Outlook and Teams After a Global Outage",
+          "region": "us",
+          "paragraphs": [
+            "Microsoft is still working to restore Outlook, Teams and other Microsoft 365 services after an outage that began Thursday. <a href=\"https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a\">AP reports the disruption hit companies and some government operations from Asia to the United States</a>. The company says it has no sign of malicious activity. More than 430 million people use Microsoft 365 apps.",
+            "<a href=\"https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html\">CNBC reports Microsoft saw early signs of stabilization Friday</a>, but full capacity was not restored. <a href=\"https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why\">Al Jazeera reports Microsoft blamed elevated load after a number of servers became unexpectedly unavailable</a>. The disruption also hit tools that OpenAI and Anthropic rely on. Teams chats and calls have largely kept working."
+          ],
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1560264280-88b68371db39?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/kN_kViDchA0",
+            "alt": "Workers at desks in an office; file photo, 2019.",
+            "verified": true
+          }
+        },
+        {
+          "topic": "trump-mexico-tariff-doubling-threat-caravan-nov12",
+          "title": "Trump Threatens to Double Tariffs on Mexico Over a Migrant Caravan",
+          "region": "us",
+          "paragraphs": [
+            "President Trump threatened Thursday to double tariffs on Mexico unless it stops migrants walking north. <a href=\"https://www.investing.com/news/general-news/trump-threatens-to-double-tariffs-on-mexico-if-it-does-not-halt-migrants-5021419\">Reuters reports about 1,500 people, mostly Central Americans, set off Tuesday from Tapachula</a>. Trump wrote that tariffs would be immediately doubled if Mexico failed to act. Homeland Security Secretary Markwayne Mullin said the caravan would not enter.",
+            "<a href=\"https://apnews.com/article/mexico-us-sheinbaum-trump-d9829fe92a0ce9afecb909cb35a2977d\">AP reports President Claudia Sheinbaum said no caravan has reached the U.S. border since January 2025</a>. She said one group of about 600 had largely dispersed, and she ruled out force. The threat comes during trade talks. Mexico wants cuts to 10% tariffs on goods outside the USMCA and a 25% truck duty."
+          ],
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1782398138730-2949ea4f9382?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/MbKwJDzW8XU",
+            "alt": "Shipping containers from above; file photo, 2026.",
+            "verified": true
+          }
+        },
+        {
+          "topic": "cisco-record-quarter-ai-networking-nov12",
+          "title": "Cisco Posts Record Sales as Demand for AI Networking Grows",
+          "region": "us",
+          "paragraphs": [
+            "<a href=\"https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html\">Cisco reported record quarterly revenue of $18.5 billion</a>, up 24% from a year earlier. Adjusted earnings were $1.40 per share. <a href=\"https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html\">CNBC reports both figures beat analyst estimates</a>. Cisco raised its forecast for AI infrastructure revenue from the largest cloud companies to $9 billion this fiscal year.",
+            "<a href=\"https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html\">Cisco also lifted its full-year revenue outlook to between $74.8 billion and $75.8 billion</a>. Its adjusted gross margin narrowed to 65.6% from 68.1% a year earlier. <a href=\"https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html\">CNBC reports shares rose in extended trading Thursday</a>. The stock had gained about 35% this year."
+          ],
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/aWslrFhs1w4",
+            "alt": "Server racks in a data center; file photo, 2019.",
+            "verified": true
+          }
+        },
+        {
+          "topic": "noaa-el-nino-historic-strength-odds-nov12",
+          "title": "NOAA Sees a 60% Chance of a Record-Strength Pacific Warming Event",
+          "region": "us",
+          "paragraphs": [
+            "<a href=\"https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml\">NOAA’s Climate Prediction Center said Thursday that El Niño continues to strengthen</a>. Sea surface temperature anomalies topped 4 degrees Celsius in the eastern equatorial Pacific. Forecasters put the chance of a historic event at about 60% this fall and early winter. A strong to very strong El Niño is likely through March.",
+            "<a href=\"https://www.cbsnews.com/news/el-nino-effects-weather-worldwide/\">CBS News reports southern U.S. states should prepare for a stormier winter than usual</a>. The northern part of the continent is likely to see milder weather with less precipitation. The term super El Niño is not official. NOAA and the World Meteorological Organization call this event very strong."
+          ],
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1675720998093-f6dd91cb9016?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/JgugIFif1qw",
+            "alt": "Waves under a cloudy sky; file photo, 2023.",
+            "verified": true
+          }
+        }
+      ],
+      "deep_dive": {
+        "topic": "hud-mixed-status-families-eligibility-rule-nov12",
+        "title": "Why a New HUD Rule Could Push Mixed-Status Families Out of Their Homes",
+        "region": "us",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1773609689121-6ecb1607336f?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/bfSgaP2V1LI",
+          "alt": "Exterior of an apartment block; file photo, 2026.",
+          "verified": true
+        },
+        "paragraphs": [
+          "<strong>What happened.</strong> The Department of Housing and Urban Development published a final rule Thursday on tenant eligibility. <a href=\"https://www.cbsnews.com/news/hud-public-housing-citizenship-immigration-rule/\">CBS News reports public housing residents must show proof of citizenship or eligible immigration status</a>. The requirement covers household members of all ages. Since 1995, mixed-status families could live together if subsidies covered only eligible members. The rule takes effect Dec. 14.",
+          "<strong>Why it matters.</strong> <a href=\"https://www.cbsnews.com/news/hud-public-housing-citizenship-immigration-rule/\">A policy institute cited by CBS News estimates</a> about 20,000 mixed-status families, or 80,000 people, could be affected. About 37,000 of them are children, mostly U.S. citizens. Families in all 50 states would feel it. CBS reports experts say these households often pay a higher share of rent because their subsidies are prorated.",
+          "<strong>What each side says.</strong> HUD Secretary Scott Turner said American taxpayers will no longer foot the bill for ineligible tenants. <a href=\"https://www.cbsnews.com/news/hud-public-housing-citizenship-immigration-rule/\">CBS News reports he cited an audit</a> that found nearly 200,000 tenants with incomplete or unverified status. Marie Claire Tran-Leung of the National Housing Law Project said the rule is tearing apart families. She warned HUD will likely face financial shortfalls.",
+          "<strong>What comes next.</strong> <a href=\"https://www.federalregister.gov/api/v1/documents/2026-23003.json\">The final rule in the Federal Register makes prorated aid temporary</a> while every family member's status is verified. <a href=\"https://www.cbsnews.com/news/hud-public-housing-citizenship-immigration-rule/\">CBS News reports 22 state attorneys general opposed the rule</a>. They warned of significant economic costs to states. California has more than 7,000 affected households and New York about 2,500."
+        ]
+      },
+      "briefing": {
+        "World view": [
+          "<strong>COP31 talks turn to negotiations.</strong> Leaders left clashing demands, with island states urging emission cuts and oil producers defending fossil fuels; <a href=\"https://www.devdiscourse.com/article/international/4006374-update-1-world-leaders-set-out-clashing-priorities-as-cop31-turns-to-negotiations\">Reuters reports</a>.",
+          "<strong>EU leaders hold an AI summit.</strong> The bloc’s first leaders’ summit on artificial intelligence opens in Dublin on Friday, with Ukraine added to the agenda; <a href=\"https://www.devdiscourse.com/article/international/4006343-eu-leaders-seek-to-tackle-challenges-at-first-ever-ai-summit\">Reuters reports</a>.",
+          "<strong>Italian schools stay open.</strong> More than 3,700 schools received hoax bomb warnings Thursday, but most stayed open under new government advice; <a href=\"https://www.devdiscourse.com/article/international/4006216-reuters-world-news-summary\">Reuters reports</a>.",
+          "<strong>Iran says four tankers were hit.</strong> Its military said tankers struck by explosions in the Strait of Hormuz had ignored warnings; <a href=\"https://www.devdiscourse.com/article/international/4006216-reuters-world-news-summary\">Reuters reports</a>."
+        ],
+        "Need to know": [
+          "<strong>ICE deportations hit a record.</strong> The agency deported 483,200 people in fiscal year 2026, according to Homeland Security figures; <a href=\"https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/\">CBS News reports</a>.",
+          "<strong>USPS seeks a package price hike.</strong> It wants an 11% increase for priority mail and packages in January but no first-class stamp increase; <a href=\"https://www.devdiscourse.com/article/international/4006218-reuters-us-domestic-news-summary\">Reuters reports</a>.",
+          "<strong>A DC shooting leaves one dead.</strong> A gunman wounded four others in a busy neighborhood, then took his own life after a standoff, officials said; <a href=\"https://www.devdiscourse.com/article/international/4006218-reuters-us-domestic-news-summary\">Reuters reports</a>.",
+          "<strong>A Jones Act waiver may be extended.</strong> Four industry sources said voyages would face case-by-case review instead of blanket exemptions; <a href=\"https://www.devdiscourse.com/article/international/4006218-reuters-us-domestic-news-summary\">Reuters reports</a>."
+        ],
+        "Money & markets": [
+          "<strong>The dollar nears a 19-month high.</strong> Traders see a 12% chance of a half-point Fed hike in December, up from zero a week ago; <a href=\"https://www.devdiscourse.com/article/international/4006509-global-markets-european-stocks-near-record-highs-dollar-gains-on-rate-hike-bets\">Reuters reports</a>.",
+          "<strong>Oil heads for a weekly drop.</strong> Brent crude fell 0.4% to $95.45 a barrel on Friday morning; <a href=\"https://www.devdiscourse.com/article/international/4006509-global-markets-european-stocks-near-record-highs-dollar-gains-on-rate-hike-bets\">Reuters reports</a>.",
+          "<strong>Hancock Whitney buys Trustmark.</strong> The roughly $3.2 billion all-stock deal creates a Gulf South bank with about $58 billion in assets; <a href=\"https://www.devdiscourse.com/article/international/4006218-reuters-us-domestic-news-summary\">Reuters reports</a>.",
+          "<strong>A senator questions Nvidia’s size.</strong> Sen. Jack Reed wants Congress to assess whether the chipmaker is too big to fail; <a href=\"https://www.devdiscourse.com/article/international/4006218-reuters-us-domestic-news-summary\">Reuters reports</a>."
+        ],
+        "Future frontiers": [
+          "<strong>Hubble scouts targets for Roman.</strong> A gallery of gravitational lenses will guide follow-up dark matter work by the Roman Space Telescope; <a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/\">NASA says</a>.",
+          "<strong>Pfizer lines up obesity funding.</strong> Blackstone will provide up to $1.5 billion through 2028 for an experimental monthly obesity treatment; <a href=\"https://www.devdiscourse.com/article/international/4005552-reuters-health-news-summary\">Reuters reports</a>.",
+          "<strong>A study rethinks obesity diagnosis.</strong> A Nature study found only a quarter to a third of people diagnosed with obesity should be considered in poor health; <a href=\"https://www.devdiscourse.com/article/international/4005552-reuters-health-news-summary\">Reuters reports</a>.",
+          "<strong>Oura buys a virtual clinic.</strong> The smart-ring maker will acquire Counsel Health for $625 million in cash; <a href=\"https://www.devdiscourse.com/article/international/4005552-reuters-health-news-summary\">Reuters reports</a>."
+        ],
+        "The score": [
+          "<strong>Dan Hicks dies at 64.</strong> The longtime NBC Sports golf voice died after an acute illness, his family said; <a href=\"https://www.devdiscourse.com/article/international/4006110-reuters-sports-news-summary\">Reuters reports</a>.",
+          "<strong>Andreeva routs Sabalenka.</strong> The 19-year-old won 6-4 6-0 at the WTA Finals, taking 11 games in a row; <a href=\"https://www.devdiscourse.com/article/international/4006110-reuters-sports-news-summary\">Reuters reports</a>.",
+          "<strong>Canada bars Russian juniors.</strong> The government will block Russian players and officials from the World Junior Championship in Alberta; <a href=\"https://www.devdiscourse.com/article/international/4006110-reuters-sports-news-summary\">Reuters reports</a>.",
+          "<strong>The Euroleague weighs expansion.</strong> A vote on six new permanent franchise licenses is due before the end of 2026, sources said; <a href=\"https://www.devdiscourse.com/article/international/4006110-reuters-sports-news-summary\">Reuters reports</a>."
+        ],
+        "Life & culture": [
+          "<strong>Rings of Power returns.</strong> The fantasy series premiered its third season in London, with Jamie Campbell Bower joining the cast; <a href=\"https://www.devdiscourse.com/article/international/4005919-reuters-entertainment-news-summary\">Reuters reports</a>.",
+          "<strong>A Florida city drops two events.</strong> Delray Beach will not host its 2027 St. Patrick’s Day parade or Pride event, citing a state law; <a href=\"https://www.devdiscourse.com/article/international/4006218-reuters-us-domestic-news-summary\">Reuters reports</a>.",
+          "<strong>Lima welcomes Pope Leo.</strong> Crowds packed the city’s historic center on Thursday as he toured in an open-air popemobile; <a href=\"https://www.devdiscourse.com/article/international/4006216-reuters-world-news-summary\">Reuters reports</a>.",
+          "<strong>Students look beyond the US and UK.</strong> A global survey found international students turning toward universities in Asia and continental Europe; <a href=\"https://www.devdiscourse.com/article/international/4006216-reuters-world-news-summary\">Reuters reports</a>."
+        ]
+      },
+      "trivia": {
+        "question": "About how many people use Microsoft 365 apps, according to the company?",
+        "options": [
+          "More than 130 million",
+          "More than 430 million",
+          "More than 900 million",
+          "More than 1.2 billion"
+        ],
+        "correct_letter": "B",
+        "explanation": "B. More than 430 million. <a href=\"https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a\">AP reports Microsoft gives the figure on its website</a>."
+      },
+      "poll": {
+        "question": "Should tech companies compensate customers for long service outages?",
+        "slug": "nov13-2026-microsoft-outage"
+      },
+      "qa_notes": {
+        "status": "LOCAL_VERIFIED_EDITORIAL_INPUTS_ONLY; parent review and release required",
+        "unresolved_points": [
+          "Microsoft outage is ongoing; recovery status as of Guardian 05:15 ET and BBC 07:12Z updates. Recheck before send. Daily Skim Nov 12 web edition had a short Outlook outage brief; this is the larger global development with new headline.",
+          "Cisco premarket move (nearly 2% lower) as of Investing.com 04:33 ET; recheck at open.",
+          "PPI (Oct) is scheduled 8:30 ET before cutoff; not cited. Dollar/Fed-odds brief is pre-release.",
+          "El Niño: Daily Skim ran an El Niño flooding story earlier; this is the Nov 12 CPC strength update (new angle). CPC page is date-only.",
+          "Mexico tariff threat and HUD rule date from Nov 12; not in any prior brand copy.",
+          "Briefs rely on Reuters summaries syndicated by Devdiscourse; credited as Reuters reports."
+        ],
+        "photo_review": "Original Unsplash pages opened in browser showing Free to use under the Unsplash License; all five JPEGs visually inspected."
+      },
+      "date_line": "Friday, November 13, 2026 · 6 min read"
+    },
+    "worldskim": {
+      "title": "Europe Gets a Seat at Ukraine Talks.\nTrump Says No Iran Deal Needed.\nThe Yen Tests 160.",
+      "subject": "Europe Gets a Seat at Ukraine Talks. Trump Says No Iran Deal Needed. The Yen Tests 160.",
+      "preview_text": "Europe joins talks, Trump sours on an Iran deal, yen tests 160, plus the rest of the world in six minutes.",
+      "description": "Europe wins a place at Ukraine talks, Trump says no Iran deal is needed and the yen tests 160.",
+      "contents_extra": "Congo’s Ebola response and the missing money, global updates, trivia and your poll",
+      "stories": [
+        {
+          "topic": "europe-joins-next-ukraine-talks-round-kremlin-noncommittal-nov13",
+          "title": "Europe Wins a Place at the Next Round of Ukraine Talks",
+          "paragraphs": [
+            "Europe will join the next round of talks on ending Russia’s war in Ukraine, U.S. envoys said after meeting Vladimir Putin. <a href=\"https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers\">The Guardian reports that Jared Kushner said the move would let talks address postwar European security</a>. Putin warned Europe against sending peacekeeping troops and refused to soften his territorial demands.",
+            "<a href=\"https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo\">The BBC reports that Volodymyr Zelensky welcomed the pledge and said it gives the EU a voice</a>. EU leaders meeting in Dublin now face a question over who should speak for them. <a href=\"https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html\">The New York Times reports that Kushner said naming one European negotiator would be a big achievement</a>. Luxembourg’s Luc Frieden spoke for three Benelux nations in Dublin."
+          ],
+          "region": "world",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1644955538144-7d896b5ffc70?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/a-bridge-over-a-body-of-water-with-buildings-in-the-background-sRVm8CC2fks",
+            "alt": "Bridge over the Liffey in Dublin, 2022 file photo",
+            "verified": true
+          }
+        },
+        {
+          "topic": "trump-no-iran-deal-needed-oil-rises-nov13",
+          "title": "Trump Says the U.S. No Longer Needs a Deal With Iran",
+          "paragraphs": [
+            "President Trump says the United States no longer needs a deal to end its war with Iran. <a href=\"https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html\">CNBC reports that he wrote, “We’ve got their money” and “we’ve got their Strait”</a>, referring to Hormuz. He told Vice President JD Vance to focus on crime and corruption in Democratic-run cities instead.",
+            "<a href=\"https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war\">The Guardian reports that Vance had reportedly been talking to intermediaries about restarting negotiations</a>. The post effectively normalises a stalemate, with a U.S. blockade on Iranian ports still in place. <a href=\"https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html\">CNBC reports that Brent crude settled 3.3% higher at $95.82 a barrel</a> after the comments."
+          ],
+          "region": "world",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1611331225468-4d1055df92de?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-daytime-Iza21CdWz60",
+            "alt": "Gulf waterfront skyline in Manama, Bahrain, 2021 file photo",
+            "verified": true
+          }
+        },
+        {
+          "topic": "japan-yen-160-katayama-intervention-warning-nov13",
+          "title": "The Yen Tests 160 per Dollar as Tokyo Warns It Could Act",
+          "paragraphs": [
+            "The yen briefly touched 160 per dollar on Thursday, near its weakest level since early September. <a href=\"https://www.cnbc.com/2026/11/13/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160.html\">CNBC reports that Finance Minister Satsuki Katayama said the government will respond appropriately to currency volatility</a>. Traders are watching closely for signs that Tokyo will step into the market to support the yen.",
+            "The pressure comes from a strong dollar, which is holding near a 19-month high. <a href=\"https://www.cnbc.com/2026/11/13/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160.html\">CNBC reports that traders now see a 14.5% chance of a large Fed rate hike next month</a>. Higher U.S. rates widen the gap with Japan. <a href=\"https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html\">CNBC reports that the 10-year Treasury yield rose to 5.1271% on Friday</a>."
+          ],
+          "region": "world",
+          "photo": {
+            "image_url": "https://images.unsplash.com/photo-1631067958403-dcfb819057da?fm=jpg&fit=crop&w=1280&h=720&q=85",
+            "original_url": "https://unsplash.com/photos/text-GHXNJWmNAeI",
+            "alt": "Japanese 10,000-yen banknotes, 2021 file photo",
+            "verified": true
+          }
+        }
+      ],
+      "deep_dive": {
+        "topic": "congo-ebola-response-money-missing-isis-nov13",
+        "title": "Congo’s Ebola Response Is Losing Money and Ground as the Virus Spreads",
+        "paragraphs": [
+          "<strong>What happened.</strong> Hundreds of millions of dollars meant to fight Ebola in Congo are not reaching the front line. <a href=\"https://www.bbc.co.uk/news/articles/cx98757ymm6zo\">The BBC reports that MSF says workers are going unpaid and some ambulances have run out of fuel</a>. More than 5,400 people have died since the outbreak was declared in May. It is the second deadliest Ebola outbreak on record.",
+          "<strong>Where the money went.</strong> Africa CDC said last month that $700 million of $962 million disbursed to response groups was unaccounted for. <a href=\"https://www.bbc.co.uk/news/articles/cx98757ymm6zo\">The BBC reports that only 22% of aid agencies have shared details of their work with the health ministry</a>. Health Minister Samuel-Roger Kamba said transparency must be total. MSF wants stronger oversight from the government and UN agencies.",
+          "<strong>A moving target.</strong> The outbreak first centred on a handful of towns in one province. <a href=\"https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html\">The New York Times reports that it has now crept into eight provinces across an area about the size of Britain</a>. In one besieged town, three quarters of Ebola patients have died. Biakato alone accounted for up to a quarter of new cases nationally.",
+          "<strong>A new threat.</strong> <a href=\"https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html\">The New York Times reports that the containment campaign has also run into the Islamic State</a>. <a href=\"https://www.msf.org/ebola-drc-persistent-gaps-between-resources-and-action-remain-six-months\">MSF says close to two thirds of recent deaths occurred in communities rather than treatment centres</a>. The strain has no approved vaccine or treatment. <a href=\"https://www.bbc.co.uk/news/articles/cx98757ymm6zo\">The BBC reports that cases have also been found in Kenya, Uganda and Nigeria</a>."
+        ],
+        "region": "world",
+        "photo": {
+          "image_url": "https://images.unsplash.com/photo-1695071622344-75bb5863bc83?fm=jpg&fit=crop&w=1280&h=720&q=85",
+          "original_url": "https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-LX1PBOOPt5I",
+          "alt": "Evening street in Kinshasa, 2023 file photo",
+          "verified": true
+        }
+      },
+      "trivia": {
+        "question": "Whose England caps record did Harry Kane break with his 126th cap?",
+        "options": [
+          "Peter Shilton",
+          "Wayne Rooney",
+          "David Beckham",
+          "Bobby Moore"
+        ],
+        "correct_letter": "A",
+        "explanation": "The answer is Peter Shilton. <a href=\"https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap\">The Guardian reports Kane pulled clear of Shilton with his record 126th cap</a>."
+      },
+      "poll": {
+        "question": "Should Japan step into currency markets again to support the yen?",
+        "slug": "nov13-2026-asia-yen-intervention"
+      },
+      "briefing": {
+        "World view": [
+          "<strong>An uneasy calm settles over Tigray</strong>, <a href=\"https://www.bbc.com/news/articles/cm3egjgvp794o\">The BBC reports federal forces control Mekelle after a brief war, but residents fear what comes next</a>.",
+          "<strong>A Russian warship is hit in the Gulf of Finland</strong>, <a href=\"https://www.bbc.co.uk/news/articles/cmn0d33zz34zo\">The BBC reports Ukraine’s SBU said it targeted the Naro-Fominsk with drones</a>.",
+          "<strong>Colombia’s president authorises an air strike on the Gulf Clan</strong>, <a href=\"https://www.bbc.co.uk/news/articles/crgj3v3z10dno\">The BBC reports eight people were killed in Antioquia province</a>."
+        ],
+        "Need to know": [
+          "<strong>Uganda investigates the suspected poisoning deaths of four schoolgirls</strong>, <a href=\"https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo\">The BBC reports police arrested the head teacher to assist investigations</a>.",
+          "<strong>A 23-vehicle crash kills 14 people in the UAE</strong>, <a href=\"https://www.bbc.co.uk/news/articles/c804wp9013kvo\">The BBC reports a truck driver lost control in Fujairah</a>.",
+          "<strong>Two Iranians are convicted of spying in the UK</strong>, <a href=\"https://www.bbc.co.uk/news/articles/ck9q8g8209l2o\">The BBC reports they watched journalists and a lawyer for Tehran</a>."
+        ],
+        "Money & markets": [
+          "<strong>Britain’s economy grows 0.7% in the third quarter</strong>, <a href=\"https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html\">CNBC reports the services sector drove growth</a>.",
+          "<strong>Oil rises after Trump rules out an Iran deal</strong>, <a href=\"https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html\">CNBC reports West Texas Intermediate settled at $88.74 a barrel</a>.",
+          "<strong>U.S. home sales hit a 16-year low</strong>, <a href=\"https://www.theguardian.com/business/2026/nov/12/home-sales-october-low\">The Guardian reports sales of existing homes fell to 3.75 million in October</a>."
+        ],
+        "Future frontiers": [
+          "<strong>China rules out hosting the COP33 climate summit</strong>, <a href=\"https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028\">The Guardian reports the decision leaves the field open for other Asian countries</a>.",
+          "<strong>Europe’s Euclid mission maps 900 million galaxies</strong>, <a href=\"https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe\">The Guardian reports the survey could reveal secrets of the dark universe</a>.",
+          "<strong>North Korean hackers used fake video calls to steal crypto</strong>, <a href=\"https://www.bbc.co.uk/news/articles/cqdj1ellpd70o\">The BBC reports the FBI says they took more than $400 million</a>."
+        ],
+        "The score": [
+          "<strong>Harry Kane wins a record 126th England cap</strong>, <a href=\"https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap\">The Guardian reports he has pulled clear of Peter Shilton</a>.",
+          "<strong>Andy Robertson matches Scotland’s cap record</strong>, <a href=\"https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record\">The Guardian reports he will make his 102nd appearance on Friday</a>.",
+          "<strong>Pete Crow-Armstrong and Yordan Alvarez win MLB MVP awards</strong>, <a href=\"https://www.theguardian.com/sport/2026/nov/12/pete-crow-armstrong-yordan-alvarez-mlb-mvp-awards\">The Guardian reports both won unanimous votes</a>."
+        ],
+        "Life & culture": [
+          "<strong>Pope Leo returns to northern Peru, where he served as bishop</strong>, <a href=\"https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit\">The Guardian reports a rapturous welcome in Chiclayo</a>.",
+          "<strong>African Miss Universe contestants wait on U.S. visas</strong>, <a href=\"https://www.bbc.co.uk/news/articles/cklyw3neqg2wo\">The BBC reports Zambia has withdrawn its representative</a>.",
+          "<strong>Eurovision heads to Asia for the first time</strong>, <a href=\"https://www.theguardian.com/tv-and-radio/2026/nov/12/meet-three-eurovision-asia-2026-hopefuls\">The Guardian reports 11 acts will compete in Bangkok next week</a>."
+        ]
+      },
+      "qa_notes": {
+        "status": "LOCAL_DRAFT_ONLY; source-allowlist repaired v2; parent review and combined validator required",
+        "uncertainties": [
+          "Story 2 replaced: IRGC Bahrain radar claim had no allowlisted source; now Trump no-Iran-deal (CNBC, Guardian). Manama skyline photo kept as Gulf context file photo; FFD keeps the Bahrain radar story.",
+          "Europe joining talks: announced by U.S. envoys; Kremlin has not confirmed.",
+          "Yen level moves in real time; CNBC (02:57 UTC) had 159.875 after a brief touch of 160 Thursday.",
+          "Deep dive replaced: Congo referendum law had no allowlisted source; now Ebola response (BBC, NYT preview text captured).",
+          "NYT pages captured as preview (paywall); claims cited only from the captured preview text."
+        ]
+      },
+      "date_line": "Friday, November 13, 2026 · 6 min read"
+    }
+  }
+}
