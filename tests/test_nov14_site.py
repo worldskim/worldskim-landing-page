@@ -39,25 +39,27 @@ class Nov14(unittest.TestCase):
   for name in ("scripts/sync_editions.py","scripts/sync_signup.py","tests/archive_compat.py","tests/signup_compat.py"):
    self.assertEqual(digest((ROOT/name).read_bytes()),BASE[name],name)
  def test_projection_rejects_unapproved_mutations(self):
+  from nov13_compat import restore_nov13
+  from nov14_compat import restore_nov14_ledger
   for name,pairs in LEDGER["pages"].items():
    for pair in pairs:
-    raw=(ROOT/name).read_text()
+    raw=restore_nov13((ROOT/name).read_text(),name)
     # Change one byte inside an explicitly maintained owner boundary.
     raw=raw.replace(pair["after"],pair["after"]+"UNAPPROVED",1)
-    restored=restore_nov14(raw,name)
+    restored=restore_nov14_ledger(raw,name)
     self.assertNotEqual(digest(restored.encode()),BASE[name])
- def test_both_unchanged_synchronizers_and_no_nov13(self):
+ def test_both_unchanged_synchronizers_and_approved_nov13(self):
   self.assertEqual(sync.planned(ROOT),{})
   self.assertEqual(signup.planned(ROOT),{})
-  self.assertFalse((ROOT/"editions/2026-11-13.html").exists())
-  self.assertEqual(len(list((ROOT/"editions").glob("????-??-??.html"))),13)
+  self.assertTrue((ROOT/"editions/2026-11-13.html").exists())
+  self.assertEqual(len(list((ROOT/"editions").glob("????-??-??.html"))),14)
  def test_current_cards_switcher_metadata_and_chronology(self):
   doc=soup((ROOT/"editions/2026-11-14.html").read_text());lead=doc.select_one("article.story img")["src"]
   base="https://worldskim.com/editions/2026-11-14.html"
   self.assertEqual(doc.select_one('link[rel="canonical"]')["href"],base)
   self.assertEqual(doc.select_one('meta[property="og:url"]')["content"],base)
   self.assertEqual(doc.select_one('meta[property="og:image"]')["content"],lead)
-  for name,limit in (("index.html",6),("archive.html",13)):
+  for name,limit in (("index.html",6),("archive.html",14)):
    raw=(ROOT/name).read_text();home=soup(raw);entries=sync.read_config(raw)["editions"]
    self.assertEqual(entries[0]["title"],C["title"].splitlines())
    self.assertEqual(entries[0]["image"],lead)
@@ -65,9 +67,9 @@ class Nov14(unittest.TestCase):
   home=soup((ROOT/"index.html").read_text())
   self.assertEqual(json.loads(home.select_one(".switcher")["data-items"]),
    [[s["title"],f"editions/2026-11-14.html#s{i}"]for i,s in enumerate(C["stories"],1)])
-  self.assertEqual([a["href"] for a in doc.select(".more-grid a:not(.all)")],["2026-11-12.html","2026-11-11.html"])
-  self.assertEqual(doc.select_one("nav.ed-nav a")["href"],"2026-11-12.html")
-  self.assertIsNotNone(soup((ROOT/"editions/2026-11-12.html").read_text()).select_one('nav.ed-nav a[href="2026-11-14.html"]'))
+  self.assertEqual([a["href"] for a in doc.select(".more-grid a:not(.all)")],["2026-11-13.html","2026-11-12.html"])
+  self.assertEqual(doc.select_one("nav.ed-nav a")["href"],"2026-11-13.html")
+  self.assertIsNotNone(soup((ROOT/"editions/2026-11-13.html").read_text()).select_one('nav.ed-nav a[href="2026-11-14.html"]'))
  def test_native_signup_footer_and_all_source_slots(self):
   doc=soup((ROOT/"editions/2026-11-14.html").read_text());old=soup((ROOT/"editions/2026-11-12.html").read_text())
   self.assertEqual(str(doc.footer),str(old.footer))
