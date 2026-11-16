@@ -33,7 +33,7 @@ class RetrospectiveArchive(unittest.TestCase):
     def test_complete_12_day_archive_and_latest(self):
         entries = sync.inventory(ROOT, sync.read_config((ROOT / "index.html").read_text()))
         self.assertEqual([e["url"] for e in entries],
-                         [f"editions/2026-11-{n:02d}.html" for n in range(15, 0, -1)])
+                         [f"editions/2026-11-{n:02d}.html" for n in range(16, 0, -1)])
         for name in ("index.html", "archive.html"):
             raw = (ROOT / name).read_text()
             self.assertEqual(sync.read_config(raw)["editions"], entries)

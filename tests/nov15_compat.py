@@ -4,6 +4,8 @@ import json,sys
 ROOT=Path(__file__).resolve().parents[1]
 LEDGER=json.loads((ROOT/"tests/nov15_maintenance.json").read_text())
 def restore_nov15(text,name):
+ from nov16_compat import restore_nov16
+ text=restore_nov16(text,name)
  sys.path.insert(0,str(ROOT/"scripts"))
  import sync_editions
  text=sync_editions.shared_latest(text,"editions/2026-11-14.html")

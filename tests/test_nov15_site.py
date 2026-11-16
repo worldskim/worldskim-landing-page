@@ -11,7 +11,8 @@ class November15(unittest.TestCase):
  def test_immutable_source_and_full_editorial_design(self):
   self.assertEqual(sha(SOURCE.encode()),'f3091ff35feb78f6e7bceb81fe6ecfb6cc44ba22354206ae8ab6d53e1082e97b')
   self.assertEqual(sha((ROOT/'docs/nov15-2026/approved-content.json').read_bytes()),'b19661a05b64cb367ef6a8221ec64db33f6ecc6753548130431a4d8f8bfca546')
-  a=BS(SOURCE,'html.parser');b=BS((ROOT/'editions/2026-11-15.html').read_text(),'html.parser')
+  from nov16_compat import restore_nov16
+  a=BS(SOURCE,'html.parser');b=BS(restore_nov16((ROOT/'editions/2026-11-15.html').read_text(),'editions/2026-11-15.html'),'html.parser')
   for sel in ('style','article.story','#briefing','#deep-dive','#tri','#reader-poll','script','header'):
    self.assertEqual([str(x)for x in a.select(sel)],[str(x)for x in b.select(sel)],sel)
   for sel in ('nav.ed-nav','.more-grid','form'):b.select_one(sel).replace_with(copy.deepcopy(a.select_one(sel)))
@@ -32,11 +33,11 @@ class November15(unittest.TestCase):
  def test_both_syncs_and_complete_current_inventory(self):
   self.assertEqual(sync.planned(ROOT),{});self.assertEqual(signup.planned(ROOT),{})
   entries=sync.read_config((ROOT/'index.html').read_text())['editions']
-  self.assertEqual([e['url']for e in entries],[f'editions/2026-11-{n:02}.html'for n in range(15,0,-1)])
-  self.assertEqual(entries[0]['image'],LEDGER['lead_photo'])
-  for name,limit in [('index.html',6),('archive.html',15)]:
+  self.assertEqual([e['url']for e in entries],[f'editions/2026-11-{n:02}.html'for n in range(16,0,-1)])
+  self.assertEqual(entries[1]['image'],LEDGER['lead_photo'])
+  for name,limit in [('index.html',6),('archive.html',16)]:
    d=BS((ROOT/name).read_text(),'html.parser');self.assertEqual(len(d.select('#edition-grid article.card')),limit)
-   self.assertEqual(d.select_one('#edition-grid .card-link')['href'],'editions/2026-11-15.html')
+   self.assertEqual(d.select_one('#edition-grid .card-link')['href'],'editions/2026-11-16.html')
  def test_reader_targets_and_metadata(self):
   d=BS((ROOT/'editions/2026-11-15.html').read_text(),'html.parser')
   self.assertEqual(d.select_one('link[rel=canonical]')['href'],'https://worldskim.com/editions/2026-11-15.html')
