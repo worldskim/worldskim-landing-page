@@ -22,7 +22,7 @@ class Nov13(unittest.TestCase):
   for selector in ("nav.ed-nav","form",".more-grid"):
    current.select_one(selector).replace_with(copy.deepcopy(source.select_one(selector)))
   for a in current.select("footer a[href]"):
-   if a.get_text() in ("Latest edition","Today's trivia"):a["href"]=a["href"].replace("2026-11-16","2026-11-12")
+   if a.get_text() in ("Latest edition","Today's trivia"):a["href"]=a["href"].replace("2026-11-17","2026-11-12")
   self.assertEqual(str(current),str(source))
  def test_all_existing_html_and_fixed_assets_exact_preservation(self):
   for name,expected in BASE.items():
@@ -42,17 +42,17 @@ class Nov13(unittest.TestCase):
  def test_unchanged_syncs_full_inventory_and_current_nov14(self):
   self.assertEqual(sync.planned(ROOT),{});self.assertEqual(signup.planned(ROOT),{})
   entries=sync.read_config((ROOT/"index.html").read_text())["editions"]
-  self.assertEqual([e["url"]for e in entries],[f"editions/2026-11-{n:02d}.html"for n in range(16,0,-1)])
-  self.assertEqual(entries[3]["title"],C["title"].splitlines())
-  self.assertEqual(entries[3]["image"],soup(SOURCE).select_one("article.story img")["src"])
+  self.assertEqual([e["url"]for e in entries],[f"editions/2026-11-{n:02d}.html"for n in range(17,0,-1)])
+  self.assertEqual(entries[4]["title"],C["title"].splitlines())
+  self.assertEqual(entries[4]["image"],soup(SOURCE).select_one("article.story img")["src"])
   oldhome=soup(restore_nov13((ROOT/"index.html").read_text(),"index.html"));home=soup(__import__("nov15_compat").restore_nov15((ROOT/"index.html").read_text(),"index.html"))
   self.assertEqual(str(home.select_one(".switcher")),str(oldhome.select_one(".switcher")))
   for name in ("index.html","archive.html"):
    doc=soup((ROOT/name).read_text())
-   self.assertEqual(len(doc.select("#edition-grid article.card")),6 if name=="index.html"else 16)
-   self.assertEqual(doc.select_one('#edition-grid .card-link')["href"],"editions/2026-11-16.html")
+   self.assertEqual(len(doc.select("#edition-grid article.card")),6 if name=="index.html"else 17)
+   self.assertEqual(doc.select_one('#edition-grid .card-link')["href"],"editions/2026-11-17.html")
    for a in doc.select("footer a[href]"):
-    if a.get_text() in ("Latest edition","Today's trivia"):self.assertIn("2026-11-16.html",a["href"])
+    if a.get_text() in ("Latest edition","Today's trivia"):self.assertIn("2026-11-17.html",a["href"])
  def test_new_date_metadata_and_complete_chronology(self):
   doc=soup((ROOT/"editions/2026-11-13.html").read_text());base="https://worldskim.com/editions/2026-11-13.html"
   self.assertEqual(doc.select_one('link[rel="canonical"]')["href"],base)
