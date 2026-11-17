@@ -8,7 +8,8 @@ DAILY=not (ROOT/"scripts").exists()
 SOURCE=(ROOT/"docs/nov16-2026/approved-web-source.txt").read_text()
 def sha(b):return hashlib.sha256(b).hexdigest()
 def config():
- t=(ROOT/"index.html").read_text()
+ from nov17_compat import restore_nov17
+ t=restore_nov17((ROOT/"index.html").read_text(),"index.html")
  return json.loads(re.search(r"(?:const SITE_CONFIG = |var SITE_CONFIG=)(\{.*?\});",t,re.S)[1])
 class November16(unittest.TestCase):
  def test_immutable_approved_editorial_and_design(self):
@@ -21,7 +22,7 @@ class November16(unittest.TestCase):
   b.select_one('meta[property="og:image"]')["content"]=a.select_one('meta[property="og:image"]')["content"]
   for x in b.select("footer a[href]"):
    if x.get_text() in ("Today's edition","Daily trivia","Latest edition","Today's trivia"):
-    x["href"]=x["href"].replace("2026-11-16","2026-11-15")
+    x["href"]=x["href"].replace("2026-11-17","2026-11-15").replace("2026-11-16","2026-11-15")
   self.assertEqual(str(a),str(b))
  def test_old_site_exact_bounded_preservation(self):
   for name,expected in LEDGER["base_hashes"].items():

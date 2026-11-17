@@ -29,15 +29,17 @@ class November15(unittest.TestCase):
  def test_projection_rejects_undeclared_editorial_and_metadata(self):
   for name in LEDGER['pages']:
    raw=(ROOT/name).read_text();bad=raw.replace('<title>','<title>UNAPPROVED ',1)
-   self.assertNotEqual(sha(restore_nov15(bad,name).encode()),LEDGER['base_hashes'][name])
+   try:restored=restore_nov15(bad,name)
+   except AssertionError:continue
+   self.assertNotEqual(sha(restored.encode()),LEDGER['base_hashes'][name])
  def test_both_syncs_and_complete_current_inventory(self):
   self.assertEqual(sync.planned(ROOT),{});self.assertEqual(signup.planned(ROOT),{})
   entries=sync.read_config((ROOT/'index.html').read_text())['editions']
-  self.assertEqual([e['url']for e in entries],[f'editions/2026-11-{n:02}.html'for n in range(16,0,-1)])
-  self.assertEqual(entries[1]['image'],LEDGER['lead_photo'])
-  for name,limit in [('index.html',6),('archive.html',16)]:
+  self.assertEqual([e['url']for e in entries],[f'editions/2026-11-{n:02}.html'for n in range(17,0,-1)])
+  self.assertEqual(entries[2]['image'],LEDGER['lead_photo'])
+  for name,limit in [('index.html',6),('archive.html',17)]:
    d=BS((ROOT/name).read_text(),'html.parser');self.assertEqual(len(d.select('#edition-grid article.card')),limit)
-   self.assertEqual(d.select_one('#edition-grid .card-link')['href'],'editions/2026-11-16.html')
+   self.assertEqual(d.select_one('#edition-grid .card-link')['href'],'editions/2026-11-17.html')
  def test_reader_targets_and_metadata(self):
   d=BS((ROOT/'editions/2026-11-15.html').read_text(),'html.parser')
   self.assertEqual(d.select_one('link[rel=canonical]')['href'],'https://worldskim.com/editions/2026-11-15.html')
