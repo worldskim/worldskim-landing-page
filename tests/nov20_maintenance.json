@@ -1,0 +1,310 @@
+{
+ "brand": "world",
+ "source_sha256": "9eb8bd2a47c90a9f99e426c3c1c5e585dd734bc4bc2b28b37a07a7dc3b7b7133",
+ "content_sha256": "15745010615c68cf6861c713fff92c8b772f66919c8bf80b509d067b8cd8c7be",
+ "lead_photo": "https://images.unsplash.com/photo-1603085789691-771561c05570?fm=jpg&fit=crop&w=1280&h=720&q=80",
+ "base_hashes": {
+  ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "CNAME": "8a9def23f9985dbac026fb70c197e3dc4626a3def7b5ba6e1a3874b18573ec19",
+  "README.md": "cf2abf04b4b77760ccf888345f2f2dc89a097bf8604a2eb38246daaba734f33e",
+  "archive.html": "32ca5e459c04b427a1ccb2bc0a75b29dc63a85d9a4f8186abcfb051b6402cf3d",
+  "disclosures.html": "c4f22bc5adf9e68e0ef8332dea1c40ce38b34edaaf15fd08031aa0870a2e8af5",
+  "docs/CUTOVER-REVIEW.md": "b1afb7708a940831279e34a1a0d341e0e6c46e2f3ce3589f9b5abeca2b2f7270",
+  "docs/nov13-2026/approved-content.json": "87f38d1a7cc07a1a7da4754826e6dd8aede085b7830d0c08dcd398a086636a4b",
+  "docs/nov13-2026/approved-web-source.txt": "8d8a26f5c44dd0614d793ceaee4b76e4b051f7c5d7e832fc4c3e9e8fe51060cb",
+  "docs/nov13-2026/base-hashes.json": "f96b8e23692119f8b41881471ac55cf9380e9c79b56e5d6225a652a757f5d57d",
+  "docs/nov14-2026/approved-content.json": "17c2014d2e145eb7d3764a1ddd68901b09f08552087d5dc5d2c76373b6dfcc43",
+  "docs/nov14-2026/approved-web-source.txt": "86f39c3307678203a8bc92ef600749d96549e7afc1b263069e72dfe7e7b12262",
+  "docs/nov14-2026/base-hashes.json": "93f75942779691623bc76dc7c8b5ef8d239f25d975ea8322ca07178af76ddb60",
+  "docs/nov15-2026/approved-content.json": "b19661a05b64cb367ef6a8221ec64db33f6ecc6753548130431a4d8f8bfca546",
+  "docs/nov15-2026/approved-web-source.txt": "f3091ff35feb78f6e7bceb81fe6ecfb6cc44ba22354206ae8ab6d53e1082e97b",
+  "docs/nov16-2026/approved-content.json": "1b942d5a3cb2a9a8135fcd526ef07032e708dc7df0793aeed38cc38316fd4237",
+  "docs/nov16-2026/approved-web-source.txt": "7e9ab653ed23588fa0eba0896a20ac8986c513f8d7cbbc25cf089e36e4bdc33a",
+  "docs/nov16-2026/old-rows.json": "9904bed9f7431ec7e06cf8d49d1429efb02814da6fbc5c528cc7c277dfb3ada0",
+  "docs/nov17-2026/approved-content.json": "2163a18e8709e5e04eba70246144fd41d8460c3eb0bc5f0e9c9ba31d94131b72",
+  "docs/nov17-2026/approved-web-source.txt": "54ad29d5583b0b70412b2755c1007eb841be0b7914695a390866f4437586dbd0",
+  "docs/nov17-2026/old-rows.json": "d4edd1fa884b7c8cd34068ee83e7ef8d039c4086941315d12c8aef3149e1c32d",
+  "docs/nov18-2026/approved-content.json": "51dcc2ccd1a56547abe0d70b02fd308a13eba7841d47ff1551aefba479bc5a8f",
+  "docs/nov18-2026/approved-web-source.txt": "4be024df8ab8774a7844441b1731300510536115083fbdab928ef67acb5a3a5f",
+  "docs/nov18-2026/old-rows.json": "7d9de3d2804cc686c7d1ac774d25fba2d1125c815c43d3bdf8f1e3a8b1a4db46",
+  "docs/nov19-2026/approved-content.json": "a784fa8ee677517e4efa149f772084d50fed34b9d4d989821b6e557ded8df2a5",
+  "docs/nov19-2026/approved-web-source.txt": "a3e29532c626d7f071c4ab585a9585a235ffe7df325ef0ac7c0b81e317424822",
+  "docs/nov19-2026/old-rows.json": "3430408fa4467be27c7073dfb3d2985bbbac9a9c7a2372b2cc7f5edd0ab892d5",
+  "docs/retrospective-2026-11-12/base-preservation.json": "df820b461f8932436898122bac17bd0dbbccebb0a22a89bfb39d2c1b6aa43d1e",
+  "docs/retrospective-2026-11-12/content.json": "b1d9e2e35f359d5c8a65ab23df904049fa81998cc7982ce44793abecde4da118",
+  "docs/retrospective-2026-11-12/proposed-polls.json": "cc627b10383ba6cad71b9339f2c363bbc6a9b6cdd4a2dc1c564554ce00b58fa1",
+  "editions/2026-11-01.html": "ce493b48a39dd709c2e47d0782761596bb48ea3f04ceb136b3099501d229c922",
+  "editions/2026-11-02.html": "b45c095cb0721d2638fa287a03adaca3206e75d419ef366944f41cf7c759efa0",
+  "editions/2026-11-03.html": "e7bbc540d36d37786a070135a068624136d5c5118cf4f2c01c0c91ef59b640f5",
+  "editions/2026-11-04.html": "40d5a243e3359716a7f18fc12bb355fe75ffae1e466f9df91af39260d5341dcd",
+  "editions/2026-11-05.html": "307305e5b2b4255b0f4acfc4523fa897c12de1a8ac82b3a376f97ef3a397670b",
+  "editions/2026-11-06.html": "d1a8fa539b91f5d5e6b0ff82075400cdb6435e32b98ddfe4edd6fd38f5dc9808",
+  "editions/2026-11-07.html": "7e9e7ff59ae0d1c434b4bdf4d090a9d069a4a375017b60eb6c566e3fb275fd76",
+  "editions/2026-11-08.html": "7bc811412b3fb146809bc1e205e2b3e8e827c2cb49523da410488957ba662036",
+  "editions/2026-11-09.html": "45948c361fcaa40cd036e306adc169787ee25ef166c07a5ab47af107a49c0ce6",
+  "editions/2026-11-10.html": "839fab1b5dedbd57f2aab19a7797f2902ca3a424bc2449b8736f57f7bb319faa",
+  "editions/2026-11-11.html": "d7a6981236e689158a8e65ef3a1d90a8ceb6d7680906193b09c2506fc183742d",
+  "editions/2026-11-12.html": "5a7aa3e61419c108f323154b4189d091b0e4a7ee5d222ce7ddf1bc5990b68797",
+  "editions/2026-11-13.html": "e928acef3369d1ea33fa03c98f3aa14dae9a99866ff7ec8fea8d0ae5a08eb79c",
+  "editions/2026-11-14.html": "a65cc90f5c22193fe4f8deaebd139ea013bed13e7a2d94d0fa799c2c3737f472",
+  "editions/2026-11-15.html": "306152d9a2142326cf452b6bae261e7e127327f7b820207638fe13a4fb6a593c",
+  "editions/2026-11-16.html": "e3df62875746339968309f627a2ee7bf70ca69034bdeebae41264a8b35b35177",
+  "editions/2026-11-17.html": "bacf9de183ec30327741de3930fbecbeee02a81abc6358ef80eb1f856710f02e",
+  "editions/2026-11-18.html": "b1fb479c0e66e6479ce71d87f50c465a0398f8be64c1560f4ba9b7615b9d15ce",
+  "editions/2026-11-19.html": "56626b20a3c178b9f3f30f6abf0ca7c84876dde46e9104eea0b3dc9f34b04baa",
+  "editions/edition.css": "92b80a1a9ae954755fafb6f2819d9a3b1d3d848433405c3165adbec8f9513f0c",
+  "email/logo-white.png": "3e8c338c67ad7f7805de20c040a6c8c7f03268a5463966dc7ba4e6598be81c44",
+  "email/logo.png": "a933806f213fa5272fbc3a707073ab05ed4f48aba8a42a1003cec1ab1ef7bf5b",
+  "email/polls.js": "5a00b3ae4cfacf55f195c3ac1bb6768bf55092c8b738a190d2e8b6254aa41842",
+  "email/share-email.png": "088630d9858e4e97ed4bc4a73a36b018e6b2fd9b88406817c0b5016706a0c87a",
+  "email/share-facebook.png": "299c5c08903408b7fc442714d438a9494986b10eaffcee1d853dd6d5a7c9c6c6",
+  "email/share-linkedin.png": "20ae505ccb6fd5c4cf47ad166224581132acef03576e09711a94bccc0ecd63e2",
+  "email/share-reddit.png": "346a9f141597b14ccb5fd9f8f7dc8972f98aa3312944ed4f0e5c020b4b1484a8",
+  "email/share-threads.png": "20d52cebe7f6c8fd43d4f1d240003801a22911bfa27c0dad4b2d3208cec68362",
+  "email/share-whatsapp.png": "52ba2efa4110f9962dc207e4b5fa4e47edabd926b89880fdd4514410d73d6555",
+  "email/share-x.png": "18dec22e5636c73842c5c5e3042c293967852941e6669db38378b470f3b921c6",
+  "email/signup.css": "9ff94536febba4d4ab96897aa7fde38efc11bb9497302abe2d2e9ecad53ad445",
+  "email/signup.js": "6e76257c8a269fe0e65d4fa19c33ace17f9b02b50adbe055a4248b3900237ce4",
+  "email/thanks.html": "c4950e595874c37dd2e00be294e312a2c0e7361bb9a9bc279d4f469e62b8f33a",
+  "fonts/skim.woff": "21e835ce4959226678621dbaf8138a9dd96d2d3017ed58105e4b1311ef73f2e2",
+  "index.html": "6af94f0fc2795192662d20576b89ffd63bfa94b07b1df73820507b2f85f7c3d7",
+  "privacy.html": "c62cdf40c6af3f7628d2b9dd1b8ef0f9aa3a7e13efafeedc4d0bb4146232fd2b",
+  "scripts/sync_editions.py": "563d2c19a7bf5ff57d8c64e8e02c923a1ccfef6754023e6fcaa1155e5ef98d0a",
+  "scripts/sync_signup.py": "ae24d4681cb6e81d1f31e2c112d11d95ec4035a29c95a62cf8ef2f389bc6bb3a",
+  "settings/newsletter-form.json": "c4b4d5a7a69d3012b601821ad7144d986d3ccdc871c54b7fcf70770322ed626e",
+  "spacegrotesk-font-license.txt": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+  "terms.html": "2a66f5dd10d5f6a5d69c7880c2e48f0209a3e5d95a901a077384cb2edb6e5f35",
+  "tests/archive_compat.py": "9a25ef5867d4c794a2ff60c484e1d7382556c064e0db5c62b113f45256d0e778",
+  "tests/archive_preservation.json": "dd0fcda94d48f0e5a3311bcdddc2d2b8cea16e9dd887913498891bf2ad053838",
+  "tests/archive_shared_baseline.json": "b9cd97f2af89d2fc7a2071cf8e98dfd9e49a0190cd4fa0a49f08f227ae19a757",
+  "tests/links.test.py": "6fefcd09162f28c838f4754f69685c1095533154f3af4f9128932f2987303e9f",
+  "tests/nov10_expected.json": "00a4591a6604b3c1977f39f8036990586049f84430d560afcd24f4459e023765",
+  "tests/nov10_fixture_edits.json": "967a0406a575387a6f70186cce0de3d459f48a3d30593055b6792581c617ae0b",
+  "tests/nov13_compat.py": "07839898489b2294a0921d44fda6550cb2f29bf68a74cb4414a110b121a0569d",
+  "tests/nov13_maintenance.json": "f9a9c8eda48777f2f063a0f28b67b7b51ff622ab5f551da9038439fb71a77608",
+  "tests/nov14_compat.py": "03d36d1db6031bbbc259e34b30b3731bfa3b2613bab77b14124aacbc2d4c810a",
+  "tests/nov14_maintenance.json": "b189812bbebe12db80ae0265c92a127d308333b58f9c9f0c99d85fec2e90f587",
+  "tests/nov15_compat.py": "a7146c9acb8495e4043ba924c345c89225b01f92d5820d05406289f8f9d14afc",
+  "tests/nov15_maintenance.json": "34a35f613660c0b682dd2832bc0cf72da7244497abab9085118e7588e61dff75",
+  "tests/nov16_compat.py": "f49960b133f3c1750c19a0e31d9786b0bf88df00866605dfb0cfb8296c7c5f60",
+  "tests/nov16_maintenance.json": "4959d4a754d20ca49e3435a2d75c774b4bcfdfe4f63f0595127e49222330714d",
+  "tests/nov17_compat.py": "9589c4c00903b139f5043d92614b9abc8281e9288000f2c0cf726b101377c427",
+  "tests/nov17_maintenance.json": "0b19109ca5032dbbd3ea99ba8eed055b98943b3208721af137bcfb1a5bae7aef",
+  "tests/nov18_compat.py": "b7cdfe146ba6180e7dd1158c40ce2e6659c8817aab29601e70bfad648f7a1a21",
+  "tests/nov18_maintenance.json": "12d8b5b2e45eb57992a5e3f572cf770a9fc7fae9c967283341c5de4e461e36fb",
+  "tests/nov19_compat.py": "0c2d3e2b3e0da3742e3e131d58ae58768522b2866dd7b8937edb1eddf7c5c161",
+  "tests/nov19_maintenance.json": "d6ef905d47899909e041954d48d55b71ed59da838f6283b1d47aa3aa19116b5f",
+  "tests/nov7_expected.json": "6f19b6bafa29cab896e5d825a4fc46f4904874f939e837bb342a59ffec8acb44",
+  "tests/nov8_expected.json": "26e96544370646a1d5a817e2e2a65886a53918bd12aceba8012f0633e9f08a86",
+  "tests/nov8_fixture_edits.json": "69cc275407c2c77edda75b9a31502f438a72f4d3fe4eea346a00518dd7cd79b4",
+  "tests/nov9_expected.json": "5e9becbaa901ff3259e518f379d0e2c7f86eae98b1dfaa442a6d506698105b63",
+  "tests/nov9_fixture_edits.json": "71f8f1dedfcb688a166245f273b342f542cd8cc8a93782c5f478b8fc1abf53e8",
+  "tests/polls.browser.test.cjs": "d335824fdc26638221ef84fc5308899556f3f0eedd84c34fb64ec2d6486cc808",
+  "tests/retrospective_compat.py": "cc07f6c6440cd7a49afa32da4eea8dccab13f84cc9619e2db5d080f7d779f6d0",
+  "tests/retrospective_maintenance.json": "d99ede78892987ddc1ff79791af136e231766b9daba40017f1ee79f3f729134a",
+  "tests/signup.browser.test.cjs": "0ed3cfa44cddbee449d6cbe30ff341d0326c248fb40b04be19a1dc50b885e910",
+  "tests/signup_baseline.json": "50ac0bdf0312a0d15db7c8cf9df58ae73e95e5f7897788eb15ba605735d9477b",
+  "tests/signup_compat.py": "f99df9c6ccf86e2a7e5fe677e1a758c9d017085b4c2a26fa0d435e33ef02027b",
+  "tests/test_archive_sync.py": "68b5219a7338a346bd691a90fb0f7dc66094c34a8d281c6b1734ca3ae9927384",
+  "tests/test_nov10_site.py": "f347ee86e73f2c8f542d26f988d36d206dff3027ead527352178ab65f32fff96",
+  "tests/test_nov13_site.py": "f4fa5f7038cce44824bf4f8717c7834f983e169201527ee5f7a228aeee9efbf9",
+  "tests/test_nov14_site.py": "50aa08ffb158cf4bc9e689405a402e8c1ef11975556735446568a95aa2fe577e",
+  "tests/test_nov15_site.py": "ead701334d149d816355ec5bf9d6b8a926039441b71594f7c4acd94ac3277ded",
+  "tests/test_nov16_site.py": "0b9cb98cbfb7abadbfd883c8ca894c0c60147c9927145ac7329bb50fcb1018e1",
+  "tests/test_nov17_site.py": "013745df4d9ea7a0a0c5c1b538edc425dbcd6110d9ce10a39412281506a13e16",
+  "tests/test_nov18_site.py": "1310ae940aea9569ec5c1ebc1738f286f0505fbc0dd6452c297ee0df25b1bd16",
+  "tests/test_nov19_site.py": "c1cef710e4f7c09bad217d4a1949c7681e6d5fc8bfd084004c5a141237ff7216",
+  "tests/test_nov7_site.py": "33e4b557ec1272e00c34eb16ec2e711a4cfefd8281f542882d4fb1eb47d83bcb",
+  "tests/test_nov8_site.py": "ad7d6677b65a53d5c2e18f21b04c67ceb547f91998d14c2d8cbb57a98e449685",
+  "tests/test_nov9_site.py": "ac27ed9a31dde3ee52215137a07636a9bf47fd52911950f51f71f4a752dad043",
+  "tests/test_retrospective_archive.py": "ff4303ed45ec9f5e02ea63b01a232a7455b7fdcb8608576128198e9f50034f1b",
+  "tests/test_signup.py": "e07091a856fd2d0f1c0402b0d9db799b90513f80653a19fa1eb22150e3bacbe8",
+  "tests/trivia.test.cjs": "b1193abc230fc0daad6da0b859904ab96db3eb4242b85c7af8ee8333efe5d644"
+ },
+ "pages": {
+  "archive.html": [
+   {
+    "before": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-20.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1603085789691-771561c05570?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Friday, November 20, 2026 · 6 min read</p><h3><span class=\"hl\">Russia Hits Three Kyiv Bridges.</span><span class=\"hl\">Venezuela Signs a US Military Pact.</span><span class=\"hl\">Asia Tech Stocks Slide.</span></h3><p>Russia strikes three Kyiv bridges, Venezuela signs a military deal with the US and SoftBank leads an Asian tech sell-off.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"UN Court Finds Mya",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Russia Hits Three Kyiv Bridges.\", \"Venezuela Signs a US Military Pact.\", \"Asia Tech Stocks Slide.\"], \"description\": \"Russia strikes three Kyiv bridges, Venezuela signs a military deal with the US and SoftBank leads an Asian tech sell-off.\", \"url\": \"editions/2026-11-20.html\", \"date\": \"Friday, November 20, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1603085789691-771561c05570?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Court Finds Mya"
+   }
+  ],
+  "editions/2026-11-01.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-02.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-03.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-04.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-05.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-06.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-07.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-08.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-09.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-10.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-11.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-12.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-13.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-14.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-15.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-16.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-17.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-18.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-19.html": [
+   {
+    "before": "r 18, 2026</span></a><a href=\"/archive.html\" style=\"text-align:right\">All editions →<br/><span>World Skim archive</span></a></nav></main><foote",
+    "after": "r 18, 2026</span></a><a href=\"2026-11-20.html\" style=\"text-align:right\">Next edition →<br/><span>Friday, November 20, 2026</span></a></nav></main><foote"
+   },
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "email/thanks.html": [
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "index.html": [
+   {
+    "before": "switcher\" data-items=\"[[&quot;UN Court Rules Myanmar Committed Genocide Against the Rohingya&quot;, &quot;editions/2026-11-19.html#s1&quot;], [&quot;Israeli Tanks Push Past Gaza's Yellow Line Near Nuseirat&quot;, &quot;editions/2026-11-19.html#s2&quot;], [&quot;Kenya's Peres Jepchirchir Gets a Three-Year Doping Ban&quot;, &quot;editions/2026-11-19.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-19.html#s1\">UN Court Rules Myanmar Committed Genocide Against the Rohingya</a></div><div class=\"sw-ctrl\"",
+    "after": "switcher\" data-items=\"[[&quot;Russia Hits Three Kyiv Bridges in One of the War's Largest Air Attacks&quot;, &quot;editions/2026-11-20.html#s1&quot;], [&quot;Venezuela Signs a Military Cooperation Deal With the United States&quot;, &quot;editions/2026-11-20.html#s2&quot;], [&quot;SoftBank Leads an AI Sell-Off Across Asia's Tech Stocks&quot;, &quot;editions/2026-11-20.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-20.html#s1\">Russia Hits Three Kyiv Bridges in One of the War's Largest Air Attacks</a></div><div class=\"sw-ctrl\""
+   },
+   {
+    "before": "<li><a href=\"editions/2026-11-19.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-19.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-19.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-19.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-19.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-19.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-19.html#deep-dive\">Deep dive</a>",
+    "after": "<li><a href=\"editions/2026-11-20.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-20.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-20.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-20.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-20.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-20.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-20.html#deep-dive\">Deep dive</a>"
+   },
+   {
+    "before": "ns. <a href=\"editions/2026-11-19.html#s1\">Preview this part</a",
+    "after": "ns. <a href=\"editions/2026-11-20.html#s1\">Preview this part</a"
+   },
+   {
+    "before": "le. <a href=\"editions/2026-11-19.html#world-view\">Preview this",
+    "after": "le. <a href=\"editions/2026-11-20.html#world-view\">Preview this"
+   },
+   {
+    "before": "le. <a href=\"editions/2026-11-19.html#deep-dive\">Preview this ",
+    "after": "le. <a href=\"editions/2026-11-20.html#deep-dive\">Preview this "
+   },
+   {
+    "before": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-20.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1603085789691-771561c05570?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Friday, November 20, 2026 · 6 min read</p><h3><span class=\"hl\">Russia Hits Three Kyiv Bridges.</span><span class=\"hl\">Venezuela Signs a US Military Pact.</span><span class=\"hl\">Asia Tech Stocks Slide.</span></h3><p>Russia strikes three Kyiv bridges, Venezuela signs a military deal with the US and SoftBank leads an Asian tech sell-off.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": " →</span></div></a></article><article class=\"card\"><a href=\"editions/2026-11-14.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1759970729294-99c7eebeaf54?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 14, 2026 · 6 min read</p><h3><span class=\"hl\">Trump, Putin and Xi Plan Shenzhen Talks.</span><span class=\"hl\">UN Watchdog Flags an Unseen Iran Site.</span><span class=\"hl\">Hungary Digs Up $19.5 Million in Cash.</span></h3><p>Trump, Putin and Xi plan talks in Shenzhen, the UN watchdog flags an uninspected Iran site and Hungary seizes buried cash.</p><span class=\"read\">Read edition →</span></div></a></article></div><p class=\"loadmore\"><a cl",
+    "after": " →</span></div></a></article></div><p class=\"loadmore\"><a cl"
+   },
+   {
+    "before": "ng. <a href=\"editions/2026-11-19.html\">See the latest edition<",
+    "after": "ng. <a href=\"editions/2026-11-20.html\">See the latest edition<"
+   },
+   {
+    "before": "es. <a href=\"editions/2026-11-19.html\">Read the latest edition",
+    "after": "es. <a href=\"editions/2026-11-20.html\">Read the latest edition"
+   },
+   {
+    "before": "li><a href=\"/editions/2026-11-19.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-19.html#tri\">Today's trivia</a><",
+    "after": "li><a href=\"/editions/2026-11-20.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-20.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"UN Court Finds Mya",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Russia Hits Three Kyiv Bridges.\", \"Venezuela Signs a US Military Pact.\", \"Asia Tech Stocks Slide.\"], \"description\": \"Russia strikes three Kyiv bridges, Venezuela signs a military deal with the US and SoftBank leads an Asian tech sell-off.\", \"url\": \"editions/2026-11-20.html\", \"date\": \"Friday, November 20, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1603085789691-771561c05570?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Court Finds Mya"
+   }
+  ]
+ }
+}
