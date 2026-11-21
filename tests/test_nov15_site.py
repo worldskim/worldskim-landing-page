@@ -35,11 +35,11 @@ class November15(unittest.TestCase):
  def test_both_syncs_and_complete_current_inventory(self):
   self.assertEqual(sync.planned(ROOT),{});self.assertEqual(signup.planned(ROOT),{})
   entries=sync.read_config((ROOT/'index.html').read_text())['editions']
-  self.assertEqual([e['url']for e in entries],[f'editions/2026-11-{n:02}.html'for n in range(20,0,-1)])
-  self.assertEqual(entries[5]['image'],LEDGER['lead_photo'])
-  for name,limit in [('index.html',6),('archive.html',20)]:
+  self.assertEqual([e['url']for e in entries],[f'editions/2026-11-{n:02}.html'for n in range(21,0,-1)])
+  self.assertEqual(entries[6]['image'],LEDGER['lead_photo'])
+  for name,limit in [('index.html',6),('archive.html',21)]:
    d=BS((ROOT/name).read_text(),'html.parser');self.assertEqual(len(d.select('#edition-grid article.card')),limit)
-   self.assertEqual(d.select_one('#edition-grid .card-link')['href'],'editions/2026-11-20.html')
+   self.assertEqual(d.select_one('#edition-grid .card-link')['href'],'editions/2026-11-21.html')
  def test_reader_targets_and_metadata(self):
   d=BS((ROOT/'editions/2026-11-15.html').read_text(),'html.parser')
   self.assertEqual(d.select_one('link[rel=canonical]')['href'],'https://worldskim.com/editions/2026-11-15.html')
