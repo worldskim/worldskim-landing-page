@@ -1,7 +1,7 @@
 {
  "brand": "world",
- "source_sha256": "2377b784a63619663a31e6bda256ad1010e1cf51b5c3ead430c02fe02bc9acb3",
- "content_sha256": "47afb83e735c9177f3d433661b42807ea9fb00987cb01ac6832cf6e308eb149b",
+ "source_sha256": "b1c27a332e712ce1cad353d66e0998b7ffe29d6a9293941b4b29505ef4b2d914",
+ "content_sha256": "5a36afa51586138ad59528a688fa837171bec25dfb72b0f5ffecd00a284bf11e",
  "lead_photo": "https://images.unsplash.com/photo-1759255259684-99b73888de50?fm=jpg&fit=crop&w=1280&h=720&q=80",
  "base_hashes": {
   ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
