@@ -1,0 +1,349 @@
+{
+ "brand": "world",
+ "source_sha256": "721e910a908406950f2b79c60c1bb31a108ae2f684d8b5f18b6e77d18488aa0b",
+ "content_sha256": "360c3fd6cf4c202868f39f825d3408c9e3ed725bb22fd6f899444378317e779b",
+ "lead_photo": "https://images.unsplash.com/photo-1570547280529-db0a5d5af2db?fm=jpg&fit=crop&w=1280&h=720&q=80",
+ "base_hashes": {
+  ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "CNAME": "8a9def23f9985dbac026fb70c197e3dc4626a3def7b5ba6e1a3874b18573ec19",
+  "README.md": "cf2abf04b4b77760ccf888345f2f2dc89a097bf8604a2eb38246daaba734f33e",
+  "archive.html": "0e74abcde396ecc93e0202ab14b9faf3cef42ead79b8d6895c21276563841775",
+  "disclosures.html": "c4f22bc5adf9e68e0ef8332dea1c40ce38b34edaaf15fd08031aa0870a2e8af5",
+  "docs/CUTOVER-REVIEW.md": "b1afb7708a940831279e34a1a0d341e0e6c46e2f3ce3589f9b5abeca2b2f7270",
+  "docs/nov13-2026/approved-content.json": "87f38d1a7cc07a1a7da4754826e6dd8aede085b7830d0c08dcd398a086636a4b",
+  "docs/nov13-2026/approved-web-source.txt": "8d8a26f5c44dd0614d793ceaee4b76e4b051f7c5d7e832fc4c3e9e8fe51060cb",
+  "docs/nov13-2026/base-hashes.json": "f96b8e23692119f8b41881471ac55cf9380e9c79b56e5d6225a652a757f5d57d",
+  "docs/nov14-2026/approved-content.json": "17c2014d2e145eb7d3764a1ddd68901b09f08552087d5dc5d2c76373b6dfcc43",
+  "docs/nov14-2026/approved-web-source.txt": "86f39c3307678203a8bc92ef600749d96549e7afc1b263069e72dfe7e7b12262",
+  "docs/nov14-2026/base-hashes.json": "93f75942779691623bc76dc7c8b5ef8d239f25d975ea8322ca07178af76ddb60",
+  "docs/nov15-2026/approved-content.json": "b19661a05b64cb367ef6a8221ec64db33f6ecc6753548130431a4d8f8bfca546",
+  "docs/nov15-2026/approved-web-source.txt": "f3091ff35feb78f6e7bceb81fe6ecfb6cc44ba22354206ae8ab6d53e1082e97b",
+  "docs/nov16-2026/approved-content.json": "1b942d5a3cb2a9a8135fcd526ef07032e708dc7df0793aeed38cc38316fd4237",
+  "docs/nov16-2026/approved-web-source.txt": "7e9ab653ed23588fa0eba0896a20ac8986c513f8d7cbbc25cf089e36e4bdc33a",
+  "docs/nov16-2026/old-rows.json": "9904bed9f7431ec7e06cf8d49d1429efb02814da6fbc5c528cc7c277dfb3ada0",
+  "docs/nov17-2026/approved-content.json": "2163a18e8709e5e04eba70246144fd41d8460c3eb0bc5f0e9c9ba31d94131b72",
+  "docs/nov17-2026/approved-web-source.txt": "54ad29d5583b0b70412b2755c1007eb841be0b7914695a390866f4437586dbd0",
+  "docs/nov17-2026/old-rows.json": "d4edd1fa884b7c8cd34068ee83e7ef8d039c4086941315d12c8aef3149e1c32d",
+  "docs/nov18-2026/approved-content.json": "51dcc2ccd1a56547abe0d70b02fd308a13eba7841d47ff1551aefba479bc5a8f",
+  "docs/nov18-2026/approved-web-source.txt": "4be024df8ab8774a7844441b1731300510536115083fbdab928ef67acb5a3a5f",
+  "docs/nov18-2026/old-rows.json": "7d9de3d2804cc686c7d1ac774d25fba2d1125c815c43d3bdf8f1e3a8b1a4db46",
+  "docs/nov19-2026/approved-content.json": "a784fa8ee677517e4efa149f772084d50fed34b9d4d989821b6e557ded8df2a5",
+  "docs/nov19-2026/approved-web-source.txt": "a3e29532c626d7f071c4ab585a9585a235ffe7df325ef0ac7c0b81e317424822",
+  "docs/nov19-2026/old-rows.json": "3430408fa4467be27c7073dfb3d2985bbbac9a9c7a2372b2cc7f5edd0ab892d5",
+  "docs/nov20-2026/approved-content.json": "15745010615c68cf6861c713fff92c8b772f66919c8bf80b509d067b8cd8c7be",
+  "docs/nov20-2026/approved-web-source.txt": "9eb8bd2a47c90a9f99e426c3c1c5e585dd734bc4bc2b28b37a07a7dc3b7b7133",
+  "docs/nov20-2026/old-rows.json": "a604bc389af45618469880e60515ac085cf28f9167bf7c4b230e06d96d6da34c",
+  "docs/nov21-2026/approved-content.json": "b470570b807071d694da5d0a6e34c7334b2d492dcfc3eae2ace7bba188df5571",
+  "docs/nov21-2026/approved-web-source.txt": "0a42ebde4ab8e2889dc5ccef00dbc7134c4809e69689115ddeccb2575be3e8f7",
+  "docs/nov21-2026/old-rows.json": "4aabd536f1fe2beb572912b60779502d8d3589c5129996c1d6f94e96a80affef",
+  "docs/nov22-2026/approved-content.json": "5a36afa51586138ad59528a688fa837171bec25dfb72b0f5ffecd00a284bf11e",
+  "docs/nov22-2026/approved-web-source.txt": "b1c27a332e712ce1cad353d66e0998b7ffe29d6a9293941b4b29505ef4b2d914",
+  "docs/nov22-2026/old-rows.json": "fb6c40e2204f9eda0639cbd860eb51ff204f58e1e6c6a0e943cfb1b67053ea3f",
+  "docs/retrospective-2026-11-12/base-preservation.json": "df820b461f8932436898122bac17bd0dbbccebb0a22a89bfb39d2c1b6aa43d1e",
+  "docs/retrospective-2026-11-12/content.json": "b1d9e2e35f359d5c8a65ab23df904049fa81998cc7982ce44793abecde4da118",
+  "docs/retrospective-2026-11-12/proposed-polls.json": "cc627b10383ba6cad71b9339f2c363bbc6a9b6cdd4a2dc1c564554ce00b58fa1",
+  "editions/2026-11-01.html": "9861d3939bc85beff4be59ca50ff835b52f6ba4957a61bea294afb47a208b8a6",
+  "editions/2026-11-02.html": "7a3cd574e51b0b2f7b5dab3a4fb4439017ae239444d43cd19a14d766e59bae60",
+  "editions/2026-11-03.html": "89352f8607c95dd23df698c382c3eae91c0540900337298f55744f46a42728dd",
+  "editions/2026-11-04.html": "874e884f495653e75fedbecc5718417f30456e6fdbd65353119a3fd9503dda01",
+  "editions/2026-11-05.html": "18c265c09607a6b520a2251854e63492dac1a41b7f71b71bacfe00a90adff8ef",
+  "editions/2026-11-06.html": "ba8869197b0005793092c9f13cba6bdf0e0aebe41a8613fffbc0ba125f0344a1",
+  "editions/2026-11-07.html": "66a98bedca13753d7e50f5f870aaf22be46a4807cf0370b66fb86f7f0014e2b6",
+  "editions/2026-11-08.html": "0dee3e8f69fd2dd58d0485260d058d4e32793ab19de13932205972821c8b59d7",
+  "editions/2026-11-09.html": "eee660647c0ebe50e0c64ce090f2cd26611eec9ed3aa87d761984e8fd1bb77a4",
+  "editions/2026-11-10.html": "aa4c87a6505baa9d7633bb5bb95d1cb4afb2ba1fcd4e513b19b4b43647a3d20a",
+  "editions/2026-11-11.html": "125ac6f7a0dc20d5e4a6b86f489e5f30c41205e768e11934ddb8d071d707afe8",
+  "editions/2026-11-12.html": "14d81292242d8406d452899ce6e357c018deb86dd6b4bc1a0d38660525f832f6",
+  "editions/2026-11-13.html": "b86616672bea2c14d879057dd54f5bd545e049e477c270bc742d78d4e88eb62f",
+  "editions/2026-11-14.html": "4668262801d121686e9481c8eeb79f4873e8a7d96e169c5092e0e79b31af87b1",
+  "editions/2026-11-15.html": "ebb5bdcb605bc1aaf63a3c27f5ed8aee8ba1aa61d6683b61a9aed7b09a881e55",
+  "editions/2026-11-16.html": "795692d0c86d025a2621204d63f03e3c98e7d48bcf63dee493940eb3000ed6ba",
+  "editions/2026-11-17.html": "1ce4d3c99f801782bfdbca049356508cde34918e4be6b2c68cb92ba7f9693056",
+  "editions/2026-11-18.html": "a72db2b9a7b5c16a34ac658e925744c893991f34e0fc3d28b9a98766eddbac6c",
+  "editions/2026-11-19.html": "5e359ba383411db255a13119df52c1de5a485723a088a41a8e9ea1b84f188da7",
+  "editions/2026-11-20.html": "2f7850bbe2a0a709faa711aead723ee6ac15a9c8a0680eb81c8a91ea500e10a3",
+  "editions/2026-11-21.html": "6b72099d9a818f5b37669b8bfd85d2ce1d4a76c1c07717814c8f40187c412b7f",
+  "editions/2026-11-22.html": "6993a432f128b19aaebc70dd0737c367bec11efe10ba68c43be872e4b0e7fd9a",
+  "editions/edition.css": "92b80a1a9ae954755fafb6f2819d9a3b1d3d848433405c3165adbec8f9513f0c",
+  "email/logo-white.png": "3e8c338c67ad7f7805de20c040a6c8c7f03268a5463966dc7ba4e6598be81c44",
+  "email/logo.png": "a933806f213fa5272fbc3a707073ab05ed4f48aba8a42a1003cec1ab1ef7bf5b",
+  "email/polls.js": "5a00b3ae4cfacf55f195c3ac1bb6768bf55092c8b738a190d2e8b6254aa41842",
+  "email/share-email.png": "088630d9858e4e97ed4bc4a73a36b018e6b2fd9b88406817c0b5016706a0c87a",
+  "email/share-facebook.png": "299c5c08903408b7fc442714d438a9494986b10eaffcee1d853dd6d5a7c9c6c6",
+  "email/share-linkedin.png": "20ae505ccb6fd5c4cf47ad166224581132acef03576e09711a94bccc0ecd63e2",
+  "email/share-reddit.png": "346a9f141597b14ccb5fd9f8f7dc8972f98aa3312944ed4f0e5c020b4b1484a8",
+  "email/share-threads.png": "20d52cebe7f6c8fd43d4f1d240003801a22911bfa27c0dad4b2d3208cec68362",
+  "email/share-whatsapp.png": "52ba2efa4110f9962dc207e4b5fa4e47edabd926b89880fdd4514410d73d6555",
+  "email/share-x.png": "18dec22e5636c73842c5c5e3042c293967852941e6669db38378b470f3b921c6",
+  "email/signup.css": "9ff94536febba4d4ab96897aa7fde38efc11bb9497302abe2d2e9ecad53ad445",
+  "email/signup.js": "6e76257c8a269fe0e65d4fa19c33ace17f9b02b50adbe055a4248b3900237ce4",
+  "email/thanks.html": "ec9b062f4ebc3de329c130b44849178efa543b5d6463a2a6b29360062e2f7d06",
+  "fonts/skim.woff": "21e835ce4959226678621dbaf8138a9dd96d2d3017ed58105e4b1311ef73f2e2",
+  "index.html": "9766962bb058d9f1ee5c1b531ab15c2efb86e4c0f320b493685e990d247c5b19",
+  "privacy.html": "c62cdf40c6af3f7628d2b9dd1b8ef0f9aa3a7e13efafeedc4d0bb4146232fd2b",
+  "scripts/sync_editions.py": "563d2c19a7bf5ff57d8c64e8e02c923a1ccfef6754023e6fcaa1155e5ef98d0a",
+  "scripts/sync_signup.py": "ae24d4681cb6e81d1f31e2c112d11d95ec4035a29c95a62cf8ef2f389bc6bb3a",
+  "settings/newsletter-form.json": "c4b4d5a7a69d3012b601821ad7144d986d3ccdc871c54b7fcf70770322ed626e",
+  "spacegrotesk-font-license.txt": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+  "terms.html": "2a66f5dd10d5f6a5d69c7880c2e48f0209a3e5d95a901a077384cb2edb6e5f35",
+  "tests/archive_compat.py": "9a25ef5867d4c794a2ff60c484e1d7382556c064e0db5c62b113f45256d0e778",
+  "tests/archive_preservation.json": "dd0fcda94d48f0e5a3311bcdddc2d2b8cea16e9dd887913498891bf2ad053838",
+  "tests/archive_shared_baseline.json": "b9cd97f2af89d2fc7a2071cf8e98dfd9e49a0190cd4fa0a49f08f227ae19a757",
+  "tests/links.test.py": "e8d6c5afee6faaa7b1be7b0b10b6faf41052b177068003a55bd15fef5dfd679c",
+  "tests/nov10_expected.json": "00a4591a6604b3c1977f39f8036990586049f84430d560afcd24f4459e023765",
+  "tests/nov10_fixture_edits.json": "967a0406a575387a6f70186cce0de3d459f48a3d30593055b6792581c617ae0b",
+  "tests/nov13_compat.py": "07839898489b2294a0921d44fda6550cb2f29bf68a74cb4414a110b121a0569d",
+  "tests/nov13_maintenance.json": "f9a9c8eda48777f2f063a0f28b67b7b51ff622ab5f551da9038439fb71a77608",
+  "tests/nov14_compat.py": "03d36d1db6031bbbc259e34b30b3731bfa3b2613bab77b14124aacbc2d4c810a",
+  "tests/nov14_maintenance.json": "b189812bbebe12db80ae0265c92a127d308333b58f9c9f0c99d85fec2e90f587",
+  "tests/nov15_compat.py": "a7146c9acb8495e4043ba924c345c89225b01f92d5820d05406289f8f9d14afc",
+  "tests/nov15_maintenance.json": "34a35f613660c0b682dd2832bc0cf72da7244497abab9085118e7588e61dff75",
+  "tests/nov16_compat.py": "f49960b133f3c1750c19a0e31d9786b0bf88df00866605dfb0cfb8296c7c5f60",
+  "tests/nov16_maintenance.json": "4959d4a754d20ca49e3435a2d75c774b4bcfdfe4f63f0595127e49222330714d",
+  "tests/nov17_compat.py": "9589c4c00903b139f5043d92614b9abc8281e9288000f2c0cf726b101377c427",
+  "tests/nov17_maintenance.json": "0b19109ca5032dbbd3ea99ba8eed055b98943b3208721af137bcfb1a5bae7aef",
+  "tests/nov18_compat.py": "b7cdfe146ba6180e7dd1158c40ce2e6659c8817aab29601e70bfad648f7a1a21",
+  "tests/nov18_maintenance.json": "12d8b5b2e45eb57992a5e3f572cf770a9fc7fae9c967283341c5de4e461e36fb",
+  "tests/nov19_compat.py": "3dda31323ff3249e64746ceb94276f4268995958b127551c9dcdce5da0554c7c",
+  "tests/nov19_maintenance.json": "d6ef905d47899909e041954d48d55b71ed59da838f6283b1d47aa3aa19116b5f",
+  "tests/nov20_compat.py": "a002e5edd503bd13433e7bf223e9d3d35a6333a59e7d95baf56773acc76bf348",
+  "tests/nov20_maintenance.json": "f6a1bd989da85a5479780b8ee52f28879e0554241937d84f4bb76f0eac651113",
+  "tests/nov21_compat.py": "6f1a19aea392e9014109a36d50202f22c001ceda57170c2525eea48760b348e1",
+  "tests/nov21_maintenance.json": "84927f707ea1cbe3b7f02f79743a50bdc7f3888de77746caf6156fdbd471e371",
+  "tests/nov22_compat.py": "1b77ffd3f4ba7b1d46b67d4b90b82530941026120ae523461f05dea1d62f4ad7",
+  "tests/nov22_maintenance.json": "3a179c90b9038c6d1c6488814df39335aff320ff29562a2c109b26af28173b5d",
+  "tests/nov7_expected.json": "6f19b6bafa29cab896e5d825a4fc46f4904874f939e837bb342a59ffec8acb44",
+  "tests/nov8_expected.json": "26e96544370646a1d5a817e2e2a65886a53918bd12aceba8012f0633e9f08a86",
+  "tests/nov8_fixture_edits.json": "69cc275407c2c77edda75b9a31502f438a72f4d3fe4eea346a00518dd7cd79b4",
+  "tests/nov9_expected.json": "5e9becbaa901ff3259e518f379d0e2c7f86eae98b1dfaa442a6d506698105b63",
+  "tests/nov9_fixture_edits.json": "71f8f1dedfcb688a166245f273b342f542cd8cc8a93782c5f478b8fc1abf53e8",
+  "tests/polls.browser.test.cjs": "d335824fdc26638221ef84fc5308899556f3f0eedd84c34fb64ec2d6486cc808",
+  "tests/retrospective_compat.py": "9d2424c02a13b4f4b4cebd41b04ae9687d19e285abf0b64ceced2fca039a7fd6",
+  "tests/retrospective_maintenance.json": "d99ede78892987ddc1ff79791af136e231766b9daba40017f1ee79f3f729134a",
+  "tests/signup.browser.test.cjs": "0ed3cfa44cddbee449d6cbe30ff341d0326c248fb40b04be19a1dc50b885e910",
+  "tests/signup_baseline.json": "50ac0bdf0312a0d15db7c8cf9df58ae73e95e5f7897788eb15ba605735d9477b",
+  "tests/signup_compat.py": "f99df9c6ccf86e2a7e5fe677e1a758c9d017085b4c2a26fa0d435e33ef02027b",
+  "tests/test_archive_sync.py": "68b5219a7338a346bd691a90fb0f7dc66094c34a8d281c6b1734ca3ae9927384",
+  "tests/test_nov10_site.py": "f347ee86e73f2c8f542d26f988d36d206dff3027ead527352178ab65f32fff96",
+  "tests/test_nov13_site.py": "cbddd17dc2a1558066c05d090c9769b9d8ec43af4fc7943aaa80f7477d3e440c",
+  "tests/test_nov14_site.py": "5971366d2818ecc6cd53119f00768c77864c30f7789ea2b3135c477d7ab4b24a",
+  "tests/test_nov15_site.py": "4344d3ef4c8ede4725c6e7a94511ef7f4155e519d7884d335b009369930339b1",
+  "tests/test_nov16_site.py": "26ed5b2ed63e725a86e662e3dae2b21ded98a30b023eed68543629f596bd8022",
+  "tests/test_nov17_site.py": "013745df4d9ea7a0a0c5c1b538edc425dbcd6110d9ce10a39412281506a13e16",
+  "tests/test_nov18_site.py": "1310ae940aea9569ec5c1ebc1738f286f0505fbc0dd6452c297ee0df25b1bd16",
+  "tests/test_nov19_site.py": "2d66838eac6de0785bf2c2d9a3e3439c668efddc4e7276f27500809947c6b252",
+  "tests/test_nov20_site.py": "5e4fb9db3c60903430a97f288b56f85166143d0eba135f14cd1b619daf2c1a24",
+  "tests/test_nov21_site.py": "79629729003f8103cd011d73267abb0fc8984452a78e0b8b998066e04b7d2581",
+  "tests/test_nov22_site.py": "9927104de35405a952df17deef1e25492c3e2cd75d75693da47e57a26d097a9d",
+  "tests/test_nov7_site.py": "33e4b557ec1272e00c34eb16ec2e711a4cfefd8281f542882d4fb1eb47d83bcb",
+  "tests/test_nov8_site.py": "ad7d6677b65a53d5c2e18f21b04c67ceb547f91998d14c2d8cbb57a98e449685",
+  "tests/test_nov9_site.py": "ac27ed9a31dde3ee52215137a07636a9bf47fd52911950f51f71f4a752dad043",
+  "tests/test_retrospective_archive.py": "7fdc188308ecec94d81d0e4b2e45e123370ebe46a2b6fb8a0912bd43242b3b2d",
+  "tests/test_signup.py": "e07091a856fd2d0f1c0402b0d9db799b90513f80653a19fa1eb22150e3bacbe8",
+  "tests/trivia.test.cjs": "b1193abc230fc0daad6da0b859904ab96db3eb4242b85c7af8ee8333efe5d644"
+ },
+ "pages": {
+  "archive.html": [
+   {
+    "before": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-23.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1570547280529-db0a5d5af2db?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Monday, November 23, 2026 · 6 min read</p><h3><span class=\"hl\">Ukraine Says It Sank a Russian Warship.</span><span class=\"hl\">COP31 Ends Without a Deal.</span><span class=\"hl\">Asia Moves to Steady Markets.</span></h3><p>Zelensky says Ukrainian sea drones sank a Russian corvette in Libya, Asian regulators act to calm markets and the US probes an Nvidia-linked firm.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Mexico Captures a ",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Ukraine Says It Sank a Russian Warship.\", \"COP31 Ends Without a Deal.\", \"Asia Moves to Steady Markets.\"], \"description\": \"Zelensky says Ukrainian sea drones sank a Russian corvette in Libya, Asian regulators act to calm markets and the US probes an Nvidia-linked firm.\", \"url\": \"editions/2026-11-23.html\", \"date\": \"Monday, November 23, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1570547280529-db0a5d5af2db?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Mexico Captures a "
+   }
+  ],
+  "editions/2026-11-01.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-02.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-03.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-04.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-05.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-06.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-07.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-08.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-09.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-10.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-11.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-12.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-13.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-14.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-15.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-16.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-17.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-18.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-19.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-20.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-21.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-22.html": [
+   {
+    "before": "r 21, 2026</span></a><a href=\"/archive.html\" style=\"text-align:right\">All editions →<br/><span>World Skim archive</span></a></nav></main><foote",
+    "after": "r 21, 2026</span></a><a href=\"2026-11-23.html\" style=\"text-align:right\">Next edition →<br/><span>Monday, November 23, 2026</span></a></nav></main><foote"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "email/thanks.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "index.html": [
+   {
+    "before": "switcher\" data-items=\"[[&quot;Mexico Arrests a Drug Lord From the FBI's Most Wanted List&quot;, &quot;editions/2026-11-22.html#s1&quot;], [&quot;South Korea's Education Minister Resigns Over an AI Cheating Scandal&quot;, &quot;editions/2026-11-22.html#s2&quot;], [&quot;Fire at an Indonesian Candy Factory Leaves Dozens Missing&quot;, &quot;editions/2026-11-22.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-22.html#s1\">Mexico Arrests a Drug Lord From the FBI's Most Wanted List</a></div><div class=\"sw-ctrl\"",
+    "after": "switcher\" data-items=\"[[&quot;Ukraine Says Its Sea Drones Sank a Russian Warship in Libya&quot;, &quot;editions/2026-11-23.html#s1&quot;], [&quot;Asian Governments Move to Steady Sliding Stock Markets&quot;, &quot;editions/2026-11-23.html#s2&quot;], [&quot;US Probes a Singapore Firm Linked to the Nvidia Chip Case&quot;, &quot;editions/2026-11-23.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-23.html#s1\">Ukraine Says Its Sea Drones Sank a Russian Warship in Libya</a></div><div class=\"sw-ctrl\""
+   },
+   {
+    "before": "li><a href=\"editions/2026-11-22.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-22.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-22.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-22.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-22.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-22.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-22.html#deep-dive\">Deep dive</a>",
+    "after": "li><a href=\"editions/2026-11-23.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-23.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-23.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-23.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-23.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-23.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-23.html#deep-dive\">Deep dive</a>"
+   },
+   {
+    "before": "s. <a href=\"editions/2026-11-22.html#s1\">Preview this part</a",
+    "after": "s. <a href=\"editions/2026-11-23.html#s1\">Preview this part</a"
+   },
+   {
+    "before": "e. <a href=\"editions/2026-11-22.html#world-view\">Preview this",
+    "after": "e. <a href=\"editions/2026-11-23.html#world-view\">Preview this"
+   },
+   {
+    "before": "e. <a href=\"editions/2026-11-22.html#deep-dive\">Preview this ",
+    "after": "e. <a href=\"editions/2026-11-23.html#deep-dive\">Preview this "
+   },
+   {
+    "before": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-23.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1570547280529-db0a5d5af2db?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Monday, November 23, 2026 · 6 min read</p><h3><span class=\"hl\">Ukraine Says It Sank a Russian Warship.</span><span class=\"hl\">COP31 Ends Without a Deal.</span><span class=\"hl\">Asia Moves to Steady Markets.</span></h3><p>Zelensky says Ukrainian sea drones sank a Russian corvette in Libya, Asian regulators act to calm markets and the US probes an Nvidia-linked firm.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": " →</span></div></a></article><article class=\"card\"><a href=\"editions/2026-11-17.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1591257773743-ea28737e33d9?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Tuesday, November 17, 2026 · 6 min read</p><h3><span class=\"hl\">Trump Meets the Quad in Manila.</span><span class=\"hl\">Britain&#x27;s Jobless Rate Dips.</span><span class=\"hl\">China Hits Back Over Chip Curbs.</span></h3><p>Trump meets Quad leaders in Manila amid protests, UK unemployment dips and China vows to answer US chip rules.</p><span class=\"read\">Read edition →</span></div></a></article></div><p class=\"loadmore\"><a cl",
+    "after": " →</span></div></a></article></div><p class=\"loadmore\"><a cl"
+   },
+   {
+    "before": "g. <a href=\"editions/2026-11-22.html\">See the latest edition<",
+    "after": "g. <a href=\"editions/2026-11-23.html\">See the latest edition<"
+   },
+   {
+    "before": "s. <a href=\"editions/2026-11-22.html\">Read the latest edition",
+    "after": "s. <a href=\"editions/2026-11-23.html\">Read the latest edition"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-22.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-22.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-23.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-23.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Mexico Captures a ",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Ukraine Says It Sank a Russian Warship.\", \"COP31 Ends Without a Deal.\", \"Asia Moves to Steady Markets.\"], \"description\": \"Zelensky says Ukrainian sea drones sank a Russian corvette in Libya, Asian regulators act to calm markets and the US probes an Nvidia-linked firm.\", \"url\": \"editions/2026-11-23.html\", \"date\": \"Monday, November 23, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1570547280529-db0a5d5af2db?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Mexico Captures a "
+   }
+  ]
+ }
+}
