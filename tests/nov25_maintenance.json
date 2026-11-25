@@ -1,0 +1,375 @@
+{
+ "brand": "world",
+ "source_sha256": "543ea3fb5adde5f20bd11f010df7b46801d998a6f1bd8ee534ca851f1efa26fa",
+ "content_sha256": "dac9dfca407a4681c6d1caa886b0cf06f7579cc83a734a175c947c32f5cadd18",
+ "lead_photo": "https://images.unsplash.com/photo-1764136093763-3f571bb2cf7e?fm=jpg&fit=crop&w=1280&h=720&q=80",
+ "base_hashes": {
+  ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "CNAME": "8a9def23f9985dbac026fb70c197e3dc4626a3def7b5ba6e1a3874b18573ec19",
+  "README.md": "cf2abf04b4b77760ccf888345f2f2dc89a097bf8604a2eb38246daaba734f33e",
+  "archive.html": "7ab21e6e0207219c02a66f914d967b40e4794c0a2571c8fca14ab3394d259512",
+  "disclosures.html": "c4f22bc5adf9e68e0ef8332dea1c40ce38b34edaaf15fd08031aa0870a2e8af5",
+  "docs/CUTOVER-REVIEW.md": "b1afb7708a940831279e34a1a0d341e0e6c46e2f3ce3589f9b5abeca2b2f7270",
+  "docs/nov13-2026/approved-content.json": "87f38d1a7cc07a1a7da4754826e6dd8aede085b7830d0c08dcd398a086636a4b",
+  "docs/nov13-2026/approved-web-source.txt": "8d8a26f5c44dd0614d793ceaee4b76e4b051f7c5d7e832fc4c3e9e8fe51060cb",
+  "docs/nov13-2026/base-hashes.json": "f96b8e23692119f8b41881471ac55cf9380e9c79b56e5d6225a652a757f5d57d",
+  "docs/nov14-2026/approved-content.json": "17c2014d2e145eb7d3764a1ddd68901b09f08552087d5dc5d2c76373b6dfcc43",
+  "docs/nov14-2026/approved-web-source.txt": "86f39c3307678203a8bc92ef600749d96549e7afc1b263069e72dfe7e7b12262",
+  "docs/nov14-2026/base-hashes.json": "93f75942779691623bc76dc7c8b5ef8d239f25d975ea8322ca07178af76ddb60",
+  "docs/nov15-2026/approved-content.json": "b19661a05b64cb367ef6a8221ec64db33f6ecc6753548130431a4d8f8bfca546",
+  "docs/nov15-2026/approved-web-source.txt": "f3091ff35feb78f6e7bceb81fe6ecfb6cc44ba22354206ae8ab6d53e1082e97b",
+  "docs/nov16-2026/approved-content.json": "1b942d5a3cb2a9a8135fcd526ef07032e708dc7df0793aeed38cc38316fd4237",
+  "docs/nov16-2026/approved-web-source.txt": "7e9ab653ed23588fa0eba0896a20ac8986c513f8d7cbbc25cf089e36e4bdc33a",
+  "docs/nov16-2026/old-rows.json": "9904bed9f7431ec7e06cf8d49d1429efb02814da6fbc5c528cc7c277dfb3ada0",
+  "docs/nov17-2026/approved-content.json": "2163a18e8709e5e04eba70246144fd41d8460c3eb0bc5f0e9c9ba31d94131b72",
+  "docs/nov17-2026/approved-web-source.txt": "54ad29d5583b0b70412b2755c1007eb841be0b7914695a390866f4437586dbd0",
+  "docs/nov17-2026/old-rows.json": "d4edd1fa884b7c8cd34068ee83e7ef8d039c4086941315d12c8aef3149e1c32d",
+  "docs/nov18-2026/approved-content.json": "51dcc2ccd1a56547abe0d70b02fd308a13eba7841d47ff1551aefba479bc5a8f",
+  "docs/nov18-2026/approved-web-source.txt": "4be024df8ab8774a7844441b1731300510536115083fbdab928ef67acb5a3a5f",
+  "docs/nov18-2026/old-rows.json": "7d9de3d2804cc686c7d1ac774d25fba2d1125c815c43d3bdf8f1e3a8b1a4db46",
+  "docs/nov19-2026/approved-content.json": "a784fa8ee677517e4efa149f772084d50fed34b9d4d989821b6e557ded8df2a5",
+  "docs/nov19-2026/approved-web-source.txt": "a3e29532c626d7f071c4ab585a9585a235ffe7df325ef0ac7c0b81e317424822",
+  "docs/nov19-2026/old-rows.json": "3430408fa4467be27c7073dfb3d2985bbbac9a9c7a2372b2cc7f5edd0ab892d5",
+  "docs/nov20-2026/approved-content.json": "15745010615c68cf6861c713fff92c8b772f66919c8bf80b509d067b8cd8c7be",
+  "docs/nov20-2026/approved-web-source.txt": "9eb8bd2a47c90a9f99e426c3c1c5e585dd734bc4bc2b28b37a07a7dc3b7b7133",
+  "docs/nov20-2026/old-rows.json": "a604bc389af45618469880e60515ac085cf28f9167bf7c4b230e06d96d6da34c",
+  "docs/nov21-2026/approved-content.json": "b470570b807071d694da5d0a6e34c7334b2d492dcfc3eae2ace7bba188df5571",
+  "docs/nov21-2026/approved-web-source.txt": "0a42ebde4ab8e2889dc5ccef00dbc7134c4809e69689115ddeccb2575be3e8f7",
+  "docs/nov21-2026/old-rows.json": "4aabd536f1fe2beb572912b60779502d8d3589c5129996c1d6f94e96a80affef",
+  "docs/nov22-2026/approved-content.json": "5a36afa51586138ad59528a688fa837171bec25dfb72b0f5ffecd00a284bf11e",
+  "docs/nov22-2026/approved-web-source.txt": "b1c27a332e712ce1cad353d66e0998b7ffe29d6a9293941b4b29505ef4b2d914",
+  "docs/nov22-2026/old-rows.json": "fb6c40e2204f9eda0639cbd860eb51ff204f58e1e6c6a0e943cfb1b67053ea3f",
+  "docs/nov23-2026/approved-content.json": "360c3fd6cf4c202868f39f825d3408c9e3ed725bb22fd6f899444378317e779b",
+  "docs/nov23-2026/approved-web-source.txt": "721e910a908406950f2b79c60c1bb31a108ae2f684d8b5f18b6e77d18488aa0b",
+  "docs/nov23-2026/old-rows.json": "f81677c6e2b8faa80ebafabfee740f954d292bc67b296cc21edb659583625633",
+  "docs/nov24-2026/approved-content.json": "f886d6448171659c0f362a277df8eb0773c2ea03fefbb41c48ac09b3a558cba9",
+  "docs/nov24-2026/approved-web-source.txt": "ff285a90fd2e0d41e91e0ed00ccf258f25c3f0f072857ada0903938da0458296",
+  "docs/nov24-2026/old-rows.json": "7ff67e60274a1bd8cc7d199e6f46fc18be104b2ca9d4e912ad91fcae8c9f56d4",
+  "docs/retrospective-2026-11-12/base-preservation.json": "df820b461f8932436898122bac17bd0dbbccebb0a22a89bfb39d2c1b6aa43d1e",
+  "docs/retrospective-2026-11-12/content.json": "b1d9e2e35f359d5c8a65ab23df904049fa81998cc7982ce44793abecde4da118",
+  "docs/retrospective-2026-11-12/proposed-polls.json": "cc627b10383ba6cad71b9339f2c363bbc6a9b6cdd4a2dc1c564554ce00b58fa1",
+  "editions/2026-11-01.html": "9934b727839c5ca3e5a498ebc22077a06bdddb35245ab30e10a3134271c79b01",
+  "editions/2026-11-02.html": "bd97d4a4f56476221c73fbfb296d6d2bb7fa8b7a44997ccd5f82a14392839dd0",
+  "editions/2026-11-03.html": "13c18041f96ae3a8eef4f1c581b646a0f95fb45fb1ca7091c6b76187bf034ded",
+  "editions/2026-11-04.html": "bfb29c2c17b2ae8ea570527a97b3c0f155cbeed5ac7548fb08d64387967d1203",
+  "editions/2026-11-05.html": "49deb5bdb81c730a93e80debbaf36040e0c52049d9c1d5ce4b71bd13ae4a265b",
+  "editions/2026-11-06.html": "fa5b679759c8b76642629a626cde5d025c33314a9a7db4134582d4c71373bbb1",
+  "editions/2026-11-07.html": "205da50da34460c3f91f15d51bf3b7a6941f8f522cdcd61f336c69d95831f124",
+  "editions/2026-11-08.html": "674b2387d37dfb6d5fe2a097883020ca280eb78b40312193fcef533d195c5bf7",
+  "editions/2026-11-09.html": "ee0f61d10f82523c5b34c93ded979066215f8d4a41244171ed39b040893da537",
+  "editions/2026-11-10.html": "5549a105b842b8af76bf837371c25079bfaf038858b137b8785f05d3047df750",
+  "editions/2026-11-11.html": "ed9591e34be88a6a5e47443a3c6829d0dfba5197beca86e9f650f4a900551946",
+  "editions/2026-11-12.html": "2b620de326a9b3e42839906cc84de8b2788a513ee512d36f25d526d84800cecd",
+  "editions/2026-11-13.html": "41d0b9f9ce2a658caafaf7a74d9bda53924e52072fb8362628f5701b000ceb7e",
+  "editions/2026-11-14.html": "a3885967c648c54f5e7443774fa4419d3f44c3801f569077a1008fa9ec21b918",
+  "editions/2026-11-15.html": "4afe4dab351f2e9a20f5e44b68ac0e16b9b0ab0498cdfabb17c97a85861d40e1",
+  "editions/2026-11-16.html": "4bb96676d17bc6e1d523c11d0029d3cd183b9fb0fc5812a74defc361c0135fb4",
+  "editions/2026-11-17.html": "f7a20a1e14ee66325b365d5fee5be0c3193c3d81383fc108f0512be0a5278060",
+  "editions/2026-11-18.html": "07e8f02327fd08e3589caadc323588fb7e65d562020f0afff0b65cce37d0ecb1",
+  "editions/2026-11-19.html": "353046a797bc007e2c41b5418927923cc137dc3a9d49ed30670b6b7cbb9bb909",
+  "editions/2026-11-20.html": "6656697a86942b8de1ab38c36f6dbda3e45ea545a08102354a455de865e49685",
+  "editions/2026-11-21.html": "57835e14f4a4f667ba967e672f22e5c2fd3bf7b763709a8d34cbf337d36f1911",
+  "editions/2026-11-22.html": "0cc62119caa691f6aa39c29c6d38b45ed1c78e5d6655c76612980184cf3f449c",
+  "editions/2026-11-23.html": "aea23a92ee264c987b27f100b4a78283aefc3d8d69a143a3f58c4d0d8ffa865c",
+  "editions/2026-11-24.html": "75ca78b1da5da877afdb527739432781e1b1c66cf27f74a5a3ac5398798b6194",
+  "editions/edition.css": "92b80a1a9ae954755fafb6f2819d9a3b1d3d848433405c3165adbec8f9513f0c",
+  "email/logo-white.png": "3e8c338c67ad7f7805de20c040a6c8c7f03268a5463966dc7ba4e6598be81c44",
+  "email/logo.png": "a933806f213fa5272fbc3a707073ab05ed4f48aba8a42a1003cec1ab1ef7bf5b",
+  "email/polls.js": "5a00b3ae4cfacf55f195c3ac1bb6768bf55092c8b738a190d2e8b6254aa41842",
+  "email/share-email.png": "088630d9858e4e97ed4bc4a73a36b018e6b2fd9b88406817c0b5016706a0c87a",
+  "email/share-facebook.png": "299c5c08903408b7fc442714d438a9494986b10eaffcee1d853dd6d5a7c9c6c6",
+  "email/share-linkedin.png": "20ae505ccb6fd5c4cf47ad166224581132acef03576e09711a94bccc0ecd63e2",
+  "email/share-reddit.png": "346a9f141597b14ccb5fd9f8f7dc8972f98aa3312944ed4f0e5c020b4b1484a8",
+  "email/share-threads.png": "20d52cebe7f6c8fd43d4f1d240003801a22911bfa27c0dad4b2d3208cec68362",
+  "email/share-whatsapp.png": "52ba2efa4110f9962dc207e4b5fa4e47edabd926b89880fdd4514410d73d6555",
+  "email/share-x.png": "18dec22e5636c73842c5c5e3042c293967852941e6669db38378b470f3b921c6",
+  "email/signup.css": "9ff94536febba4d4ab96897aa7fde38efc11bb9497302abe2d2e9ecad53ad445",
+  "email/signup.js": "6e76257c8a269fe0e65d4fa19c33ace17f9b02b50adbe055a4248b3900237ce4",
+  "email/thanks.html": "82876fe211dd0d5bdc9ed8426f081e11c8c9bb026aa1c6f3e52303c9b074104f",
+  "fonts/skim.woff": "21e835ce4959226678621dbaf8138a9dd96d2d3017ed58105e4b1311ef73f2e2",
+  "index.html": "cac1b892630d68687b433767e39b8ede87d97d2292df7019212457660b45a858",
+  "privacy.html": "c62cdf40c6af3f7628d2b9dd1b8ef0f9aa3a7e13efafeedc4d0bb4146232fd2b",
+  "scripts/sync_editions.py": "563d2c19a7bf5ff57d8c64e8e02c923a1ccfef6754023e6fcaa1155e5ef98d0a",
+  "scripts/sync_signup.py": "ae24d4681cb6e81d1f31e2c112d11d95ec4035a29c95a62cf8ef2f389bc6bb3a",
+  "settings/newsletter-form.json": "c4b4d5a7a69d3012b601821ad7144d986d3ccdc871c54b7fcf70770322ed626e",
+  "spacegrotesk-font-license.txt": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+  "terms.html": "2a66f5dd10d5f6a5d69c7880c2e48f0209a3e5d95a901a077384cb2edb6e5f35",
+  "tests/archive_compat.py": "9a25ef5867d4c794a2ff60c484e1d7382556c064e0db5c62b113f45256d0e778",
+  "tests/archive_preservation.json": "dd0fcda94d48f0e5a3311bcdddc2d2b8cea16e9dd887913498891bf2ad053838",
+  "tests/archive_shared_baseline.json": "b9cd97f2af89d2fc7a2071cf8e98dfd9e49a0190cd4fa0a49f08f227ae19a757",
+  "tests/links.test.py": "e729d8aaac1bdeee69cb52468e42495b628f95e72162aae063e3fdc0a6d551c5",
+  "tests/nov10_expected.json": "00a4591a6604b3c1977f39f8036990586049f84430d560afcd24f4459e023765",
+  "tests/nov10_fixture_edits.json": "967a0406a575387a6f70186cce0de3d459f48a3d30593055b6792581c617ae0b",
+  "tests/nov13_compat.py": "07839898489b2294a0921d44fda6550cb2f29bf68a74cb4414a110b121a0569d",
+  "tests/nov13_maintenance.json": "f9a9c8eda48777f2f063a0f28b67b7b51ff622ab5f551da9038439fb71a77608",
+  "tests/nov14_compat.py": "03d36d1db6031bbbc259e34b30b3731bfa3b2613bab77b14124aacbc2d4c810a",
+  "tests/nov14_maintenance.json": "b189812bbebe12db80ae0265c92a127d308333b58f9c9f0c99d85fec2e90f587",
+  "tests/nov15_compat.py": "a7146c9acb8495e4043ba924c345c89225b01f92d5820d05406289f8f9d14afc",
+  "tests/nov15_maintenance.json": "34a35f613660c0b682dd2832bc0cf72da7244497abab9085118e7588e61dff75",
+  "tests/nov16_compat.py": "f49960b133f3c1750c19a0e31d9786b0bf88df00866605dfb0cfb8296c7c5f60",
+  "tests/nov16_maintenance.json": "4959d4a754d20ca49e3435a2d75c774b4bcfdfe4f63f0595127e49222330714d",
+  "tests/nov17_compat.py": "9589c4c00903b139f5043d92614b9abc8281e9288000f2c0cf726b101377c427",
+  "tests/nov17_maintenance.json": "0b19109ca5032dbbd3ea99ba8eed055b98943b3208721af137bcfb1a5bae7aef",
+  "tests/nov18_compat.py": "b7cdfe146ba6180e7dd1158c40ce2e6659c8817aab29601e70bfad648f7a1a21",
+  "tests/nov18_maintenance.json": "12d8b5b2e45eb57992a5e3f572cf770a9fc7fae9c967283341c5de4e461e36fb",
+  "tests/nov19_compat.py": "3dda31323ff3249e64746ceb94276f4268995958b127551c9dcdce5da0554c7c",
+  "tests/nov19_maintenance.json": "d6ef905d47899909e041954d48d55b71ed59da838f6283b1d47aa3aa19116b5f",
+  "tests/nov20_compat.py": "a002e5edd503bd13433e7bf223e9d3d35a6333a59e7d95baf56773acc76bf348",
+  "tests/nov20_maintenance.json": "f6a1bd989da85a5479780b8ee52f28879e0554241937d84f4bb76f0eac651113",
+  "tests/nov21_compat.py": "6f1a19aea392e9014109a36d50202f22c001ceda57170c2525eea48760b348e1",
+  "tests/nov21_maintenance.json": "84927f707ea1cbe3b7f02f79743a50bdc7f3888de77746caf6156fdbd471e371",
+  "tests/nov22_compat.py": "33d03398b96c27ce4d5f398bb718092db85721a62caa3ac5ca3f762ebb0c4897",
+  "tests/nov22_maintenance.json": "3a179c90b9038c6d1c6488814df39335aff320ff29562a2c109b26af28173b5d",
+  "tests/nov23_compat.py": "e9f30fc1e5e7aa778b300866d64bbbb6c5126c7a8afd73ac99c0899b7504cc60",
+  "tests/nov23_maintenance.json": "3cf02347d2b716c8dcae01710e20d44b7dbae5ef67f3d164437402e1e7f0dc54",
+  "tests/nov24_compat.py": "8bcd24d61164862c3cf862bdf85fc1948777e7ad6f66afce572b50281709a213",
+  "tests/nov24_maintenance.json": "afdf1fd664caa52b9805323761dae72232033d9f3e5cadf221ccff74caf37862",
+  "tests/nov7_expected.json": "6f19b6bafa29cab896e5d825a4fc46f4904874f939e837bb342a59ffec8acb44",
+  "tests/nov8_expected.json": "26e96544370646a1d5a817e2e2a65886a53918bd12aceba8012f0633e9f08a86",
+  "tests/nov8_fixture_edits.json": "69cc275407c2c77edda75b9a31502f438a72f4d3fe4eea346a00518dd7cd79b4",
+  "tests/nov9_expected.json": "5e9becbaa901ff3259e518f379d0e2c7f86eae98b1dfaa442a6d506698105b63",
+  "tests/nov9_fixture_edits.json": "71f8f1dedfcb688a166245f273b342f542cd8cc8a93782c5f478b8fc1abf53e8",
+  "tests/polls.browser.test.cjs": "d335824fdc26638221ef84fc5308899556f3f0eedd84c34fb64ec2d6486cc808",
+  "tests/retrospective_compat.py": "6f50bb9f0ca5c6e48daf4e9d9b9e3d0e7a46082214767f1701ddd595de55df32",
+  "tests/retrospective_maintenance.json": "d99ede78892987ddc1ff79791af136e231766b9daba40017f1ee79f3f729134a",
+  "tests/signup.browser.test.cjs": "0ed3cfa44cddbee449d6cbe30ff341d0326c248fb40b04be19a1dc50b885e910",
+  "tests/signup_baseline.json": "50ac0bdf0312a0d15db7c8cf9df58ae73e95e5f7897788eb15ba605735d9477b",
+  "tests/signup_compat.py": "f99df9c6ccf86e2a7e5fe677e1a758c9d017085b4c2a26fa0d435e33ef02027b",
+  "tests/test_archive_sync.py": "68b5219a7338a346bd691a90fb0f7dc66094c34a8d281c6b1734ca3ae9927384",
+  "tests/test_nov10_site.py": "f347ee86e73f2c8f542d26f988d36d206dff3027ead527352178ab65f32fff96",
+  "tests/test_nov13_site.py": "1673199b1dd6977eba230f7108c60bab6690021a40ead33ab7ea52702ff65a24",
+  "tests/test_nov14_site.py": "67535746873b142d1b1f941fe6dc59a4122711ae2df30a8627df631ba630ef94",
+  "tests/test_nov15_site.py": "c64d99e8c186fd6b82f6a8fba5205a883286d9f927c4d8f072e9452ab0f7c057",
+  "tests/test_nov16_site.py": "c3bcdcbba3c375066d6f05c6976e975415b22cdf7b3cbac83579fe60607e8ab5",
+  "tests/test_nov17_site.py": "013745df4d9ea7a0a0c5c1b538edc425dbcd6110d9ce10a39412281506a13e16",
+  "tests/test_nov18_site.py": "1310ae940aea9569ec5c1ebc1738f286f0505fbc0dd6452c297ee0df25b1bd16",
+  "tests/test_nov19_site.py": "2d66838eac6de0785bf2c2d9a3e3439c668efddc4e7276f27500809947c6b252",
+  "tests/test_nov20_site.py": "5e4fb9db3c60903430a97f288b56f85166143d0eba135f14cd1b619daf2c1a24",
+  "tests/test_nov21_site.py": "79629729003f8103cd011d73267abb0fc8984452a78e0b8b998066e04b7d2581",
+  "tests/test_nov22_site.py": "1fb406629538c6a9cc8d0971d8489dcf941076e3f650ebe2d1b99529164342ff",
+  "tests/test_nov23_site.py": "da93c7e19ae73aab984559e159264a27d80d29b1a1addfda617daa66278a81ee",
+  "tests/test_nov24_site.py": "a9f5fe44e7406b29515f5774e6de13f0c154d35fcdfba04b829138d118b27932",
+  "tests/test_nov7_site.py": "33e4b557ec1272e00c34eb16ec2e711a4cfefd8281f542882d4fb1eb47d83bcb",
+  "tests/test_nov8_site.py": "ad7d6677b65a53d5c2e18f21b04c67ceb547f91998d14c2d8cbb57a98e449685",
+  "tests/test_nov9_site.py": "ac27ed9a31dde3ee52215137a07636a9bf47fd52911950f51f71f4a752dad043",
+  "tests/test_retrospective_archive.py": "ea67c893deb0279ae6776d0aef1484b7332dd3468bb2c2fe3a053bd4fcb4b770",
+  "tests/test_signup.py": "e07091a856fd2d0f1c0402b0d9db799b90513f80653a19fa1eb22150e3bacbe8",
+  "tests/trivia.test.cjs": "b1193abc230fc0daad6da0b859904ab96db3eb4242b85c7af8ee8333efe5d644"
+ },
+ "pages": {
+  "archive.html": [
+   {
+    "before": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-25.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1764136093763-3f571bb2cf7e?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Wednesday, November 25, 2026 · 6 min read</p><h3><span class=\"hl\">Solomon Islands Drops Its China Pact.</span><span class=\"hl\">Pakistan Sends Its First Astronaut Up.</span><span class=\"hl\">A US Jury Convicts Huawei.</span></h3><p>Solomon Islands signs a treaty with Australia, Pakistan&#x27;s first astronaut reaches China&#x27;s space station and a US jury convicts Huawei.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Hasina Plans a Ret",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Solomon Islands Drops Its China Pact.\", \"Pakistan Sends Its First Astronaut Up.\", \"A US Jury Convicts Huawei.\"], \"description\": \"Solomon Islands signs a treaty with Australia, Pakistan's first astronaut reaches China's space station and a US jury convicts Huawei.\", \"url\": \"editions/2026-11-25.html\", \"date\": \"Wednesday, November 25, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1764136093763-3f571bb2cf7e?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Hasina Plans a Ret"
+   }
+  ],
+  "editions/2026-11-01.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-02.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-03.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-04.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-05.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-06.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-07.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-08.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-09.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-10.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-11.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-12.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-13.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-14.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-15.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-16.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-17.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-18.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-19.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-20.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-21.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-22.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-23.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-24.html": [
+   {
+    "before": "r 23, 2026</span></a><a href=\"/archive.html\" style=\"text-align:right\">All editions →<br/><span>World Skim archive</span></a></nav></main><foote",
+    "after": "r 23, 2026</span></a><a href=\"2026-11-25.html\" style=\"text-align:right\">Next edition →<br/><span>Wednesday, November 25, 2026</span></a></nav></main><foote"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "email/thanks.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "index.html": [
+   {
+    "before": "switcher\" data-items=\"[[&quot;Hasina Says She Plans to Return to Bangladesh on December 16&quot;, &quot;editions/2026-11-24.html#s1&quot;], [&quot;UK Sanctions Myanmar's Generals After the Genocide Ruling&quot;, &quot;editions/2026-11-24.html#s2&quot;], [&quot;France Flashes Recession Warnings as Sanofi Agrees a Big Deal&quot;, &quot;editions/2026-11-24.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-24.html#s1\">Hasina Says She Plans to Return to Bangladesh on December 16</a></div><div class=\"sw-ctrl\"",
+    "after": "switcher\" data-items=\"[[&quot;Solomon Islands Drops a China Pact for a Treaty With Australia&quot;, &quot;editions/2026-11-25.html#s1&quot;], [&quot;Pakistan's First Astronaut Joins a Chinese Space Mission&quot;, &quot;editions/2026-11-25.html#s2&quot;], [&quot;A US Jury Convicts Huawei but Clears It of Racketeering&quot;, &quot;editions/2026-11-25.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-25.html#s1\">Solomon Islands Drops a China Pact for a Treaty With Australia</a></div><div class=\"sw-ctrl\""
+   },
+   {
+    "before": "li><a href=\"editions/2026-11-24.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-24.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-24.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-24.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-24.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-24.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-24.html#deep-dive\">Deep dive</a>",
+    "after": "li><a href=\"editions/2026-11-25.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-25.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-25.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-25.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-25.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-25.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-25.html#deep-dive\">Deep dive</a>"
+   },
+   {
+    "before": "s. <a href=\"editions/2026-11-24.html#s1\">Preview this part</a",
+    "after": "s. <a href=\"editions/2026-11-25.html#s1\">Preview this part</a"
+   },
+   {
+    "before": "e. <a href=\"editions/2026-11-24.html#world-view\">Preview this",
+    "after": "e. <a href=\"editions/2026-11-25.html#world-view\">Preview this"
+   },
+   {
+    "before": "e. <a href=\"editions/2026-11-24.html#deep-dive\">Preview this ",
+    "after": "e. <a href=\"editions/2026-11-25.html#deep-dive\">Preview this "
+   },
+   {
+    "before": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-25.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1764136093763-3f571bb2cf7e?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Wednesday, November 25, 2026 · 6 min read</p><h3><span class=\"hl\">Solomon Islands Drops Its China Pact.</span><span class=\"hl\">Pakistan Sends Its First Astronaut Up.</span><span class=\"hl\">A US Jury Convicts Huawei.</span></h3><p>Solomon Islands signs a treaty with Australia, Pakistan&#x27;s first astronaut reaches China&#x27;s space station and a US jury convicts Huawei.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": " →</span></div></a></article><article class=\"card\"><a href=\"editions/2026-11-19.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1754326258936-ddf9d6a2c5e2?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Thursday, November 19, 2026 · 6 min read</p><h3><span class=\"hl\">UN Court Finds Myanmar Committed Genocide.</span><span class=\"hl\">Israeli Tanks Cross Gaza&#x27;s Yellow Line.</span><span class=\"hl\">Kenya&#x27;s Marathon Star Banned.</span></h3><p>The ICJ finds Myanmar committed genocide against the Rohingya, Israeli forces push past Gaza&#x27;s Yellow Line and Kenya&#x27;s Peres Jepchirchir gets a doping ban.</p><span class=\"read\">Read edition →</span></div></a></article></div><p class=\"loadmore\"><a cl",
+    "after": " →</span></div></a></article></div><p class=\"loadmore\"><a cl"
+   },
+   {
+    "before": "g. <a href=\"editions/2026-11-24.html\">See the latest edition<",
+    "after": "g. <a href=\"editions/2026-11-25.html\">See the latest edition<"
+   },
+   {
+    "before": "s. <a href=\"editions/2026-11-24.html\">Read the latest edition",
+    "after": "s. <a href=\"editions/2026-11-25.html\">Read the latest edition"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-24.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-24.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Hasina Plans a Ret",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Solomon Islands Drops Its China Pact.\", \"Pakistan Sends Its First Astronaut Up.\", \"A US Jury Convicts Huawei.\"], \"description\": \"Solomon Islands signs a treaty with Australia, Pakistan's first astronaut reaches China's space station and a US jury convicts Huawei.\", \"url\": \"editions/2026-11-25.html\", \"date\": \"Wednesday, November 25, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1764136093763-3f571bb2cf7e?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Hasina Plans a Ret"
+   }
+  ]
+ }
+}
