@@ -1,7 +1,7 @@
 {
  "brand": "world",
- "source_sha256": "55a058920b4f62779ae957fd6fc10305776200480476fc1b69a992f1a80df132",
- "content_sha256": "3565c431b6c4a890692a5def946dbbd44bccc1c415030fc4d87ed5f4e344faa3",
+ "source_sha256": "59332e3dbf7e7e932024d9873713248491b9e4c6e40c794192747e39e34624c8",
+ "content_sha256": "05efefb073116f60ba64442ad4e9fcb0ed3f7b3d121c0452a648e7c6567a989d",
  "lead_photo": "https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&fit=crop&w=1280&h=720&q=80",
  "base_hashes": {
   ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
@@ -167,7 +167,7 @@
   "archive.html": [
    {
     "before": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href",
-    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-26.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Thursday, November 26, 2026 · 6 min read</p><h3><span class=\"hl\">Myanmar Rejects Parts of a Genocide Ruling.</span><span class=\"hl\">South Korea Raises Rates Again.</span><span class=\"hl\">A Blast Hits a Bangkok Refinery.</span></h3><p>Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a Bangkok refinery blast injures seven.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-26.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Thursday, November 26, 2026 · 6 min read</p><h3><span class=\"hl\">Myanmar Rejects Parts of a Genocide Ruling.</span><span class=\"hl\">South Korea Raises Rates Again.</span><span class=\"hl\">A Blast Hits a Bangkok Refinery.</span></h3><p>Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a fire hits a Bangkok refinery.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
    },
    {
     "before": "i><a href=\"/editions/2026-11-25.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-25.html#tri\">Today's trivia</a><",
@@ -175,7 +175,7 @@
    },
    {
     "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Solomon Islands Dr",
-    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Myanmar Rejects Parts of a Genocide Ruling.\", \"South Korea Raises Rates Again.\", \"A Blast Hits a Bangkok Refinery.\"], \"description\": \"Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a Bangkok refinery blast injures seven.\", \"url\": \"editions/2026-11-26.html\", \"date\": \"Thursday, November 26, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Solomon Islands Dr"
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Myanmar Rejects Parts of a Genocide Ruling.\", \"South Korea Raises Rates Again.\", \"A Blast Hits a Bangkok Refinery.\"], \"description\": \"Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a fire hits a Bangkok refinery.\", \"url\": \"editions/2026-11-26.html\", \"date\": \"Thursday, November 26, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Solomon Islands Dr"
    }
   ],
   "editions/2026-11-01.html": [
@@ -341,7 +341,7 @@
   "index.html": [
    {
     "before": "switcher\" data-items=\"[[&quot;Solomon Islands Drops a China Pact for a Treaty With Australia&quot;, &quot;editions/2026-11-25.html#s1&quot;], [&quot;Pakistan's First Astronaut Joins a Chinese Space Mission&quot;, &quot;editions/2026-11-25.html#s2&quot;], [&quot;A US Jury Convicts Huawei but Clears It of Racketeering&quot;, &quot;editions/2026-11-25.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-25.html#s1\">Solomon Islands Drops a China Pact for a Treaty With Australia</a></div><div class=\"sw-ctrl\"",
-    "after": "switcher\" data-items=\"[[&quot;Myanmar Says It Will Defy Parts of the Genocide Ruling&quot;, &quot;editions/2026-11-26.html#s1&quot;], [&quot;South Korea Lifts Rates to a Two-Year High&quot;, &quot;editions/2026-11-26.html#s2&quot;], [&quot;An Explosion at a Bangkok Refinery Injures Seven&quot;, &quot;editions/2026-11-26.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-26.html#s1\">Myanmar Says It Will Defy Parts of the Genocide Ruling</a></div><div class=\"sw-ctrl\""
+    "after": "switcher\" data-items=\"[[&quot;Myanmar Says It Will Defy Parts of the Genocide Ruling&quot;, &quot;editions/2026-11-26.html#s1&quot;], [&quot;South Korea Lifts Rates to a Two-Year High&quot;, &quot;editions/2026-11-26.html#s2&quot;], [&quot;A Blast and Fire Hit a Bangkok Oil Refinery&quot;, &quot;editions/2026-11-26.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-26.html#s1\">Myanmar Says It Will Defy Parts of the Genocide Ruling</a></div><div class=\"sw-ctrl\""
    },
    {
     "before": "li><a href=\"editions/2026-11-25.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-25.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-25.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-25.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-25.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-25.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-25.html#deep-dive\">Deep dive</a>",
@@ -361,7 +361,7 @@
    },
    {
     "before": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href",
-    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-26.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Thursday, November 26, 2026 · 6 min read</p><h3><span class=\"hl\">Myanmar Rejects Parts of a Genocide Ruling.</span><span class=\"hl\">South Korea Raises Rates Again.</span><span class=\"hl\">A Blast Hits a Bangkok Refinery.</span></h3><p>Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a Bangkok refinery blast injures seven.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-26.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Thursday, November 26, 2026 · 6 min read</p><h3><span class=\"hl\">Myanmar Rejects Parts of a Genocide Ruling.</span><span class=\"hl\">South Korea Raises Rates Again.</span><span class=\"hl\">A Blast Hits a Bangkok Refinery.</span></h3><p>Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a fire hits a Bangkok refinery.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
    },
    {
     "before": " →</span></div></a></article><article class=\"card\"><a href=\"editions/2026-11-20.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1603085789691-771561c05570?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Friday, November 20, 2026 · 6 min read</p><h3><span class=\"hl\">Russia Hits Three Kyiv Bridges.</span><span class=\"hl\">Venezuela Signs a US Military Pact.</span><span class=\"hl\">Asia Tech Stocks Slide.</span></h3><p>Russia strikes three Kyiv bridges, Venezuela signs a military deal with the US and SoftBank leads an Asian tech sell-off.</p><span class=\"read\">Read edition →</span></div></a></article></div><p class=\"loadmore\"><a cl",
@@ -381,7 +381,7 @@
    },
    {
     "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Solomon Islands Dr",
-    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Myanmar Rejects Parts of a Genocide Ruling.\", \"South Korea Raises Rates Again.\", \"A Blast Hits a Bangkok Refinery.\"], \"description\": \"Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a Bangkok refinery blast injures seven.\", \"url\": \"editions/2026-11-26.html\", \"date\": \"Thursday, November 26, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Solomon Islands Dr"
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Myanmar Rejects Parts of a Genocide Ruling.\", \"South Korea Raises Rates Again.\", \"A Blast Hits a Bangkok Refinery.\"], \"description\": \"Myanmar defies parts of a genocide ruling, South Korea lifts rates to a two-year high and a fire hits a Bangkok refinery.\", \"url\": \"editions/2026-11-26.html\", \"date\": \"Thursday, November 26, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1777289953855-b9899b6ea5ab?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"Solomon Islands Dr"
    }
   ]
  }
