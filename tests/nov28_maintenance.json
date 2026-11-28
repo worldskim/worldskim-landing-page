@@ -1,7 +1,7 @@
 {
  "brand": "world",
- "source_sha256": "3ed06255e512b78f0cc355ac55e4029e8af0ed00166f4ef70497020ec4260f06",
- "content_sha256": "dc8ea0c57edc8780bed63b8a6458b048ac9a0bd020fe05417cca039239137403",
+ "source_sha256": "4028c2cf8d47f354941c27f7707cc162256ba1d71506d22b63d9d1a6431dff30",
+ "content_sha256": "4b6e9625d01bb4e05fda354179a2b73ccbe959fa4b48e7c30826806a83d2c7f1",
  "lead_photo": "https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80",
  "base_hashes": {
   ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
@@ -181,7 +181,7 @@
   "archive.html": [
    {
     "before": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href",
-    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-28.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 28, 2026 · 6 min read</p><h3><span class=\"hl\">Blast Near Afghan School Kills 7.</span><span class=\"hl\">MSF Says Gaza Strike Hit Clinic.</span><span class=\"hl\">Spain Votes on Sunday.</span></h3><p>An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-28.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 28, 2026 · 6 min read</p><h3><span class=\"hl\">Afghan School Blast Kills at Least 10.</span><span class=\"hl\">MSF Says Gaza Strike Hit Clinic.</span><span class=\"hl\">Spain Votes on Sunday.</span></h3><p>An Afghan school blast kills at least 10, MSF says a strike hit its Gaza clinic and Spain heads to the polls.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
    },
    {
     "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
@@ -189,7 +189,7 @@
    },
    {
     "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"UN Warns of 16 Hun",
-    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Blast Near Afghan School Kills 7.\", \"MSF Says Gaza Strike Hit Clinic.\", \"Spain Votes on Sunday.\"], \"description\": \"An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.\", \"url\": \"editions/2026-11-28.html\", \"date\": \"Saturday, November 28, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Warns of 16 Hun"
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Afghan School Blast Kills at Least 10.\", \"MSF Says Gaza Strike Hit Clinic.\", \"Spain Votes on Sunday.\"], \"description\": \"An Afghan school blast kills at least 10, MSF says a strike hit its Gaza clinic and Spain heads to the polls.\", \"url\": \"editions/2026-11-28.html\", \"date\": \"Saturday, November 28, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Warns of 16 Hun"
    }
   ],
   "editions/2026-11-01.html": [
@@ -367,7 +367,7 @@
   "index.html": [
    {
     "before": "switcher\" data-items=\"[[&quot;UN Agencies Warn Hunger Will Worsen in 16 Hotspots&quot;, &quot;editions/2026-11-27.html#s1&quot;], [&quot;Guinea-Bissau's Junta Pushes Elections Back to 2028&quot;, &quot;editions/2026-11-27.html#s2&quot;], [&quot;China's Chip Stocks Post a Record Gain After a Policy Pledge&quot;, &quot;editions/2026-11-27.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-27.html#s1\">UN Agencies Warn Hunger Will Worsen in 16 Hotspots</a></div><div class=\"sw-ctrl\"",
-    "after": "switcher\" data-items=\"[[&quot;Explosion Near a School in Eastern Afghanistan Kills Seven&quot;, &quot;editions/2026-11-28.html#s1&quot;], [&quot;MSF Says an Israeli Strike Killed Two Staff at Its Gaza Clinic&quot;, &quot;editions/2026-11-28.html#s2&quot;], [&quot;Spain Votes Sunday With the Far Right in Reach of Power&quot;, &quot;editions/2026-11-28.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-28.html#s1\">Explosion Near a School in Eastern Afghanistan Kills Seven</a></div><div class=\"sw-ctrl\""
+    "after": "switcher\" data-items=\"[[&quot;Explosion Near a School in Eastern Afghanistan Kills at Least 10&quot;, &quot;editions/2026-11-28.html#s1&quot;], [&quot;MSF Says an Israeli Strike Killed Two Staff at Its Gaza Clinic&quot;, &quot;editions/2026-11-28.html#s2&quot;], [&quot;Spain Votes Sunday With the Far Right in Reach of Power&quot;, &quot;editions/2026-11-28.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-28.html#s1\">Explosion Near a School in Eastern Afghanistan Kills at Least 10</a></div><div class=\"sw-ctrl\""
    },
    {
     "before": "li><a href=\"editions/2026-11-27.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-27.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-27.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-27.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-27.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-27.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-27.html#deep-dive\">Deep dive</a>",
@@ -387,7 +387,7 @@
    },
    {
     "before": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href",
-    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-28.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 28, 2026 · 6 min read</p><h3><span class=\"hl\">Blast Near Afghan School Kills 7.</span><span class=\"hl\">MSF Says Gaza Strike Hit Clinic.</span><span class=\"hl\">Spain Votes on Sunday.</span></h3><p>An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-28.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 28, 2026 · 6 min read</p><h3><span class=\"hl\">Afghan School Blast Kills at Least 10.</span><span class=\"hl\">MSF Says Gaza Strike Hit Clinic.</span><span class=\"hl\">Spain Votes on Sunday.</span></h3><p>An Afghan school blast kills at least 10, MSF says a strike hit its Gaza clinic and Spain heads to the polls.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
    },
    {
     "before": " →</span></div></a></article><article class=\"card\"><a href=\"editions/2026-11-22.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1759255259684-99b73888de50?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Sunday, November 22, 2026 · 6 min read</p><h3><span class=\"hl\">Mexico Captures a Most Wanted Drug Lord.</span><span class=\"hl\">South Korea&#x27;s Education Minister Quits.</span><span class=\"hl\">Factory Fire Leaves Dozens Missing.</span></h3><p>Mexican forces arrest a suspected cartel boss on the FBI&#x27;s most wanted list, South Korea&#x27;s education minister resigns and a factory fire hits Indonesia.</p><span class=\"read\">Read edition →</span></div></a></article></div><p class=\"loadmore\"><a cl",
@@ -407,7 +407,7 @@
    },
    {
     "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"UN Warns of 16 Hun",
-    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Blast Near Afghan School Kills 7.\", \"MSF Says Gaza Strike Hit Clinic.\", \"Spain Votes on Sunday.\"], \"description\": \"An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.\", \"url\": \"editions/2026-11-28.html\", \"date\": \"Saturday, November 28, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Warns of 16 Hun"
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Afghan School Blast Kills at Least 10.\", \"MSF Says Gaza Strike Hit Clinic.\", \"Spain Votes on Sunday.\"], \"description\": \"An Afghan school blast kills at least 10, MSF says a strike hit its Gaza clinic and Spain heads to the polls.\", \"url\": \"editions/2026-11-28.html\", \"date\": \"Saturday, November 28, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Warns of 16 Hun"
    }
   ]
  }

@@ -1,16 +1,16 @@
 {
-  "title": "Blast Near Afghan School Kills 7.\nMSF Says Gaza Strike Hit Clinic.\nSpain Votes on Sunday.",
-  "subject": "Blast Near Afghan School Kills 7. MSF Says Gaza Strike Hit Clinic. Spain Votes on Sunday.",
+  "title": "Afghan School Blast Kills at Least 10.\nMSF Says Gaza Strike Hit Clinic.\nSpain Votes on Sunday.",
+  "subject": "Afghan School Blast Kills at Least 10. MSF Says Gaza Strike Hit Clinic. Spain Votes on Sunday.",
   "preview_text": "An Afghan school blast, a Gaza clinic strike, Spain's vote, plus the rest of the world in six minutes.",
-  "description": "An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.",
+  "description": "An Afghan school blast kills at least 10, MSF says a strike hit its Gaza clinic and Spain heads to the polls.",
   "contents_extra": "How the Iran war is splitting fuel winners and losers, global updates, trivia and your poll",
   "stories": [
     {
       "topic": "afghanistan-kunar-asadabad-school-explosion-depot-nov28",
-      "title": "Explosion Near a School in Eastern Afghanistan Kills Seven",
+      "title": "Explosion Near a School in Eastern Afghanistan Kills at Least 10",
       "paragraphs": [
-        "<a href=\"https://www.bbc.com/news/articles/ckp80jyz6dl8o\">The BBC reports at least seven students were killed and 99 injured in an explosion near a school</a> in Afghanistan on Saturday morning. It happened in the Anderseir area of Asadabad, capital of Kunar province. A Taliban interior ministry spokesperson said initial investigations blamed negligence at a mining companies' explosives depot.",
-        "<a href=\"https://apnews.com/article/afghanistan-school-explosion-843fe51fe82d739eab076b2fbd4d8eb0\">AP quotes Kunar's culture and information director as saying the blast appeared to originate in a neighboring explosives depot</a>. Up to 15 of the wounded remain in hospital, he said, while the rest were discharged. Police said the explosion occurred at 10 a.m. AP notes safety standards at Afghan mining companies are often poor."
+        "<a href=\"https://www.bbc.com/news/articles/ckp80jyz6dl8o\">The BBC reports at least 10 students were killed and 110 injured in an explosion near a school</a> in Afghanistan on Saturday morning. It happened in the Anderseir area of Asadabad, capital of Kunar province. A Taliban interior ministry spokesperson said initial investigations blamed negligence at a mining companies' explosives depot.",
+        "<a href=\"https://apnews.com/article/afghanistan-school-explosion-843fe51fe82d739eab076b2fbd4d8eb0\">AP quotes Kunar's information director as saying the blast appeared to originate in a neighboring explosives depot</a>. He put the toll at seven dead and more than 90 wounded, with up to 15 still in hospital. Police said the explosion occurred at 10 a.m. AP notes safety standards at Afghan mining companies are often poor."
       ],
       "region": "world",
       "photo": {
@@ -118,7 +118,7 @@
   "qa_notes": {
     "status": "LOCAL_DRAFT_ONLY; parent review and combined validator required",
     "uncertainties": [
-      "Afghanistan: BBC (Taliban interior ministry) says 99 injured; AP (provincial director) says more than 90. Each figure attributed to its own source; title says seven killed, as both say.",
+      "Afghanistan: BBC (Taliban interior ministry) says 110 injured; AP (provincial director) says more than 90. Each figure attributed to its own source; BBC updated to 10 killed/110 injured at 11:18Z; AP still 7/90+ at capture; title uses BBC's figure.",
       "MSF strike happened the night of Nov 27 (MSF release dated 27/11/2026); BBC article Nov 28 06:52Z. Not in Nov 27 editions.",
       "Spain: CNBC cites El Pais polling averages; no polls published since Monday under Spanish law. Vote is Sunday Nov 29, future tense.",
       "Dangote (deep dive): Dec. 1 trading date is per CNBC citing multiple media reports; refinery's own Nov 25 page says listing date not formally confirmed. Older AP/refinery pages dropped (outside 48h window).",
