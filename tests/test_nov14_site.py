@@ -27,7 +27,7 @@ class Nov14(unittest.TestCase):
   current.form.replace_with(copy.deepcopy(source.form))
   current.select_one(".more-grid").replace_with(copy.deepcopy(source.select_one(".more-grid")))
   for a in current.select("footer a[href]"):
-   if a.get_text() in ("Latest edition","Today's trivia"):a["href"]=a["href"].replace("2026-11-27","2026-11-12").replace("2026-11-26","2026-11-12").replace("2026-11-25","2026-11-12").replace("2026-11-24","2026-11-12").replace("2026-11-23","2026-11-12").replace("2026-11-22","2026-11-12").replace("2026-11-21","2026-11-12").replace("2026-11-20","2026-11-12").replace("2026-11-19","2026-11-12").replace("2026-11-18","2026-11-12")
+   if a.get_text() in ("Latest edition","Today's trivia"):a["href"]=a["href"].replace("2026-11-28","2026-11-12").replace("2026-11-27","2026-11-12").replace("2026-11-26","2026-11-12").replace("2026-11-25","2026-11-12").replace("2026-11-24","2026-11-12").replace("2026-11-23","2026-11-12").replace("2026-11-22","2026-11-12").replace("2026-11-21","2026-11-12").replace("2026-11-20","2026-11-12").replace("2026-11-19","2026-11-12").replace("2026-11-18","2026-11-12")
   self.assertEqual(str(current),str(source))
  def test_all_base_pages_bytes_preserved_except_exact_maintenance(self):
   for name,expected in BASE.items():
@@ -52,17 +52,17 @@ class Nov14(unittest.TestCase):
   self.assertEqual(sync.planned(ROOT),{})
   self.assertEqual(signup.planned(ROOT),{})
   self.assertTrue((ROOT/"editions/2026-11-13.html").exists())
-  self.assertEqual(len(list((ROOT/"editions").glob("????-??-??.html"))),27)
+  self.assertEqual(len(list((ROOT/"editions").glob("????-??-??.html"))),28)
  def test_current_cards_switcher_metadata_and_chronology(self):
   doc=soup((ROOT/"editions/2026-11-14.html").read_text());lead=doc.select_one("article.story img")["src"]
   base="https://worldskim.com/editions/2026-11-14.html"
   self.assertEqual(doc.select_one('link[rel="canonical"]')["href"],base)
   self.assertEqual(doc.select_one('meta[property="og:url"]')["content"],base)
   self.assertEqual(doc.select_one('meta[property="og:image"]')["content"],lead)
-  for name,limit in (("index.html",6),("archive.html",27)):
+  for name,limit in (("index.html",6),("archive.html",28)):
    raw=(ROOT/name).read_text();home=soup(raw);entries=sync.read_config(raw)["editions"]
-   self.assertEqual(entries[13]["title"],C["title"].splitlines())
-   self.assertEqual(entries[13]["image"],lead)
+   self.assertEqual(entries[14]["title"],C["title"].splitlines())
+   self.assertEqual(entries[14]["image"],lead)
    self.assertEqual(len(home.select("#edition-grid article.card")),limit)
   home=soup(__import__("nov15_compat").restore_nov15((ROOT/"index.html").read_text(),"index.html"))
   self.assertEqual(json.loads(home.select_one(".switcher")["data-items"]),
