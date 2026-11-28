@@ -1,0 +1,414 @@
+{
+ "brand": "world",
+ "source_sha256": "3ed06255e512b78f0cc355ac55e4029e8af0ed00166f4ef70497020ec4260f06",
+ "content_sha256": "dc8ea0c57edc8780bed63b8a6458b048ac9a0bd020fe05417cca039239137403",
+ "lead_photo": "https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80",
+ "base_hashes": {
+  ".nojekyll": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+  "CNAME": "8a9def23f9985dbac026fb70c197e3dc4626a3def7b5ba6e1a3874b18573ec19",
+  "README.md": "cf2abf04b4b77760ccf888345f2f2dc89a097bf8604a2eb38246daaba734f33e",
+  "archive.html": "e98ec6097510297160101ca31d4871d344ee5a7d4374bfabca8adc4cb8e625a1",
+  "disclosures.html": "c4f22bc5adf9e68e0ef8332dea1c40ce38b34edaaf15fd08031aa0870a2e8af5",
+  "docs/CUTOVER-REVIEW.md": "b1afb7708a940831279e34a1a0d341e0e6c46e2f3ce3589f9b5abeca2b2f7270",
+  "docs/nov13-2026/approved-content.json": "87f38d1a7cc07a1a7da4754826e6dd8aede085b7830d0c08dcd398a086636a4b",
+  "docs/nov13-2026/approved-web-source.txt": "8d8a26f5c44dd0614d793ceaee4b76e4b051f7c5d7e832fc4c3e9e8fe51060cb",
+  "docs/nov13-2026/base-hashes.json": "f96b8e23692119f8b41881471ac55cf9380e9c79b56e5d6225a652a757f5d57d",
+  "docs/nov14-2026/approved-content.json": "17c2014d2e145eb7d3764a1ddd68901b09f08552087d5dc5d2c76373b6dfcc43",
+  "docs/nov14-2026/approved-web-source.txt": "86f39c3307678203a8bc92ef600749d96549e7afc1b263069e72dfe7e7b12262",
+  "docs/nov14-2026/base-hashes.json": "93f75942779691623bc76dc7c8b5ef8d239f25d975ea8322ca07178af76ddb60",
+  "docs/nov15-2026/approved-content.json": "b19661a05b64cb367ef6a8221ec64db33f6ecc6753548130431a4d8f8bfca546",
+  "docs/nov15-2026/approved-web-source.txt": "f3091ff35feb78f6e7bceb81fe6ecfb6cc44ba22354206ae8ab6d53e1082e97b",
+  "docs/nov16-2026/approved-content.json": "1b942d5a3cb2a9a8135fcd526ef07032e708dc7df0793aeed38cc38316fd4237",
+  "docs/nov16-2026/approved-web-source.txt": "7e9ab653ed23588fa0eba0896a20ac8986c513f8d7cbbc25cf089e36e4bdc33a",
+  "docs/nov16-2026/old-rows.json": "9904bed9f7431ec7e06cf8d49d1429efb02814da6fbc5c528cc7c277dfb3ada0",
+  "docs/nov17-2026/approved-content.json": "2163a18e8709e5e04eba70246144fd41d8460c3eb0bc5f0e9c9ba31d94131b72",
+  "docs/nov17-2026/approved-web-source.txt": "54ad29d5583b0b70412b2755c1007eb841be0b7914695a390866f4437586dbd0",
+  "docs/nov17-2026/old-rows.json": "d4edd1fa884b7c8cd34068ee83e7ef8d039c4086941315d12c8aef3149e1c32d",
+  "docs/nov18-2026/approved-content.json": "51dcc2ccd1a56547abe0d70b02fd308a13eba7841d47ff1551aefba479bc5a8f",
+  "docs/nov18-2026/approved-web-source.txt": "4be024df8ab8774a7844441b1731300510536115083fbdab928ef67acb5a3a5f",
+  "docs/nov18-2026/old-rows.json": "7d9de3d2804cc686c7d1ac774d25fba2d1125c815c43d3bdf8f1e3a8b1a4db46",
+  "docs/nov19-2026/approved-content.json": "a784fa8ee677517e4efa149f772084d50fed34b9d4d989821b6e557ded8df2a5",
+  "docs/nov19-2026/approved-web-source.txt": "a3e29532c626d7f071c4ab585a9585a235ffe7df325ef0ac7c0b81e317424822",
+  "docs/nov19-2026/old-rows.json": "3430408fa4467be27c7073dfb3d2985bbbac9a9c7a2372b2cc7f5edd0ab892d5",
+  "docs/nov20-2026/approved-content.json": "15745010615c68cf6861c713fff92c8b772f66919c8bf80b509d067b8cd8c7be",
+  "docs/nov20-2026/approved-web-source.txt": "9eb8bd2a47c90a9f99e426c3c1c5e585dd734bc4bc2b28b37a07a7dc3b7b7133",
+  "docs/nov20-2026/old-rows.json": "a604bc389af45618469880e60515ac085cf28f9167bf7c4b230e06d96d6da34c",
+  "docs/nov21-2026/approved-content.json": "b470570b807071d694da5d0a6e34c7334b2d492dcfc3eae2ace7bba188df5571",
+  "docs/nov21-2026/approved-web-source.txt": "0a42ebde4ab8e2889dc5ccef00dbc7134c4809e69689115ddeccb2575be3e8f7",
+  "docs/nov21-2026/old-rows.json": "4aabd536f1fe2beb572912b60779502d8d3589c5129996c1d6f94e96a80affef",
+  "docs/nov22-2026/approved-content.json": "5a36afa51586138ad59528a688fa837171bec25dfb72b0f5ffecd00a284bf11e",
+  "docs/nov22-2026/approved-web-source.txt": "b1c27a332e712ce1cad353d66e0998b7ffe29d6a9293941b4b29505ef4b2d914",
+  "docs/nov22-2026/old-rows.json": "fb6c40e2204f9eda0639cbd860eb51ff204f58e1e6c6a0e943cfb1b67053ea3f",
+  "docs/nov23-2026/approved-content.json": "360c3fd6cf4c202868f39f825d3408c9e3ed725bb22fd6f899444378317e779b",
+  "docs/nov23-2026/approved-web-source.txt": "721e910a908406950f2b79c60c1bb31a108ae2f684d8b5f18b6e77d18488aa0b",
+  "docs/nov23-2026/old-rows.json": "f81677c6e2b8faa80ebafabfee740f954d292bc67b296cc21edb659583625633",
+  "docs/nov24-2026/approved-content.json": "f886d6448171659c0f362a277df8eb0773c2ea03fefbb41c48ac09b3a558cba9",
+  "docs/nov24-2026/approved-web-source.txt": "ff285a90fd2e0d41e91e0ed00ccf258f25c3f0f072857ada0903938da0458296",
+  "docs/nov24-2026/old-rows.json": "7ff67e60274a1bd8cc7d199e6f46fc18be104b2ca9d4e912ad91fcae8c9f56d4",
+  "docs/nov25-2026/approved-content.json": "dac9dfca407a4681c6d1caa886b0cf06f7579cc83a734a175c947c32f5cadd18",
+  "docs/nov25-2026/approved-web-source.txt": "543ea3fb5adde5f20bd11f010df7b46801d998a6f1bd8ee534ca851f1efa26fa",
+  "docs/nov25-2026/old-rows.json": "7d81c8f9df268e226575b556ed13300e9d551bfb4f407b9554169afbd86a5e96",
+  "docs/nov26-2026/approved-content.json": "05efefb073116f60ba64442ad4e9fcb0ed3f7b3d121c0452a648e7c6567a989d",
+  "docs/nov26-2026/approved-web-source.txt": "59332e3dbf7e7e932024d9873713248491b9e4c6e40c794192747e39e34624c8",
+  "docs/nov26-2026/old-rows.json": "9ff5eba7e78f2c3a56bdbfdce19b55fe9320e2f888f81fb2cc46f0e76f12bcca",
+  "docs/nov27-2026/approved-content.json": "2e1f5c9ab5b98e5a01748f3cd322eb0255aa71c6e5fb1ee6dd2b67a50bd8e630",
+  "docs/nov27-2026/approved-web-source.txt": "2a0594a3ea5e1fa88da65a17f8928984a1e359a9fcc0a59f80334e83c5cbe0df",
+  "docs/nov27-2026/old-rows.json": "2711dcccba2ff66f1ff7e4f1b65eabed30eb262ea9a3df3d34b2152e3c3a123f",
+  "docs/retrospective-2026-11-12/base-preservation.json": "df820b461f8932436898122bac17bd0dbbccebb0a22a89bfb39d2c1b6aa43d1e",
+  "docs/retrospective-2026-11-12/content.json": "b1d9e2e35f359d5c8a65ab23df904049fa81998cc7982ce44793abecde4da118",
+  "docs/retrospective-2026-11-12/proposed-polls.json": "cc627b10383ba6cad71b9339f2c363bbc6a9b6cdd4a2dc1c564554ce00b58fa1",
+  "editions/2026-11-01.html": "9c5962e4b8d248bcea1ee9ba1c04ded00cb1e10e010da8326f96061af019d68f",
+  "editions/2026-11-02.html": "6c9d61015f9a7330938ba789050fe34121006f33659c354ab4d9c874fb3c01b8",
+  "editions/2026-11-03.html": "7adda7da3440b41c37411b69e261913c6f6eaa734b5fef575e2201cbe459c5c9",
+  "editions/2026-11-04.html": "39ec4009b3344736c9fdc00481a71004dcd335dd35cbaaacbc50871fa4de1c9b",
+  "editions/2026-11-05.html": "d57fe5b751757c8748ce7d9fcfbbfbec3e505baefa9302f3c63c44e9d97cb2d2",
+  "editions/2026-11-06.html": "a66e7c07c1970640eb57e6be68f78302565c8b2be3db14fd06c51efb2217d424",
+  "editions/2026-11-07.html": "68b5b300736c4135c17928692e1308a50271a386047c1048ad703ef1aadcd7a9",
+  "editions/2026-11-08.html": "43416dfb3bd578f0114f363628a636d597f29a193a90c5408febb88808df711f",
+  "editions/2026-11-09.html": "c7bb718b5f2279c743f78f0028fb1e50f7237ebe4ced251ee5460cec2474d63c",
+  "editions/2026-11-10.html": "8900ff2d014884a143e4914eb39bf60fff6a645fbdc2f6d43ac3f1f06f05a8f7",
+  "editions/2026-11-11.html": "b4500532cf3fe71d99230c9df5aa7f4608ad574d226c12612d45c2e4e44df72a",
+  "editions/2026-11-12.html": "53f9661a1b573f9ea8f15ebf9d1e4a133e1b3230d6fb441da7885e48863a7f22",
+  "editions/2026-11-13.html": "8dcd89b07e9c7553afc68bd5bb20d22932898011d181ab8898bbe919afc1511c",
+  "editions/2026-11-14.html": "17267b8945f215ff65816aefa497e0f7c189f85977508da1bd34eb6126b90dc1",
+  "editions/2026-11-15.html": "87cad4af245b991f93b075a3e9f1e8013805f4d00d1538e6fa2f4ec4614f6837",
+  "editions/2026-11-16.html": "3cfe28b322c479b56606d0d771cb2f4291ed191d4f24c4d973830d659408665d",
+  "editions/2026-11-17.html": "e929d152f67678db00a8480b6be3640d374564507765c46690ef34ec5ef5a8e4",
+  "editions/2026-11-18.html": "c752a78d3b1c5a4d49da228b003fb5ab14ad0bbf8cece378b80942f5a7076ec1",
+  "editions/2026-11-19.html": "7a3791c49d6095fe77cda4957a83c6b18b83224175475dda3186c98eec69a1ad",
+  "editions/2026-11-20.html": "4d17b1204e178808292c02cfedf20a2e18f9596ab6c235efd8fafe6c4d966328",
+  "editions/2026-11-21.html": "0a12d76ddade8dd44daafb2100059a6db9f5ab9c08be45f456625e9696eed405",
+  "editions/2026-11-22.html": "a6e0b6839198fa6ef4c67f086c6c3d230775350dc76ff1a10cac37b781fec849",
+  "editions/2026-11-23.html": "1f6129c3399bcf53a787c672bac995e125cbf8c70c49fe8b53fd083c0945afa9",
+  "editions/2026-11-24.html": "ba7885206fee15af3d4a7066884cc967cfd106c8c83aedc2102b1132c6fe9650",
+  "editions/2026-11-25.html": "54d5393e619e72b1e8bbffbf42f24c74a76e6736eff8ff6b480b1168d6d47eca",
+  "editions/2026-11-26.html": "36e6f4c89d05709cb7d9fab22cb67338d7cbefd1959b84ddbb5991cc7073f6e9",
+  "editions/2026-11-27.html": "ac9f13d2e86da7b2528066f0f83f5e6908fa28294b9009fb50eb07a6bb91ba22",
+  "editions/edition.css": "92b80a1a9ae954755fafb6f2819d9a3b1d3d848433405c3165adbec8f9513f0c",
+  "email/logo-white.png": "3e8c338c67ad7f7805de20c040a6c8c7f03268a5463966dc7ba4e6598be81c44",
+  "email/logo.png": "a933806f213fa5272fbc3a707073ab05ed4f48aba8a42a1003cec1ab1ef7bf5b",
+  "email/polls.js": "5a00b3ae4cfacf55f195c3ac1bb6768bf55092c8b738a190d2e8b6254aa41842",
+  "email/share-email.png": "088630d9858e4e97ed4bc4a73a36b018e6b2fd9b88406817c0b5016706a0c87a",
+  "email/share-facebook.png": "299c5c08903408b7fc442714d438a9494986b10eaffcee1d853dd6d5a7c9c6c6",
+  "email/share-linkedin.png": "20ae505ccb6fd5c4cf47ad166224581132acef03576e09711a94bccc0ecd63e2",
+  "email/share-reddit.png": "346a9f141597b14ccb5fd9f8f7dc8972f98aa3312944ed4f0e5c020b4b1484a8",
+  "email/share-threads.png": "20d52cebe7f6c8fd43d4f1d240003801a22911bfa27c0dad4b2d3208cec68362",
+  "email/share-whatsapp.png": "52ba2efa4110f9962dc207e4b5fa4e47edabd926b89880fdd4514410d73d6555",
+  "email/share-x.png": "18dec22e5636c73842c5c5e3042c293967852941e6669db38378b470f3b921c6",
+  "email/signup.css": "9ff94536febba4d4ab96897aa7fde38efc11bb9497302abe2d2e9ecad53ad445",
+  "email/signup.js": "6e76257c8a269fe0e65d4fa19c33ace17f9b02b50adbe055a4248b3900237ce4",
+  "email/thanks.html": "e8d601b3b176481b78e61da07cfdab76f92b7cef0933ecc73a932b20953deb9d",
+  "fonts/skim.woff": "21e835ce4959226678621dbaf8138a9dd96d2d3017ed58105e4b1311ef73f2e2",
+  "index.html": "5c2405b07e5f553d172ce805e46472ecbcc5ca6a50876aa8d1e10084bc7a614d",
+  "privacy.html": "c62cdf40c6af3f7628d2b9dd1b8ef0f9aa3a7e13efafeedc4d0bb4146232fd2b",
+  "scripts/sync_editions.py": "563d2c19a7bf5ff57d8c64e8e02c923a1ccfef6754023e6fcaa1155e5ef98d0a",
+  "scripts/sync_signup.py": "ae24d4681cb6e81d1f31e2c112d11d95ec4035a29c95a62cf8ef2f389bc6bb3a",
+  "settings/newsletter-form.json": "c4b4d5a7a69d3012b601821ad7144d986d3ccdc871c54b7fcf70770322ed626e",
+  "spacegrotesk-font-license.txt": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+  "terms.html": "2a66f5dd10d5f6a5d69c7880c2e48f0209a3e5d95a901a077384cb2edb6e5f35",
+  "tests/archive_compat.py": "9a25ef5867d4c794a2ff60c484e1d7382556c064e0db5c62b113f45256d0e778",
+  "tests/archive_preservation.json": "dd0fcda94d48f0e5a3311bcdddc2d2b8cea16e9dd887913498891bf2ad053838",
+  "tests/archive_shared_baseline.json": "b9cd97f2af89d2fc7a2071cf8e98dfd9e49a0190cd4fa0a49f08f227ae19a757",
+  "tests/links.test.py": "0692870aea978d25387b0906704511d5890f7fb10a96446441f7bdfea658f246",
+  "tests/nov10_expected.json": "00a4591a6604b3c1977f39f8036990586049f84430d560afcd24f4459e023765",
+  "tests/nov10_fixture_edits.json": "967a0406a575387a6f70186cce0de3d459f48a3d30593055b6792581c617ae0b",
+  "tests/nov13_compat.py": "07839898489b2294a0921d44fda6550cb2f29bf68a74cb4414a110b121a0569d",
+  "tests/nov13_maintenance.json": "f9a9c8eda48777f2f063a0f28b67b7b51ff622ab5f551da9038439fb71a77608",
+  "tests/nov14_compat.py": "03d36d1db6031bbbc259e34b30b3731bfa3b2613bab77b14124aacbc2d4c810a",
+  "tests/nov14_maintenance.json": "b189812bbebe12db80ae0265c92a127d308333b58f9c9f0c99d85fec2e90f587",
+  "tests/nov15_compat.py": "a7146c9acb8495e4043ba924c345c89225b01f92d5820d05406289f8f9d14afc",
+  "tests/nov15_maintenance.json": "34a35f613660c0b682dd2832bc0cf72da7244497abab9085118e7588e61dff75",
+  "tests/nov16_compat.py": "f49960b133f3c1750c19a0e31d9786b0bf88df00866605dfb0cfb8296c7c5f60",
+  "tests/nov16_maintenance.json": "4959d4a754d20ca49e3435a2d75c774b4bcfdfe4f63f0595127e49222330714d",
+  "tests/nov17_compat.py": "9589c4c00903b139f5043d92614b9abc8281e9288000f2c0cf726b101377c427",
+  "tests/nov17_maintenance.json": "0b19109ca5032dbbd3ea99ba8eed055b98943b3208721af137bcfb1a5bae7aef",
+  "tests/nov18_compat.py": "b7cdfe146ba6180e7dd1158c40ce2e6659c8817aab29601e70bfad648f7a1a21",
+  "tests/nov18_maintenance.json": "12d8b5b2e45eb57992a5e3f572cf770a9fc7fae9c967283341c5de4e461e36fb",
+  "tests/nov19_compat.py": "3dda31323ff3249e64746ceb94276f4268995958b127551c9dcdce5da0554c7c",
+  "tests/nov19_maintenance.json": "d6ef905d47899909e041954d48d55b71ed59da838f6283b1d47aa3aa19116b5f",
+  "tests/nov20_compat.py": "a002e5edd503bd13433e7bf223e9d3d35a6333a59e7d95baf56773acc76bf348",
+  "tests/nov20_maintenance.json": "f6a1bd989da85a5479780b8ee52f28879e0554241937d84f4bb76f0eac651113",
+  "tests/nov21_compat.py": "6f1a19aea392e9014109a36d50202f22c001ceda57170c2525eea48760b348e1",
+  "tests/nov21_maintenance.json": "84927f707ea1cbe3b7f02f79743a50bdc7f3888de77746caf6156fdbd471e371",
+  "tests/nov22_compat.py": "33d03398b96c27ce4d5f398bb718092db85721a62caa3ac5ca3f762ebb0c4897",
+  "tests/nov22_maintenance.json": "3a179c90b9038c6d1c6488814df39335aff320ff29562a2c109b26af28173b5d",
+  "tests/nov23_compat.py": "e9f30fc1e5e7aa778b300866d64bbbb6c5126c7a8afd73ac99c0899b7504cc60",
+  "tests/nov23_maintenance.json": "3cf02347d2b716c8dcae01710e20d44b7dbae5ef67f3d164437402e1e7f0dc54",
+  "tests/nov24_compat.py": "f4e1450b53c983e230a1332e39f8d0b919cf16af1aa8ce10f72f198904052d9f",
+  "tests/nov24_maintenance.json": "afdf1fd664caa52b9805323761dae72232033d9f3e5cadf221ccff74caf37862",
+  "tests/nov25_compat.py": "e55448d9470e5951013f1cc64de341cefec7f8117ffa714851fc0c6a71e0b919",
+  "tests/nov25_maintenance.json": "437df6c3a599062bbdb017c5cd4371f540b3e568ac2da4a4a6e585cb556dee21",
+  "tests/nov26_compat.py": "49b50cd3bf6c30ca5bd4dc0dfb81301f78be9f16520c738d44b18156d5849472",
+  "tests/nov26_maintenance.json": "72e209135cb7f1caa9228a37733f307d9948a66f5e5df8ebc30e10434c37fe28",
+  "tests/nov27_compat.py": "e5f4dca90fa650b175083c0bff8cfbfd6908c772efd9b1a3fdd6862664b49428",
+  "tests/nov27_maintenance.json": "8cf428c5ecfc1ac519595aceae4faa2f86184df19d2abd9cc7e22f6bf1e04a1e",
+  "tests/nov7_expected.json": "6f19b6bafa29cab896e5d825a4fc46f4904874f939e837bb342a59ffec8acb44",
+  "tests/nov8_expected.json": "26e96544370646a1d5a817e2e2a65886a53918bd12aceba8012f0633e9f08a86",
+  "tests/nov8_fixture_edits.json": "69cc275407c2c77edda75b9a31502f438a72f4d3fe4eea346a00518dd7cd79b4",
+  "tests/nov9_expected.json": "5e9becbaa901ff3259e518f379d0e2c7f86eae98b1dfaa442a6d506698105b63",
+  "tests/nov9_fixture_edits.json": "71f8f1dedfcb688a166245f273b342f542cd8cc8a93782c5f478b8fc1abf53e8",
+  "tests/polls.browser.test.cjs": "d335824fdc26638221ef84fc5308899556f3f0eedd84c34fb64ec2d6486cc808",
+  "tests/retrospective_compat.py": "54500adab183aaa28b7553cb31bc6bafc29d4fe7782f3163abae7ad3c07c71fd",
+  "tests/retrospective_maintenance.json": "d99ede78892987ddc1ff79791af136e231766b9daba40017f1ee79f3f729134a",
+  "tests/signup.browser.test.cjs": "0ed3cfa44cddbee449d6cbe30ff341d0326c248fb40b04be19a1dc50b885e910",
+  "tests/signup_baseline.json": "50ac0bdf0312a0d15db7c8cf9df58ae73e95e5f7897788eb15ba605735d9477b",
+  "tests/signup_compat.py": "f99df9c6ccf86e2a7e5fe677e1a758c9d017085b4c2a26fa0d435e33ef02027b",
+  "tests/test_archive_sync.py": "68b5219a7338a346bd691a90fb0f7dc66094c34a8d281c6b1734ca3ae9927384",
+  "tests/test_nov10_site.py": "f347ee86e73f2c8f542d26f988d36d206dff3027ead527352178ab65f32fff96",
+  "tests/test_nov13_site.py": "79d0d716b1f307a15cddcbda82df177ce4d68595bae56ddbe20178cbdd03ad58",
+  "tests/test_nov14_site.py": "48f7b119a2f1b7136a0ea6cf9755d1a7d2e807592bd951cef78bec7e06657d71",
+  "tests/test_nov15_site.py": "ee15460dfa9712f5471bbe47023920d9fef59f5f408fad23c58eeee4ed413a38",
+  "tests/test_nov16_site.py": "7ad19b44270fc12fefb73b18487a02446f7060f5381a540afc263c115f6a2123",
+  "tests/test_nov17_site.py": "013745df4d9ea7a0a0c5c1b538edc425dbcd6110d9ce10a39412281506a13e16",
+  "tests/test_nov18_site.py": "1310ae940aea9569ec5c1ebc1738f286f0505fbc0dd6452c297ee0df25b1bd16",
+  "tests/test_nov19_site.py": "2d66838eac6de0785bf2c2d9a3e3439c668efddc4e7276f27500809947c6b252",
+  "tests/test_nov20_site.py": "5e4fb9db3c60903430a97f288b56f85166143d0eba135f14cd1b619daf2c1a24",
+  "tests/test_nov21_site.py": "79629729003f8103cd011d73267abb0fc8984452a78e0b8b998066e04b7d2581",
+  "tests/test_nov22_site.py": "1fb406629538c6a9cc8d0971d8489dcf941076e3f650ebe2d1b99529164342ff",
+  "tests/test_nov23_site.py": "da93c7e19ae73aab984559e159264a27d80d29b1a1addfda617daa66278a81ee",
+  "tests/test_nov24_site.py": "5aa06702abb59f99ee05024eca60724f0592a7998ec74c9f887395ba461da874",
+  "tests/test_nov25_site.py": "4703ed3c3a57984d865fabb5d4a4988b1390302927504e6b676321a19fb82501",
+  "tests/test_nov26_site.py": "5234eb67b903aee17d37b17df67c13aeb91405da915651cc44630cce7cfe16d6",
+  "tests/test_nov27_site.py": "9add717cec2dc9de8061b0c7042cb8ea64b9d7068d500861a7e443a6d271b558",
+  "tests/test_nov7_site.py": "33e4b557ec1272e00c34eb16ec2e711a4cfefd8281f542882d4fb1eb47d83bcb",
+  "tests/test_nov8_site.py": "ad7d6677b65a53d5c2e18f21b04c67ceb547f91998d14c2d8cbb57a98e449685",
+  "tests/test_nov9_site.py": "ac27ed9a31dde3ee52215137a07636a9bf47fd52911950f51f71f4a752dad043",
+  "tests/test_retrospective_archive.py": "ff0ffd6719505547bcb702d92085d094b2979320b477d29d12f57f772f775909",
+  "tests/test_signup.py": "e07091a856fd2d0f1c0402b0d9db799b90513f80653a19fa1eb22150e3bacbe8",
+  "tests/trivia.test.cjs": "b1193abc230fc0daad6da0b859904ab96db3eb4242b85c7af8ee8333efe5d644"
+ },
+ "pages": {
+  "archive.html": [
+   {
+    "before": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "lass=\"grid3\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-28.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 28, 2026 · 6 min read</p><h3><span class=\"hl\">Blast Near Afghan School Kills 7.</span><span class=\"hl\">MSF Says Gaza Strike Hit Clinic.</span><span class=\"hl\">Spain Votes on Sunday.</span></h3><p>An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"UN Warns of 16 Hun",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Blast Near Afghan School Kills 7.\", \"MSF Says Gaza Strike Hit Clinic.\", \"Spain Votes on Sunday.\"], \"description\": \"An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.\", \"url\": \"editions/2026-11-28.html\", \"date\": \"Saturday, November 28, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Warns of 16 Hun"
+   }
+  ],
+  "editions/2026-11-01.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-02.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-03.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-04.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-05.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-06.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-07.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-08.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-09.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-10.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-11.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-12.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-13.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-14.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-15.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-16.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-17.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-18.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-19.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-20.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-21.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-22.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-23.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-24.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-25.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-26.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "editions/2026-11-27.html": [
+   {
+    "before": "r 26, 2026</span></a><a href=\"/archive.html\" style=\"text-align:right\">All editions →<br/><span>World Skim archive</span></a></nav></main><foote",
+    "after": "r 26, 2026</span></a><a href=\"2026-11-28.html\" style=\"text-align:right\">Next edition →<br/><span>Saturday, November 28, 2026</span></a></nav></main><foote"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "email/thanks.html": [
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   }
+  ],
+  "index.html": [
+   {
+    "before": "switcher\" data-items=\"[[&quot;UN Agencies Warn Hunger Will Worsen in 16 Hotspots&quot;, &quot;editions/2026-11-27.html#s1&quot;], [&quot;Guinea-Bissau's Junta Pushes Elections Back to 2028&quot;, &quot;editions/2026-11-27.html#s2&quot;], [&quot;China's Chip Stocks Post a Record Gain After a Policy Pledge&quot;, &quot;editions/2026-11-27.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-27.html#s1\">UN Agencies Warn Hunger Will Worsen in 16 Hotspots</a></div><div class=\"sw-ctrl\"",
+    "after": "switcher\" data-items=\"[[&quot;Explosion Near a School in Eastern Afghanistan Kills Seven&quot;, &quot;editions/2026-11-28.html#s1&quot;], [&quot;MSF Says an Israeli Strike Killed Two Staff at Its Gaza Clinic&quot;, &quot;editions/2026-11-28.html#s2&quot;], [&quot;Spain Votes Sunday With the Far Right in Reach of Power&quot;, &quot;editions/2026-11-28.html#s3&quot;]]\" role=\"region\"><div class=\"sw-body\"><p class=\"sw-label\">Top story · 1 of 3</p><a aria-live=\"polite\" class=\"sw-link\" href=\"editions/2026-11-28.html#s1\">Explosion Near a School in Eastern Afghanistan Kills Seven</a></div><div class=\"sw-ctrl\""
+   },
+   {
+    "before": "li><a href=\"editions/2026-11-27.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-27.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-27.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-27.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-27.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-27.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-27.html#deep-dive\">Deep dive</a>",
+    "after": "li><a href=\"editions/2026-11-28.html#world-view\">World view</a></li><li><a href=\"editions/2026-11-28.html#need-to-know\">Need to know</a></li><li><a href=\"editions/2026-11-28.html#money-markets\">Money &amp; markets</a></li><li><a href=\"editions/2026-11-28.html#future-frontiers\">Future frontiers</a></li><li><a href=\"editions/2026-11-28.html#the-score\">The score</a></li><li><a href=\"editions/2026-11-28.html#life-culture\">Life &amp; culture</a></li><li><a href=\"editions/2026-11-28.html#deep-dive\">Deep dive</a>"
+   },
+   {
+    "before": "s. <a href=\"editions/2026-11-27.html#s1\">Preview this part</a",
+    "after": "s. <a href=\"editions/2026-11-28.html#s1\">Preview this part</a"
+   },
+   {
+    "before": "e. <a href=\"editions/2026-11-27.html#world-view\">Preview this",
+    "after": "e. <a href=\"editions/2026-11-28.html#world-view\">Preview this"
+   },
+   {
+    "before": "e. <a href=\"editions/2026-11-27.html#deep-dive\">Preview this ",
+    "after": "e. <a href=\"editions/2026-11-28.html#deep-dive\">Preview this "
+   },
+   {
+    "before": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href",
+    "after": "ta-limit=\"6\" id=\"edition-grid\"><article class=\"card\"><a href=\"editions/2026-11-28.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Saturday, November 28, 2026 · 6 min read</p><h3><span class=\"hl\">Blast Near Afghan School Kills 7.</span><span class=\"hl\">MSF Says Gaza Strike Hit Clinic.</span><span class=\"hl\">Spain Votes on Sunday.</span></h3><p>An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.</p><span class=\"read\">Read edition →</span></div></a></article><article class=\"card\"><a href"
+   },
+   {
+    "before": " →</span></div></a></article><article class=\"card\"><a href=\"editions/2026-11-22.html\" class=\"card-link\"><div class=\"cover\"><img src=\"https://images.unsplash.com/photo-1759255259684-99b73888de50?fm=jpg&amp;fit=crop&amp;w=1280&amp;h=720&amp;q=80\" alt=\"\" loading=\"lazy\" width=\"800\" height=\"450\"></div><div class=\"card-copy\"><p class=\"meta\">Sunday, November 22, 2026 · 6 min read</p><h3><span class=\"hl\">Mexico Captures a Most Wanted Drug Lord.</span><span class=\"hl\">South Korea&#x27;s Education Minister Quits.</span><span class=\"hl\">Factory Fire Leaves Dozens Missing.</span></h3><p>Mexican forces arrest a suspected cartel boss on the FBI&#x27;s most wanted list, South Korea&#x27;s education minister resigns and a factory fire hits Indonesia.</p><span class=\"read\">Read edition →</span></div></a></article></div><p class=\"loadmore\"><a cl",
+    "after": " →</span></div></a></article></div><p class=\"loadmore\"><a cl"
+   },
+   {
+    "before": "g. <a href=\"editions/2026-11-27.html\">See the latest edition<",
+    "after": "g. <a href=\"editions/2026-11-28.html\">See the latest edition<"
+   },
+   {
+    "before": "s. <a href=\"editions/2026-11-27.html\">Read the latest edition",
+    "after": "s. <a href=\"editions/2026-11-28.html\">Read the latest edition"
+   },
+   {
+    "before": "i><a href=\"/editions/2026-11-27.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-27.html#tri\">Today's trivia</a><",
+    "after": "i><a href=\"/editions/2026-11-28.html\">Latest edition</a></li><li><a href=\"/archive.html\">Past editions</a></li><li><a href=\"/editions/2026-11-28.html#tri\">Today's trivia</a><"
+   },
+   {
+    "before": "var SITE_CONFIG={\"editions\": [{\"title\": [\"UN Warns of 16 Hun",
+    "after": "var SITE_CONFIG={\"editions\": [{\"title\": [\"Blast Near Afghan School Kills 7.\", \"MSF Says Gaza Strike Hit Clinic.\", \"Spain Votes on Sunday.\"], \"description\": \"An Afghan school blast kills seven, MSF says a strike hit its Gaza clinic and Spain heads to the polls.\", \"url\": \"editions/2026-11-28.html\", \"date\": \"Saturday, November 28, 2026\", \"readingTime\": \"6 min read\", \"image\": \"https://images.unsplash.com/photo-1693655540803-3e514e5d4740?fm=jpg&fit=crop&w=1280&h=720&q=80\"}, {\"title\": [\"UN Warns of 16 Hun"
+   }
+  ]
+ }
+}
